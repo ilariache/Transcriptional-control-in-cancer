@@ -1,0 +1,435 @@
+\graphicspath{{chapters/_resources/}}
+
+\chapter{CTCF}
+
+
+
+\hypertarget{transcriptional-control-in-cancer}{%
+\section{7- Transcriptional Control in Cancer}\label{transcriptional-control-in-cancer}}
+
+\href{:/debeaed24e9c444e88c9a5ad1e251391}{Lecture 8 - TCiC}
+
+RNA stability is tightly regulated, we expected that uncut RNAs are less stable than processed ones. The export in the cytoplasm of mRNAs is mediated by Transcription Exports (TERT); non-spliced/retained RNAs in the nucleus can be targeted for degradation. This is a side concept, but still linked inextricably to transcription and cell proliferation. By increasing transcription export also gene expression increases, and therefore cells are able to achieve a higher proliferation.
+
+From last lecture: the presence of eRNAs gives us the chance to discriminate between active and poised enhancers. How can we study the impact of enhancers in cancer?
+
+\begin{itemize}
+\tightlist
+\item
+  chromatin marks
+\item
+  reporter assay
+\end{itemize}
+
+Hypothesis: the rs6983267 risk allele may regulate MYC during tumorigenesis
+
+\begin{figure}
+\centering
+\includegraphics[width=\textwidth]{../_resources/Screenshot_2022-10-14_at_10-52-51.png}
+\caption{Screenshot 2022-10-14 at 10.52.51.png}
+\end{figure}
+
+TCF4 and $\beta$-catenin were enriched with the rs6983267 risk allele.
+
+\begin{figure}
+\centering
+\includegraphics[width=\textwidth]{../_resources/Screenshot_2022-10-14_at_10-54-02.png}
+\caption{Screenshot 2022-10-14 at 10.54.02.png}
+\end{figure}
+
+The peak is placed right on rs6983267 risk allele in ChIP-seq (e). In Sanger seq. (f), we cannot discriminate if a G or T is present in the input, whereas in the pull down of TCF4 G has a clearly higher signal.
+
+By analyzing TCF4 binding sites genome-wide, the risk allele was found to be the fourth most enriched site.
+
+In order to asses whether MYC was indeed regulated by Wnt signalling pathway, the authors of the paper cloned a sequence including the risk allele upstream of a lacZ gene. The expression recapitulated an endogenous MYC (checked by in situ hybridisation).
+
+Conclusions:
+
+\begin{itemize}
+\tightlist
+\item
+  A high risk allele SNP for CRC was identified resulting in a TF binding site within an enhancer
+\item
+  The risk allele is more sensitive to TCF4 binding and WNT activation
+\item
+  The risk allele regulates MYC expression (most likely) upon WNT signalling activation
+\item
+  The presence of this allele may render cells hypersensitive to the WNT pathway resulting in deregulated (increases) expression of MYC with consequent pro-proliferative behaviour
+\end{itemize}
+
+Recently, it was observed that the conservation of the locus including the risk allele is particularly high in mammals (28 species). By looking at the Norther blot for the conserved sequence, there was a transcript of about 0.5 kb length which was called CCAT2, expressed in different cancer cell lines. Looking at RT-qPCR analysis from tumor biopsies vs normal: tumor expressed higher levels with respect to control. Interestingly, increased expression was observed for microsatellite regions, while the expression in antisense was almost undetectable. This suggests that the enhancer is transcribed unidirectionally, giving rise to CCAT2 transcript, which does not codify for proteins → long non-coding RNA.
+
+CCAT2 expression is significantly higher in microsatellite stable (MSS) colon cancer tumours, compared to non-neoplastic mucosal samples and MSI-H tumours. In situ hybridization confirms increased expression of CCAT2 in tumor cells.
+
+\textbf{\emph{Retroviral-mediated expression}} of CCAT2 promotes tumor growth in HCT116 (MSI-H) cells. In particular, the endogenous is 1000 higher than HCT116 - control to check for overexpression.
+
+When looking at the extent of proliferation, a lack of effect on 2D cell growth by CCAT2 was observed. \textbf{\emph{Xenograft study}} (transduce with retroviral vector clones and inject in mice): CCAT2 increased subcutaneous tumor formation in a mouse xenograft model.
+
+Modulation of the CCAT2 levels can affect the metastatic capacity of cells. In particular, a higher CCAT2 expression was detected in primary CRC tumors from patients with metastasis and higher CCAT2 RNA levels associate with shorter metastasis-free survival in breast cancer patients.
+
+Is this related to MYC/enhancer interaction or only to CCAT2? The tumours showing increased MYC expression also had an increased CCAT2 expression. By depleting CCAT2 through siRNA, a decrease is also produced in MYC expression.
+
+\textbf{Gene known-down approaches:}
+
+\begin{itemize}
+\tightlist
+\item
+  \emph{small interfering RNAs}: tiny oligo RNA, transfected in cells, bp with target RNA and enable degradation
+\item
+  \emph{s h RNAs}: always short RNA bp with target, but expressed like microRNA in a plasmid. Pro: stabilized (cannot stabilize oligo), Cons: highjack DICER and other RNA enzymes
+\item
+  \emph{antisense oligonucleotide}: completely different chemistry, instead of phosphodiesteric bond between different bases, can have sulphur atoms making them resistant to endonucleases.
+\end{itemize}
+
+MYC is a downstream target of Wnt. Pull down for TCF a long non-coding RNA is bound to it (not in vitro). Instead of CHIP, extract RNA followed by PCR.
+
+Conclusions:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  An $\sim$335-kb DNA loop brings the rs6983267 genomic region close to the MYC locus, and this physical association may contribute to the enhancer function of the SNP-containing region on MYC transcription.
+\item
+  The enhancer region is transcribed into a long noncoding RNA (CCAT2), and the SNP status affects CCAT2 expression.
+\item
+  The CCAT2 transcript up-regulates WNT activity and increases expression levels of WNT target genes (including MYC). This regulation by CCAT2, possibly through its physical interaction with TCF7L2, may lead to genomic instability and promote cell growth.
+\item
+  CCAT2 expression is regulated by transcriptional factors TCF7L2, indicating a positive feedback loop between CCAT2 and WNT signaling.
+
+  \begin{figure}
+  \centering
+  \includegraphics[width=\textwidth]{../_resources/Screenshot_2022-10-14_at_11-20-37.png}
+  \caption{Screenshot 2022-10-14 at 11.20.37.png}
+  \end{figure}
+\end{enumerate}
+
+It is not the end of it! CCAT2 can interact with BOP1, regulating AURKB (Aurora B Kinase) and leading to unbalanced segregation of chromosomes during mitosis → chromosome instability. CCAT2 is also found in serum (can evade from cell through exosome), can be used as therapeutic target and diagnostic tool.
+
+The enhancer can work at very high distance with respect to the gene of interest; this means that an enhancer has the possibility to regulate many promoters, how can its activity be directed to a specific target promoter?
+
+\textbf{\emph{Insulator sequences}} prevent the propagation of enhancers signals along the chromatin fiber through their enhancer blocking function mediated by proteins. Insulator genes are usually found at a region densely distributed with genes. They can act in long distance, do not need specific direction and the sequences are recognized by proteins. The main insulator binding protein is a factor called CCCTC-binding factor (CTCF).
+
+\textbf{CTCF} has a peculiar DBD with 11 zinc fingers; each of them can recognize a short consensus motif. In principle, it could recognize huge regions and be very flexible in recognition capabilities, as combinatorial use of its 11 ZF allows binding to 50bp target sites with high sequence variations. CTCF regulates transcription both positively and negatively and can operate as a transcription factor. At first, it was recognized as a repressive TF: it has the ability to shape the DNA molecules, not merely binding on a site distorting it, and to recruit co-factors.
+
+CTCF is the main \emph{insulator-binding protein} in vertebrates. ChIP shows that CTCF binds thousands of sites in the human genome. We can find it mainly in intergenic regions and introns, as well as promoter regions. There is an extensive overlap of CTCF binding sites among cell lines (12000). The consensus sequence recognized by CTCF is the same among cell lines.
+
+CTCF is enriched at the H3K27me3 domain boundaries (CTCF barrier sites). A larger genomic region was analyzed in different cell lines. Almost no overlap was found in the CTCF barrier sites between CD4T cells and HeLa cells, suggesting that CTCF barriers are cell-type-specific. In some cells the site is at the boundary, in others not.
+
+We now know that heterochromatic marks spread up to insulator sequences, which can be recognized by protein and recruit directly or indirectly chromatin remodelling factors.
+
+Main findings:
+
+\begin{itemize}
+\tightlist
+\item
+  CTCF can bind to the same locus in different cell types
+\item
+  CTCF binding can separate active and repressed chromatin, functioning as barrier to heterochromatin spreading
+\item
+  CTCF exerts its barrier ability in a cell type dependent manner
+\end{itemize}
+
+The function of CTCF appears to be regulated at least at two levels:
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  binding of CTCF to the target sites.
+\item
+  binding of interacting proteins, providing its functionality
+\end{enumerate}
+
+\hypertarget{cohesin-mediates-transcriptional-insulation-by-ccctc-binding-factor}{%
+\subsubsection{Cohesin mediates transcriptional insulation by CCCTC-binding factor}\label{cohesin-mediates-transcriptional-insulation-by-ccctc-binding-factor}}
+
+CTCF was found to interact with cohesins (composed of SMC3, SMC1, SCC1 and SCC3 subunits), which are essential to maintain sister chromatids connected from S phase to metaphase. Cohesins are loaded on chromosomes during G1, but the function is exerted later on. For achieving anaphase, the ring is cut by securins - regulated by APC.
+
+Cohesin is expressed in differentiated postmitotic cells. We expect that replicating cells express cohesin, as it is heavily required in cell cycle. Pulling down SMC3 in mouse brain we still observe a signal, it is probably linked to an additional function of the complex. During G2 we expect that cohesins are holding together sister chromatids, which instead are absent in G1; the binding site is the same, checked by ChIP-Seq → cohesin binds to the same sites independent on cohesion CTCF and cohesion share several binding sites.
+
+\begin{figure}
+\centering
+\includegraphics[width=\textwidth]{../_resources/Screenshot_2022-10-14_at_19-51-43.png}
+\caption{Screenshot 2022-10-14 at 19.51.43.png}
+\end{figure}
+
+By looking at CTCF KO the binding is lost, as well as SCC1 binding.
+
+Cohesin and CTCF co-occupy thousands of genomic binding sites and share the same consensus sequence. In particular, CTCF KO impairs SCC1 binding.
+
+\emph{Does cohesion contribute to CTCF enhancer blocking function?}
+
+Reporter assay with pIHLIE, which is known to be responsible for the insulator sequence. By removing CTCF, the luciferase activity increases. Nothing happens by impairing sister chromatids link through a drug, Sororin. The insulator function of the H19 ICR requires CTCF binding as well as cohesin binding to DNA, but not the establishment of cohesion.
+
+\begin{figure}
+\centering
+\includegraphics[width=\textwidth]{../_resources/Screenshot_2022-10-14_at_19-50-44.png}
+\caption{Screenshot 2022-10-14 at 19.50.44.png}
+\end{figure}
+
+Cohesin complexes co-localize with CTCF insulator protein and are required for it to block enhancer sequences. CTCF can slide on DNA and when it reaches an already bound CTCF is stops there → functional to repress enhance function.
+
+\begin{figure}
+\centering
+\includegraphics[width=\textwidth]{../_resources/Screenshot_2022-10-14_at_12-11-11.png}
+\caption{Herold \emph{et al., Development,} 2012}
+\end{figure}
+
+Herold \emph{et al., Development,} 2012
+
+\begin{figure}
+\centering
+\includegraphics[width=\textwidth]{../_resources/Screenshot_2022-10-14_at_12-10-46.png}
+\caption{Screenshot 2022-10-14 at 12.10.46.png}
+\end{figure}
+
+\emph{Does cohesin have anything to do with transcription regulation?}
+Upon CTCF insulator protein (orange) binding to its DNA consensus sequence, the cohesin ring may tether two DNA double strands (red--blue helices) by encircling them. Thus, \textbf{cohesion-CTCF complexes could shield genes from the effect of enhancer sequences}, regulating gene expression, by impacting genome organization.
+
+CTCF binding motifs tend to interact with each other forming a \emph{chromatin loop}. During interphase, DNA is not condensed as in a canonical chromosome, each chromosome forms territories with hierarchical distribution of 3D folding. Different territories can overlap with each other, depending on the extent of histone modificationa. We find compartments, territories and 3D folding of chromatin made by loops. Loops are possibly obtained thanks to the action of cohesins: in \textbf{\emph{loop extrusion}}, a cohesin can slide on DNA for circling 2 ds filaments, until it reaches CTCF is a specific direction. The directionality of CTCF DNA sequences at the loop boundaries indicates the presence of a ``tracking'' mode for DNA loop formation instead of a simple 3D diffusion.
+
+\begin{figure}
+\centering
+\includegraphics[width=\textwidth]{../_resources/Screenshot_2022-10-14_at_19-52-56.png}
+\caption{Screenshot 2022-10-14 at 19.52.56.png}
+\end{figure}
+
+The hierarchical model of chromatin organization impacts gene regulation:
+
+\begin{itemize}
+\tightlist
+\item
+  linear chromosome map
+\item
+  local 3D folding: local folding brings convergent pairs of CTCF sites in close spatial proximity fostering the contact between the enhancer and the target promoter
+\item
+  segmentation into TADs: topologically associated domains (TADs) are self associating chromosome segments with high frequency of DNA interaction within them. TADs folding packages enhancers and promoters from the same domain while insulating them from regulatory elements of neighbouring domains.
+\item
+  compartimentalization of the chromosome territory: euchromatin and heterochromatin compartments. The same compartment can also include DNA from different territories/chromosomes. Compartment A and Compartment B can be subdivided in subcompartments with distinct patterns of histone modifications.
+\end{itemize}
+
+Most TADs are constrained within CTCF-cohesin boundaries and may consist of a single or multiple DNA loops called insulated neighborhoods (or loop domains, or sub-TADs).
+
+
+The sequences that are within a loop are interacting with each other with higher frequency as compared with canonical interaction rates.
+
+The 3D structure of the genome leads to TAD (topologically associated domains), characterized by a high frequency of DNA interaction within them. Compartment A (euchromatin) and B (heterochromatin) can be subdivided in subcompartments with distinct patterns of histone modifications.
+
+Most of the times, TAD consists of one \emph{insulated neighbourhood} (1 loop). We can also find other cohesins inside the same TAD, resulting in \emph{nested} insulated neighbourhoods or \emph{two insulated neighbourhoods}. 90\% of enhancer promoter interactions occur within neighbourhood boundaries in human ESCs and T cells. However, promoters and enhancers do not exclusively interact with each other, as they interact also with other sequences in the same loop.
+
+Chromatin conformation within TADs is highly variable from cell to cell and contacts between DNA loops are dynamics.
+
+\begin{figure}
+\centering
+\includegraphics[width=\textwidth]{../_resources/Screenshot_2022-10-19_at_08-48-41.png}
+\caption{Screenshot 2022-10-19 at 08.48.41.png}
+\end{figure}
+
+\hypertarget{chromosome-conformation-capture-3c}{%
+\subsubsection{Chromosome Conformation Capture (3C)}\label{chromosome-conformation-capture-3c}}
+
+This method is used to verify whether distant sequences are interacting in their 3D folding. 3D conformations at the regional, chromosome and whole genome levels can be inferred by calculating the number of ligation junctions between genomic loci.
+
+It is required to have information on all sequences of interest. It is possible to apply inverse PCR: we circularize and amplify from known primers a piece of unknown sequence. In order to test a bigger region, we can use specific primers and verify which sequence is mapped where (computational analysis).
+
+ChIA-PET: which protein is mediating the interaction among two sequences? Use antibody for the protein of interest e.g.~CTCF, pull down cross linked, digest and sequence.
+
+Lastly, in Hi-C approach there is a fill in of the extremities of the restriction sites with biotin and direct sequencing → higher throughput.
+
+\hypertarget{hi-c-approach}{%
+\subsubsection{Hi-C approach}\label{hi-c-approach}}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  HindIII restriction enzyme
+\item
+  Fill extremities and mark with biotin
+\item
+  Ligate (Nhel)
+\item
+  Purify and shear DNA; pull down biotin
+\item
+  Sequence using paired-end
+\end{enumerate}
+
+A Hi-C map, or \textbf{contact matrix}, is a list of DNA-DNA contacts produced by a Hi-C experiment. Spatial proximity maps of the human genome generated with Hi-C at a resolution of 1 megabase. Each pixel represents all interactions between a 1-Mb locus and another 1-Mb locus.
+
+\begin{figure}
+\centering
+\includegraphics[width=\textwidth]{../_resources/Screenshot_2022-10-25_at_11-47-30.png}
+\caption{Lieberma-Aiden \emph{et al., Science} 2009}
+\end{figure}
+
+Lieberma-Aiden \emph{et al., Science} 2009
+
+Changing restriction enzyme, a similar pattern is observed. The closer two sequences are in linear form, the higher their contact probability (frequency of interaction).
+
+The probability of contact decreases as a function of genomic distance on chromosome 1. Interchromosomal interactions are depleted relative to intrachromosomal interactions. The level of interchromosomal contact differs for different pairs of chromosomes. This suggests that the chromosomes form defined territories, with an overall frequency of interaction.
+
+Depending on the chromosome, we can find preferential contacts. Example: 20-21-22 region. In low resolution, we observe conserved interaction for synthetic or orthologous sequences.
+
+Each chromosome can be decomposed into two sets of loci (arbitrarily labeled A and B) such that contacts within each set are enriched and contacts between sets are depleted. Regions tend be closer in space if they belong to the same compartment (A versus B).
+
+Bimodal pattern in eigenvector → either A or B compartment.
+
+3D-FISH to probe four loci (L1, L2, L3, andL4) on chromosome 14 that alternate between the two compartments (L1 and L3 in compartment A; L2 and L4 in compartment B).
+
+\begin{figure}
+\centering
+\includegraphics[width=\textwidth]{../_resources/Screenshot_2022-10-19_at_09-06-00.png}
+\caption{Lieberma-Aiden \emph{et al., Science} 2009}
+\end{figure}
+
+Lieberma-Aiden \emph{et al., Science} 2009
+
+\begin{itemize}
+\tightlist
+\item
+  Compartment B showed a consistently higher interaction frequency at a given genomic distance than pairs of loci in compartment A, suggesting that it is more densely packed.
+\item
+  Compartment A correlates strongly with the presence of genes, higher mRNA expression, and accessible chromatin, as measured by DNAse I sensitivity.
+\item
+  Open and closed chromatin occupies different compartments in the nucleus.
+\item
+  Such partitioning of the human genome was obtained based on the contact frequency of millions of loci at 1 Mb resolution
+\end{itemize}
+
+\hypertarget{optimization-of-hi-c-approach}{%
+\subsubsection{Optimization of Hi-C approach}\label{optimization-of-hi-c-approach}}
+
+Digestion \emph{in situ}, permeabilize nuclei from cell and without lysing them introduce restriction enzyme cutting 4 nucleotide bases → 1kb resolution, proximity ligation performed in intact nuclei (reducing the frequency of spurious contacts).
+
+\begin{figure}
+\centering
+\includegraphics[width=\textwidth]{../_resources/Screenshot_2022-10-19_at_09-10-50.png}
+\caption{Screenshot 2022-10-19 at 09.10.50.png}
+\end{figure}
+
+\begin{figure}
+\centering
+\includegraphics[width=\textwidth]{../_resources/Screenshot_2022-10-19_at_09-11-30.png}
+\caption{Screenshot 2022-10-19 at 09.11.30.png}
+\end{figure}
+
+We can divide a compartment in 6 subcompartments: A1,A2,B1,B2,B3 and B4. The genomic and epigenetic content is different: different density of active genes, CG richness, epigenetic marks,\ldots{} If we increase the resolution within subcompartments, we find frequently interacting regions, which are called domains:
+
+\begin{itemize}
+\tightlist
+\item
+  \emph{loop domains} (90\% bound by TFs, they are also called ``anchor sites'')
+\item
+  \emph{ordinary domains or compartment domains}
+\end{itemize}
+
+Depending on the resolution, we can define subcomparments or domains TADs.
+
+Chromosome compartments are formed by aggregation of multiple domains with similar biochemical or functional properties. In literature some studies indicate `'sub-TADs'' or `'insulated neighborhoods'' to refer to domains identified by high-resolution Hi-C as being smaller than the domains TADs, either ordinary or loop domains.
+
+The frequency of interaction can also be depicted as a linear genomic coordinate. A Hi-C map can be integrated with ChIP-seq and RNA-seq data to assess the complexity of the domains identified by low resolution data.
+
+The identification of TADs is highly dependent on the resolution of the Hi-C data and the scale at which the data are analysed
+
+\begin{figure}
+\centering
+\includegraphics[width=\textwidth]{../_resources/Screenshot_2022-10-19_at_09-20-57.png}
+\caption{Rowley and Corces, \emph{Nature Rev Genetics} 2018}
+\end{figure}
+
+Rowley and Corces, \emph{Nature Rev Genetics} 2018
+
+Some CTCF loops encompass active and inactive domains.
+
+\begin{figure}
+\centering
+\includegraphics[width=\textwidth]{../_resources/Screenshot_2022-10-19_at_09-21-57.png}
+\caption{Dixon \emph{et al., Mol Cell.} 2016}
+\end{figure}
+
+Dixon \emph{et al., Mol Cell.} 2016
+
+Given the high frequency of interaction, we can observe co-regulation favouring. Also, since different TADs do not contain frequently interacting genes, a TAD could feature enhancer blocking. Boundary function: ability of repressing the spreading of heterochromatin. Finally, repressing transcription from one TAD to another.
+
+\textbf{Conclusions:}
+
+\begin{itemize}
+\tightlist
+\item
+  Genomes are partitioned into `contact domains' (ordinary domains or loop domains), or TADs, with median length of 185 kb, that share similar chromatin states and tend to associate with each other forming subcompartments (some people refer TADs to the subcompartments)
+\item
+  CTCF and the cohesin associate with loop domains and are found at over 86\% of loop anchors.
+\item
+  The pair of CTCF motifs present at the loop anchors occurs in a convergent orientation in \textgreater90\% of cases
+\item
+  Loops frequently link promoters and enhancers, correlate with gene activation, and show conservation across cell types and species (up to 75\% are conserved between cell lines, and 50\% between mouse and human orthologous genomic regions)
+\end{itemize}
+
+\textbf{Insulator:}
+
+Enhancers and genes generally interact within the context of the CTCF-CTCF loops which form insulated neighborhoods that constrain interactions between regulatory elements and genes.
+This structure helps explain why enhancers generally control only a limited number of genes despite having an ability to function in either orientation and at long distances.
+
+Do enhancers and promoters randomly interact within the same loop domain? Probably not, since single CTCF loops can contain both active and inactive genes.
+
+Enhancer-gene interactions occur in insulated neighborhoods by synergic activity of Mediator and Cohesin, and not CTCF.
+
+Mediator and cohesin physically and functionally connect the enhancers and core
+promoters of active genes within DNA loop domains in murine embryonic stem cells. When the transcription activators bind mediator, the mediator complex undergoes a conformational change, and this activator-bound form of mediator binds cohesin and its loading factor Nipbl, which all contribute to gene activity and DNA looping. Mediator and cohesin co-occupy different promoters in different cells, thus generating cell-type-specific DNA loops linked to the gene expression program of each cell.
+
+There are different binding sites for cohesin mediator and cohesin CTCF. Distinct overlapping pattern in interaction sites, depletion by shRNA results in a very similar gene expression.
+
+\textbf{Co-IP:}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  lysate and wash
+\item
+  add antibody-immobilized agarose resin
+\item
+  precipitate immune complexes and wash
+\item
+  analysis by Western blot (nuclear extract vs Co-IP with IgG control)
+\end{enumerate}
+
+Adapt Co-IP with ChIP: protein in chromatin complex, instead of extracting RNA de-crosslink and run protein on a gel.
+
+Co-IP results indicate that Cohesin and Mediator interact. Chromosome Comformation Capture (3C) analyses confirmed DNA looping between promoters and enhancers of active genes. Depleting cohesin, frequency of interaction is disrupted, similar as Mediator 12.
+
+Mediator and cohesin physically and functionally connect the enhancers and core
+promoters of active genes within DNA loop domains in murine embryonic stem cells
+
+When the transcription activators bind mediator, the mediator complex undergoes a conformational change, and this activator-bound form of mediator binds cohesin and its loading factor Nipbl, which all contribute to gene activity and DNA looping. Mediator and cohesin co-occupy different promoters in different cells, thus generating cell-type-specific DNA loops linked to the gene expression program of each cell.
+
+\hypertarget{promoter-enhancer-communication-occurs-primarily-within-insulated-neighbourhoods}{%
+\subsubsection{Promoter-Enhancer Communication Occurs Primarily within Insulated neighbourhoods}\label{promoter-enhancer-communication-occurs-primarily-within-insulated-neighbourhoods}}
+
+Computational analyses of published CTCF and Smc1 ChIA-PET datasets enabled identification of insulated neighborhoods encompassing 9,407 protein-coding genes of which 3,929 were transcriptionally active in mouse ESCs.
+
+\begin{figure}
+\centering
+\includegraphics[width=\textwidth]{../_resources/Screenshot_2022-10-19_at_10-01-09.png}
+\caption{Sun et al., 2019}
+\end{figure}
+
+Sun et al., 2019
+
+The sites of co-binding of cohesin and CTCF define \emph{DNA loops boundaries}. We can recognize promoters by TAF2 Hac, POL II (not much Med26, repressive).
+
+Enrichment at the boundaries, functional meaning has not yet been defined. Group promoters in quartiles (Q1-Q4) according to efficiency of transcription. The extent of interaction in loops is not necessarily dependent on the frequency of interaction. Capture Hi-C showed that almost 80\% of promoter-interacting loci are constrained within the insulator or at the boundaries; these interactions do not correlate with transcription levels.
+
+Distribution of the indicated proteins binding and promoter Hi-C interactions in insulated neighbourhoods in different RNA expression quartiles.
+
+Promoter sequences form loops predominantly within the insulated neighborhood, in particular with enhancers and boundaries. Are the enhancer function and gene regulation constrained within the same insulated neighborhood? Is it possible to interfere with the function of specific enhancers and test whether it has an effect on genes inside and outside the insulated neighborhood?
+
+Can the Mediator complex be removed from specific genes? They generated a sequence with promoter and TF binding site, anchored to a magnetic bead. Test with Western blot the binding of the protein. The transcription factor estrogen-related receptor b (Essrb) directly interacts with the Mediator complex. Downregulating Essrb would impair Mediator binding to specific enanhcers, deregulating expression of distinct target genes.
+
+Indeed, Essrb knock down can be used to deplete Mediator, inactivate enhancers and downregulate target genes.
+
+Now that a system to inactivate enhancers is in place, the authors can test whether enhancer function is constrained within insulated neighborhoods. 222 insulated neighborhoods contained genes downregulated more than 2 folds upon Essrb depletion. Transcription regulation is largely constrained within insulated neighborhoods, and it involves TF-mediator interactions. Is this regulation directly related to promoter- enhancer looping?
+
+{[}ho perso 2 minuti{]}
+
+Depletion of Mediator causes loss of PIC assembly, same procedure as before.
