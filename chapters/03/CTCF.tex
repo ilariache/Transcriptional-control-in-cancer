@@ -1,6 +1,6 @@
 \graphicspath{{chapters/_resources/}}
 
-\chapter{CTCF}
+\chapter{Chromsome domains and oncogene activation}
 
 
 
@@ -433,3 +433,165 @@ Now that a system to inactivate enhancers is in place, the authors can test whet
 {[}ho perso 2 minuti{]}
 
 Depletion of Mediator causes loss of PIC assembly, same procedure as before.
+
+Hierarcihla structures of chromosomal domani, DNA loops can be clustered, single\ldots{}
+Most enhancer-promoter interactions occur during in DNA loops, also called insulated neighborhoods. In the paper, they managed to isolate genes inside the DNA loops.
+Hypothesis: in DNA loop are present oncogene, which can be activate by different mechanisms, listed in the following image:
+\includegraphics{../_resources/4eb79fba5a169cc3d31f5400dee44c80.png}
+
+Is there a way for DNA loops to promote oncogene transctipription?
+\includegraphics{../_resources/8a611db05ed930551f476248a8829f49.png}
+
+They started out with Jurkat cells. In Jurkat cells , 9038 CTCF loops were identified with median length of 270 kb, containing 2-3 genes on average. They crossed adult and embryonic cell lines to discover TADs. Throuhg other analysis they tried to find out presence of loops, enhancer and actively transcripted RNA.
+\includegraphics{../_resources/efdc44eea9ebe388b5a5a49cf2e3ce6c.png}
+They found out that most cohesin associated enhancer-promoter interactions occurs within CTCF-
+CTCF loops. In the image we can also appreciated the presence of nested DNA loops.
+\includegraphics{../_resources/d0828d655b33d8b7576aed0621665948.png}
+A super-enhancer is different because it is significantly larger. Such a large enhancer signifies also the presence of a lot of transcription factors and co-factors. The key factor of super-enhaner is that they can boost in a much more efficient way the transcritpion of genes.
+\includegraphics{../_resources/802f178305ca61d2dd78b9be0e2d138b.png}
+
+40/55 known oncogenes in the cell line map in insulated neighborhoods.
+E.g: LMO2 would not usually be transcribed because enclosed in the loop.
+\includegraphics{../_resources/5843fc777ea1c41b8428ead29437d8dd.png}
+But with the help of super-enhancers, proto oncogenes like TAL1 can be transcribed.
+\includegraphics{../_resources/cb401de7a7d48b23211a6805d8eb892b.png}
+
+\textbf{Both active oncogenes and silent proto-oncogenes are located within insulated
+neighborhoods in Jurkat cells}
+
+They moved the analysis to the patient:
+\includegraphics{../_resources/136f0b94b4833b6365281beb09fdd985.png}
+Example: deletion in promoter of TAL1 -\textgreater{} its transcription is initiated by STIL promoter, which is normally activ ein T-Cells. TAL1 is normally silenced after fetal stage.
+Using CRISPr/Cas9 dei removed a little piece on the boundary. Disruption of insulated neighborhood boundaries is linked to proto-oncogene activation.
+\includegraphics{../_resources/bf32b9679af0fb7fcba57b9f87bb4207.png}
+The silent state of the TAL1 proto-oncogene is dependent on the integrity of the insulated neighborhood TAL1 encodes a transcription factor that is overexpressed in \textasciitilde50\% of T-ALL cases and is a key oncogenic driver of this cancer.
+\includegraphics{../_resources/3d83d920d425aa5f76bdbb127596c02b.png}
+They tried to do the same on another locus, without the mediation of enhancer or promoters. Even that, disruption of DNA loop allows for the transcription of proto oncogenes.
+
+CTCF in constitutive neighborhoods (present in all cell lines) has a somatic mutation in this cancer, but not the ones in non-boundary CTCF sites (spefici to the cell lines). \includegraphics{../_resources/04f2803be336c87ba295bb898a04c3e7.png}
+
+It becomes clear that somatic mutations of insulated neighborhood boundaries occur in the genomes of many different cancers.
+\includegraphics{../_resources/03aab7349f83323cba1c91cb2c3e3124.png}
+
+\textbf{Main conclusions of the article
+• Disruption of insulated neighborhood boundaries, marked by the presence of CTCF and cohesins,
+can cause oncogene activation in cancer cells
+• Recurrent perturbations of boundary elements may impact expression of genes with roles in
+tumor biology}
+
+\hypertarget{super-enhancers}{%
+\subsection{Super-enhancers}\label{super-enhancers}}
+
+Super-enhancers regulate genes involved in cell identity: they are bound by tissue-specific TFs and pioneer transcription factors such as OCT4, SOX2, NANOG. They generally activate a self-regulatory circuit: most SE produce promoters, which in turn regulate their own SE and other gene products that htey lead.
+TAL1 forms transcriptional regulatory networks with other transcription factors in hematopoietic stem cells:
+\includegraphics{../_resources/99fbd93b812d482263d53c442698a36a.png}
+This circuits underline the tissue-specificity of most cancers. TAL1 requires a SE, a transcritpional re-wiring.
+• The expression of TAL1 is downregulated during normal T-cell development, while GATA3 and RUNX1 are expressed in T cells
+• Re-expression of TAL1 in T cells dictates a transcriptional circuitry inducing tumorigenesis
+• TAL1, GATA3, RUNX1 and MYB gene loci are associated with super-enhancers in T-ALL cells
+
+\hypertarget{how-is-a-se-generated-during-tumorigenesis}{%
+\section{How is a SE generated during tumorigenesis?}\label{how-is-a-se-generated-during-tumorigenesis}}
+
+Even SNPs can generate super-enhancers!
+\includegraphics{../_resources/c099d4a9ad4bba13e7839f48fd831265.png}
+\emph{TAL1 SE was not found in T cells, or hematopoietic stem and progenitor cells (HSPCs)
+3C experiments identified a looping interaction within the SE (red arrow), not anymore an insulated neighborhood in this particular site}
+When investigating the reason for this difference, they found out that some nucleotide addition (but not much). Small insertion leads to a TFBS in T-ALL cancer cell lines. Only transcription factors expressed in T-ALL cells are involved in the activation of the mutant enhancer.
+
+BUT a mutation on the promoter of TAL1 is not enough. We need the all trascritption circuit of actor that co-regulate each-other. The Mediator binding pattern stretching for 20kb, overlapping with the H2K27ac mark (seen in previous ChIP) indicate the presence of a super-enhancer.
+\includegraphics{../_resources/c55a73c929224da923f319503c218451.png}.
+Not observed in HPSCs or T-ALL cells devoid of the mutated TAL1 enhancer site: it is the de novo MYB site to promote TAL1 complex formation and induce TAL1 expression.
+
+Targeted deletion of the TAL1 enhancer mutation collapses the TAL1 super-enhancer:
+\includegraphics{../_resources/dfb8371fc17e078308c3d5aa247ebcbf.png}
+Gain of function even ni heterozygosity. A SE can be generated by a single transcritpion factor biding site and can extend to hundred of bases. Very sensitive to mutations:
+\includegraphics{../_resources/fa5ffb6bbc02eb321a2991a3bcfd92c4.png}.
+
+Finally, there's mainly two ways to activate proto-oncogenes:
+\includegraphics{../_resources/8bd5f4820c364c35b02c35eb0e48f464.png}
+Both can be triggered by very short deletions/mutations that happen in regulatory regions.
+
+More recent genomic insertions form enhancers that misregulated oncogenes, testing this hypothesis in different cancer cell lines.
+\includegraphics{../_resources/2d36e2c5659b9cf459872faefbfda869.png}
+
+\hypertarget{how-cancer-cells-take-advantage-of-super-enhancers}{%
+\subsection{How cancer cells take advantage of super-enhancers}\label{how-cancer-cells-take-advantage-of-super-enhancers}}
+
+In this study they looked for increase of transcritpion. They interrogated dataset of 10k tumors and found recurrent focal amplification. They found 25 peaks which correspond to super-henancers. They also found that for six different cancer cell types had some common recurrent focal amplification in the same spot.
+\includegraphics{../_resources/796c982294bedb0a7994a942aa5ff2a5.png}
+\includegraphics{../_resources/85250d5cfb0f02d4fd06f8a7ae09e4a3.png}
+UCEC, uterine corpus endometrial carcinoma; HNSC, head and neck squamous cell carcinoma; LUAD, lung adenocarcinoma; CRC, colorectal carcinoma; LIHC, liver hepatocellular carcinoma; CESC, cervical squamous cell carcinoma; ESCA, esophageal carcinoma.
+
+\textbf{KLF5} is a putative oncogene that can be upregulated in tumors by super-enhancer amplification.
+For the \textbf{MYC} genes, they found data in two different cancer line. Selectivity of amplification depending on the cell line.
+Tumors with amplification of MYC alone or MYC-LASE or MYC-ECSE alone express higher levels of MYC than tumors lacking either amplification (meaning, there's no need fo rthe tumor to evolve a over-expression of MYC).
+\emph{(qua mi sono persa perchè stavo insultando Alessia sul gruppo)}
+
+NFE2L2 and CEBPB transcription factors regulate the e3 enhancer: so to study it, we can downregulate these two factors.
+
+\textbf{Conclusion: MYC regulation changes based on the tumor and tissue type.}
+\includegraphics{../_resources/732d6434382fbc8bdbd24c49c23cdaf7.png}
+If we are in a cancer setting we can target a super-enhancer and we impact the expression of the target gene. However, there are several onco-genes in a cancer setting.
+
+\hypertarget{the-role-of-myc-in-cancer-cells}{%
+\section{The role of MYC in cancer cells}\label{the-role-of-myc-in-cancer-cells}}
+
+In cancer, MYC is always the most amplified gene. MYC is the downstream target of so many pro-prolifration pathways, these cells are not even under selective pressure to activate the pathways.
+It has a great impact on cells!
+\includegraphics{../_resources/641af477cb65d73954e1ae24aab9a2ed.png}
+inhibition of MYC and APC rescues or prevent tumorigenesis. By removing one single target gene we can have drastic results and MYC is capable of driving tumorigenesis on its own.
+
+In most human tumour types, the expression of MYC proteins is deregulated and enhanced relative to the corresponding normal tissue, and high MYC expression often correlates with poor prognosis. \textbf{MYC induces cell proliferation and growth} in the absence of external growth factors. Conversely, inhibition of MYC almost invariably suppresses cell proliferation.
+Transgenic mouse studies provided the evidence that deregulated expression of MYC is sufficient to drive tumorigenesis in a number of transgenic mouse tissue.
+
+\hypertarget{key-aspect-of-myc-in-tumorigenesis}{%
+\subsection{Key aspect of MYC in tumorigenesis}\label{key-aspect-of-myc-in-tumorigenesis}}
+
+\includegraphics{../_resources/18345a0e70ca9e50883ca61f93ad3405.png}
+Cells become addicted to a single oncogene! (and to transcription in general).
+
+\hypertarget{myc-transcription-factor-forms-a-heterodimer-with-max}{%
+\subsubsection{MYC transcription factor forms a heterodimer with MAX}\label{myc-transcription-factor-forms-a-heterodimer-with-max}}
+
+MYC is quite an unstable protein, even its mRNA has a very short helf-life. It has an one-of-a-kind binding domain, it is a very special protein.
+\includegraphics{../_resources/01adbb32a69ee3baec1bf9bddd890f52.png}
+MYC, MAX and MXDI all recocgnise the same site.
+MXD and MYC act as antagonists. MXD proteins can recruit histone deacetylases and repress transcription while MYC proteins recruit complexes that promote transcrition (not always the case\ldots). MYC stimulates cell growth and proliferation MXD inhibit cell growth and proliferation and block MYC effects.
+MYC-MAX bind to thousands of genes whose identity depends on the cellular transcriptome and the abundance of MYC protein.
+\includegraphics{../_resources/017e543a7782177edd93188be60ae382.png}
+
+Studying MYC is very difficult. What we know is that if we do a chip for MYC we have an extreme range of possible results, result is basically random. For RNA-seq: regulation of genes from MYC is also very subtle, with down-up regualted genes changing like 20\%, but also transcribe for TF that regulate their own site.
+\includegraphics{../_resources/e218faf59750ef1a90a9e45629f08973.png}
+
+Trunk sustains the outcome of MYC, but the net outcome of MYC interaction and trasncription we have epigenetic regulation, preinitiation complex assempbly, pause-release behaviour\ldots. un casino.
+\includegraphics{../_resources/10a2ad3114504053030a1071443aabd7.png}
+MYC is not a pioneer TF! So important interaction with proteins recruited on the chromatin.
+With open chromatin state, we have un-specific transcription: In addition to regulate its own target genes, MYC can `\textbf{amplify}' the transcriptional program already active in a cell, leading to a signature which is cell type-specific. MYC increases the expression of (already poised) thousands of genes.
+
+It depends a lot on the level of MYC2: since there are low affinity and high affinity binding sites, the more the MYC the higher the probability of MYC binding the low-affinity regions. Genes can be either down or up regulated.
+
+BUT tumorigenesis is not only about proliferation: we need proteins, membranes,\ldots{} obviously MYC also is involved in anti-apoptosis behaviour, energy metabolism etc.
+\includegraphics{../_resources/cdb9692b7dd2ca7bcfae696cd1b1ce36.png}
+
+\hypertarget{by-which-major-mechanism-or-pathway-myc-proteins-promote-tumorigenesis}{%
+\subsection{By which major mechanism or pathway MYC proteins promote tumorigenesis?}\label{by-which-major-mechanism-or-pathway-myc-proteins-promote-tumorigenesis}}
+
+The final outcome of myc gene regulation depends on the network of MYC interactions, in particular MYC-MAX
+and MAX-MXD and by the transcriptional program of the cells
+MYC is a mild transcriptional modulator, inducing moderate changes in mRNA levels.
+It is able to regulate the expression of several other transcription factors and cofactors, including E2F proteins,
+Polycomb group repressive complex 2 (PRC2) components, along with microRNAs (miRNAs), thus orchestrating
+complex networks of gene regulation.
+MYC dependent gene regulation has been shown to be dependent on: cell type, experimental conditions (stress),
+levels of MYC
+
+In conclusion, MYC activation contributes to several hallmarks of cancer:
+1 . autonomous proliferation and growth
+2. sustained DNA replication
+3. increased protein biogenesis
+4. global changes in cellular metabolism
+5. activation of the angiogenic switch
+6. suppression of the response to autocrine and paracrine regulatory programs
+7. restraint of host immune responses
+8. The transcription rewiring induced by oncogenic Myc levels also renders cancer cells addicted to this particular oncogene
