@@ -1,54 +1,61 @@
 \BOOKMARK [0][-]{chapter.1}{Transcription}{}% 1
-\BOOKMARK [1][-]{section.1.1}{Recap on transcription}{chapter.1}% 2
-\BOOKMARK [1][-]{section.1.2}{2- Transcriptional Control in Cancer}{chapter.1}% 3
-\BOOKMARK [2][-]{subsection.1.2.1}{Transcription initiation}{section.1.2}% 4
-\BOOKMARK [2][-]{subsection.1.2.2}{Chromatin remodeling}{section.1.2}% 5
-\BOOKMARK [2][-]{subsection.1.2.3}{Nucleosome organization}{section.1.2}% 6
-\BOOKMARK [1][-]{section.1.3}{3 \(1\)}{chapter.1}% 7
-\BOOKMARK [2][-]{subsection.1.3.1}{Main nucleosome modifications in promoters:}{section.1.3}% 8
-\BOOKMARK [1][-]{section.1.4}{4 - TCiC \(1\)}{chapter.1}% 9
-\BOOKMARK [2][-]{subsection.1.4.1}{Structural basis of the nucleosome transition during RNA pol II passage - Kujirai et al 2018}{section.1.4}% 10
-\BOOKMARK [1][-]{section.1.5}{Termination}{chapter.1}% 11
-\BOOKMARK [0][-]{chapter.2}{Enhancer regulation}{}% 12
-\BOOKMARK [1][-]{section.2.1}{5 - TCiC \(1\)}{chapter.2}% 13
-\BOOKMARK [2][-]{subsection.2.1.1}{Wnt signalling pathway}{section.2.1}% 14
-\BOOKMARK [1][-]{section.2.2}{6- Transcriptional Control in Cancer}{chapter.2}% 15
-\BOOKMARK [1][-]{section.2.3}{CREP/p300}{chapter.2}% 16
-\BOOKMARK [2][-]{subsection.2.3.1}{TSSa-RNAs transcription}{section.2.3}% 17
-\BOOKMARK [0][-]{chapter.3}{Chromsome domains and oncogene activation}{}% 18
-\BOOKMARK [1][-]{section.3.1}{7- Transcriptional Control in Cancer}{chapter.3}% 19
-\BOOKMARK [2][-]{subsection.3.1.1}{Super-enhancers}{section.3.1}% 20
-\BOOKMARK [1][-]{section.3.2}{How is a SE generated during tumorigenesis?}{chapter.3}% 21
-\BOOKMARK [2][-]{subsection.3.2.1}{How cancer cells take advantage of super-enhancers}{section.3.2}% 22
-\BOOKMARK [1][-]{section.3.3}{The role of MYC in cancer cells}{chapter.3}% 23
-\BOOKMARK [2][-]{subsection.3.3.1}{Key aspect of MYC in tumorigenesis}{section.3.3}% 24
-\BOOKMARK [2][-]{subsection.3.3.2}{By which major mechanism or pathway MYC proteins promote tumorigenesis?}{section.3.3}% 25
-\BOOKMARK [0][-]{chapter.4}{TCIC}{}% 26
-\BOOKMARK [1][-]{section.4.1}{13- Transcriptional Control in Cancer}{chapter.4}% 27
-\BOOKMARK [1][-]{section.4.2}{Targeting transcription in cancer}{chapter.4}% 28
-\BOOKMARK [2][-]{subsection.4.2.1}{Target transcription in cancer}{section.4.2}% 29
-\BOOKMARK [1][-]{section.4.3}{15- Transcriptional Control in Cancer}{chapter.4}% 30
-\BOOKMARK [1][-]{section.4.4}{BRD4}{chapter.4}% 31
-\BOOKMARK [1][-]{section.4.5}{YAP/TAZ}{chapter.4}% 32
-\BOOKMARK [1][-]{section.4.6}{TEAD}{chapter.4}% 33
-\BOOKMARK [2][-]{subsection.4.6.1}{YAP/TAZ/TEAD}{section.4.6}% 34
-\BOOKMARK [1][-]{section.4.7}{17- Transcriptional Control in Cancer}{chapter.4}% 35
-\BOOKMARK [1][-]{section.4.8}{Nuclear receptors}{chapter.4}% 36
-\BOOKMARK [2][-]{subsection.4.8.1}{Estrogen receptor \134alpha}{section.4.8}% 37
-\BOOKMARK [2][-]{subsection.4.8.2}{ER\) in breast cancer}{section.4.8}% 38
-\BOOKMARK [0][-]{chapter.5}{Genome instability}{}% 39
-\BOOKMARK [1][-]{section.5.1}{19- Transcriptional Control in Cancer}{chapter.5}% 40
-\BOOKMARK [1][-]{section.5.2}{Transcription and genome instability}{chapter.5}% 41
-\BOOKMARK [2][-]{subsection.5.2.1}{R-loops}{section.5.2}% 42
-\BOOKMARK [2][-]{subsection.5.2.2}{HOTTIP-dependent R-loop formation regulates CTCF boundary activity and TAD integrity in leukemia}{section.5.2}% 43
-\BOOKMARK [2][-]{subsection.5.2.3}{HOTTIP lncRNA Promotes Hematopoietic Stem Cells Self-Renewal Leading to AML-like Disease in Mice}{section.5.2}% 44
-\BOOKMARK [1][-]{section.5.3}{20- Transcriptional Control in Cancer}{chapter.5}% 45
-\BOOKMARK [1][-]{section.5.4}{Transcription and genome instability II}{chapter.5}% 46
-\BOOKMARK [2][-]{subsection.5.4.1}{DNA damage}{section.5.4}% 47
-\BOOKMARK [2][-]{subsection.5.4.2}{Apical kinases}{section.5.4}% 48
-\BOOKMARK [2][-]{subsection.5.4.3}{Topoisomerases}{section.5.4}% 49
-\BOOKMARK [0][-]{chapter.6}{DNA repair}{}% 50
-\BOOKMARK [1][-]{subsection.6.0.1}{Biogenesis of canonical miRNA}{chapter.6}% 51
-\BOOKMARK [2][-]{subsection.6.0.2}{DICER and DROSH regulation of DDR and checkpoint enforcement}{subsection.6.0.1}% 52
-\BOOKMARK [2][-]{subsection.6.0.3}{DDRNAs}{subsection.6.0.1}% 53
-\BOOKMARK [2][-]{subsection.6.0.4}{RNA Pol II recruitment at DSBs}{subsection.6.0.1}% 54
+\BOOKMARK [1][-]{section.1.1}{Transcription initiation}{chapter.1}% 2
+\BOOKMARK [1][-]{section.1.2}{Chromatin remodeling}{chapter.1}% 3
+\BOOKMARK [1][-]{section.1.3}{Nucleosome organization}{chapter.1}% 4
+\BOOKMARK [2][-]{subsection.1.3.1}{Nucleosome remodelling}{section.1.3}% 5
+\BOOKMARK [2][-]{subsection.1.3.2}{Chromatin Immunoprecipitation}{section.1.3}% 6
+\BOOKMARK [2][-]{subsection.1.3.3}{Main nucleosome modifications in promoters:}{section.1.3}% 7
+\BOOKMARK [1][-]{section.1.4}{Transcription elongation}{chapter.1}% 8
+\BOOKMARK [2][-]{subsection.1.4.1}{Structural basis of the nucleosome transition during RNA pol II passage - Kujirai et al 2018}{section.1.4}% 9
+\BOOKMARK [1][-]{section.1.5}{Transcription termination}{chapter.1}% 10
+\BOOKMARK [2][-]{subsection.1.5.1}{Promoter reporter assay}{section.1.5}% 11
+\BOOKMARK [2][-]{subsection.1.5.2}{Promoter types}{section.1.5}% 12
+\BOOKMARK [2][-]{subsection.1.5.3}{Transcription factor binding}{section.1.5}% 13
+\BOOKMARK [0][-]{chapter.2}{Transcription regulation and its deregulation in cancer}{}% 14
+\BOOKMARK [1][-]{subsection.2.0.1}{Wnt signalling pathway}{chapter.2}% 15
+\BOOKMARK [1][-]{section.2.1}{6- Transcriptional Control in Cancer}{chapter.2}% 16
+\BOOKMARK [1][-]{section.2.2}{CREP/p300}{chapter.2}% 17
+\BOOKMARK [2][-]{subsection.2.2.1}{TSSa-RNAs transcription}{section.2.2}% 18
+\BOOKMARK [0][-]{chapter.3}{Chromsome domains and oncogene activation}{}% 19
+\BOOKMARK [1][-]{section.3.1}{7- Transcriptional Control in Cancer}{chapter.3}% 20
+\BOOKMARK [2][-]{subsection.3.1.1}{Super-enhancers}{section.3.1}% 21
+\BOOKMARK [1][-]{section.3.2}{How is a SE generated during tumorigenesis?}{chapter.3}% 22
+\BOOKMARK [2][-]{subsection.3.2.1}{How cancer cells take advantage of super-enhancers}{section.3.2}% 23
+\BOOKMARK [1][-]{section.3.3}{The role of MYC in cancer cells}{chapter.3}% 24
+\BOOKMARK [2][-]{subsection.3.3.1}{Key aspect of MYC in tumorigenesis}{section.3.3}% 25
+\BOOKMARK [2][-]{subsection.3.3.2}{By which major mechanism or pathway MYC proteins promote tumorigenesis?}{section.3.3}% 26
+\BOOKMARK [0][-]{chapter.4}{Targeting transcription in cancer}{}% 27
+\BOOKMARK [1][-]{subsection.4.0.1}{Target transcription in cancer}{chapter.4}% 28
+\BOOKMARK [1][-]{section.4.1}{15- Transcriptional Control in Cancer}{chapter.4}% 29
+\BOOKMARK [1][-]{section.4.2}{BRD4}{chapter.4}% 30
+\BOOKMARK [1][-]{section.4.3}{YAP/TAZ}{chapter.4}% 31
+\BOOKMARK [1][-]{section.4.4}{TEAD}{chapter.4}% 32
+\BOOKMARK [2][-]{subsection.4.4.1}{YAP/TAZ/TEAD}{section.4.4}% 33
+\BOOKMARK [1][-]{section.4.5}{17- Transcriptional Control in Cancer}{chapter.4}% 34
+\BOOKMARK [1][-]{section.4.6}{Nuclear receptors}{chapter.4}% 35
+\BOOKMARK [2][-]{subsection.4.6.1}{Estrogen receptor \134alpha}{section.4.6}% 36
+\BOOKMARK [2][-]{subsection.4.6.2}{ER\) in breast cancer}{section.4.6}% 37
+\BOOKMARK [0][-]{chapter.5}{Transcription and genome instability}{}% 38
+\BOOKMARK [1][-]{subsection.5.0.1}{R-loops}{chapter.5}% 39
+\BOOKMARK [2][-]{subsection.5.0.2}{HOTTIP-dependent R-loop formation regulates CTCF boundary activity and TAD integrity in leukemia}{subsection.5.0.1}% 40
+\BOOKMARK [2][-]{subsection.5.0.3}{HOTTIP lncRNA Promotes Hematopoietic Stem Cells Self-Renewal Leading to AML-like Disease in Mice}{subsection.5.0.1}% 41
+\BOOKMARK [1][-]{section.5.1}{20- Transcriptional Control in Cancer}{chapter.5}% 42
+\BOOKMARK [1][-]{section.5.2}{Transcription and genome instability II}{chapter.5}% 43
+\BOOKMARK [2][-]{subsection.5.2.1}{DNA damage}{section.5.2}% 44
+\BOOKMARK [2][-]{subsection.5.2.2}{Apical kinases}{section.5.2}% 45
+\BOOKMARK [2][-]{subsection.5.2.3}{Topoisomerases}{section.5.2}% 46
+\BOOKMARK [0][-]{chapter.6}{Role of transcription in DNA damage response and repair}{}% 47
+\BOOKMARK [1][-]{subsection.6.0.1}{Biogenesis of canonical miRNA}{chapter.6}% 48
+\BOOKMARK [2][-]{subsection.6.0.2}{DICER and DROSH regulation of DDR and checkpoint enforcement}{subsection.6.0.1}% 49
+\BOOKMARK [2][-]{subsection.6.0.3}{DDRNAs}{subsection.6.0.1}% 50
+\BOOKMARK [2][-]{subsection.6.0.4}{RNA Pol II recruitment at DSBs}{subsection.6.0.1}% 51
+\BOOKMARK [0][-]{chapter.7}{Telomeres and telomere transcription in cancer}{}% 52
+\BOOKMARK [1][-]{subsection.7.0.1}{What are telomeres?}{chapter.7}% 53
+\BOOKMARK [2][-]{subsection.7.0.2}{Telomere dysfunction in a p53 and Rb mutant setting does not induce cell cycle block}{subsection.7.0.1}% 54
+\BOOKMARK [2][-]{subsection.7.0.3}{End of replication problem}{subsection.7.0.1}% 55
+\BOOKMARK [2][-]{subsection.7.0.4}{Cell crisis}{subsection.7.0.1}% 56
+\BOOKMARK [2][-]{subsection.7.0.5}{Telomerase enzyme}{subsection.7.0.1}% 57
+\BOOKMARK [0][-]{chapter.8}{Journal Clubs}{}% 58
+\BOOKMARK [1][-]{section.8.1}{11- JC Transcriptional Control in Cancer}{chapter.8}% 59
+\BOOKMARK [2][-]{subsection.8.1.1}{MYC Recruits SPT5 to RNA Polymerase II to Promote Processive Transcription Elongation}{section.8.1}% 60
+\BOOKMARK [2][-]{subsection.8.1.2}{BRD4-directed super-enhancer organization of transcription repression programs links to chemotherapeutic efficacy in breast cancer}{section.8.1}% 61
