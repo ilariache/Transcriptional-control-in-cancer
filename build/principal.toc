@@ -6,12 +6,12 @@
 \contentsline {section}{\numberline {1.3}Nucleosome organization}{8}{section.1.3}% 
 \contentsline {subsection}{\numberline {1.3.1}Nucleosome remodelling}{8}{subsection.1.3.1}% 
 \contentsline {subsection}{\numberline {1.3.2}Chromatin Immunoprecipitation}{10}{subsection.1.3.2}% 
-\contentsline {subsection}{\numberline {1.3.3}Main nucleosome modifications in promoters:}{10}{subsection.1.3.3}% 
+\contentsline {subsection}{\numberline {1.3.3}Main nucleosome modifications in promoters}{10}{subsection.1.3.3}% 
 \contentsline {subsubsection}{\numberline {1.3.3.1}RT-qPCR based detection of 5' RNA transcripts of inactive genes}{11}{subsubsection.1.3.3.1}% 
 \contentsline {subsubsection}{\numberline {1.3.3.2}Global run-on sequencing (GRO-seq)}{12}{subsubsection.1.3.3.2}% 
 \contentsline {subsubsection}{\numberline {1.3.3.3}Transcription pausing mechanism}{12}{subsubsection.1.3.3.3}% 
 \contentsline {section}{\numberline {1.4}Transcription elongation}{14}{section.1.4}% 
-\contentsline {subsection}{\numberline {1.4.1}Structural basis of the nucleosome transition during RNA pol II passage - Kujirai et al 2018}{14}{subsection.1.4.1}% 
+\contentsline {subsection}{\numberline {1.4.1}Structural basis of the nucleosome transition during RNA pol II passage}{14}{subsection.1.4.1}% 
 \contentsline {subsubsection}{\numberline {1.4.1.1}Nucleosome structure}{14}{subsubsection.1.4.1.1}% 
 \contentsline {subsubsection}{\numberline {1.4.1.2}Cryo-EM}{15}{subsubsection.1.4.1.2}% 
 \contentsline {subsubsection}{\numberline {1.4.1.3}Summary of the main results}{16}{subsubsection.1.4.1.3}% 
@@ -40,21 +40,20 @@
 \contentsline {section}{\numberline {3.1}Genome organization and transcription regulation}{37}{section.3.1}% 
 \contentsline {subsection}{\numberline {3.1.1}CTCF}{37}{subsection.3.1.1}% 
 \contentsline {subsection}{\numberline {3.1.2}Cohesin mediates transcriptional insulation by CCCTC-binding factor}{38}{subsection.3.1.2}% 
-\contentsline {subsection}{\numberline {3.1.3}Cohesin mediates transcriptional insulation by CCCTC-binding factor}{39}{subsection.3.1.3}% 
-\contentsline {subsection}{\numberline {3.1.4}CTCF and Cohesin in Genome Folding and Transcriptional Gene Regulation}{39}{subsection.3.1.4}% 
+\contentsline {subsection}{\numberline {3.1.3}CTCF and Cohesin in Genome Folding and Transcriptional Gene Regulation}{40}{subsection.3.1.3}% 
 \contentsline {section}{\numberline {3.2}Chromosome Conformation Capture (3C)}{42}{section.3.2}% 
 \contentsline {section}{\numberline {3.3}Hi-C approach}{42}{section.3.3}% 
-\contentsline {subsection}{\numberline {3.3.1}Optimization of Hi-C approach}{44}{subsection.3.3.1}% 
-\contentsline {section}{\numberline {3.4}Mediator and cohesin connect gene expression and chromatin architecture}{47}{section.3.4}% 
-\contentsline {subsection}{\numberline {3.4.1}Promoter-Enhancer Communication Occurs Primarily within Insulated neighbourhoods}{48}{subsection.3.4.1}% 
-\contentsline {subsection}{\numberline {3.4.2}Depletion of Mediator causes loss of PIC assembly}{49}{subsection.3.4.2}% 
+\contentsline {subsection}{\numberline {3.3.1}Optimization of Hi-C approach}{43}{subsection.3.3.1}% 
+\contentsline {section}{\numberline {3.4}Mediator and cohesin connect gene expression and chromatin architecture}{46}{section.3.4}% 
+\contentsline {subsection}{\numberline {3.4.1}Promoter-Enhancer Communication Occurs Primarily within Insulated neighbourhoods}{47}{subsection.3.4.1}% 
+\contentsline {subsection}{\numberline {3.4.2}Depletion of Mediator causes loss of PIC assembly}{48}{subsection.3.4.2}% 
 \contentsline {section}{\numberline {3.5}Super-enhancers}{50}{section.3.5}% 
 \contentsline {subsection}{\numberline {3.5.1}How is a SE generated during tumorigenesis?}{51}{subsection.3.5.1}% 
 \contentsline {subsection}{\numberline {3.5.2}How cancer cells take advantage of super-enhancers}{53}{subsection.3.5.2}% 
 \contentsline {section}{\numberline {3.6}The role of MYC in cancer cells}{54}{section.3.6}% 
 \contentsline {subsection}{\numberline {3.6.1}Key aspects of MYC in tumorigenesis}{54}{subsection.3.6.1}% 
-\contentsline {subsubsection}{\numberline {3.6.1.1}MYC transcription factor forms a heterodimer with MAX}{55}{subsubsection.3.6.1.1}% 
-\contentsline {subsection}{\numberline {3.6.2}By which major mechanism or pathway do MYC proteins promote tumorigenesis?}{57}{subsection.3.6.2}% 
+\contentsline {subsubsection}{\numberline {3.6.1.1}MYC transcription factor forms a heterodimer with MAX}{54}{subsubsection.3.6.1.1}% 
+\contentsline {subsection}{\numberline {3.6.2}By which major mechanism or pathway do MYC proteins promote tumorigenesis?}{56}{subsection.3.6.2}% 
 \contentsline {chapter}{\numberline {4}Targeting transcription in cancer}{58}{chapter.4}% 
 \contentsline {section}{\numberline {4.1}Age-related remodellling of oesophageal epithelia by mutated cancer drivers}{58}{section.4.1}% 
 \contentsline {section}{\numberline {4.2}The risk of suffering any cancer increases during aging}{60}{section.4.2}% 
@@ -95,24 +94,17 @@
 \contentsline {section}{\numberline {6.4}RNA Pol II recruitment at DSBs}{90}{section.6.4}% 
 \contentsline {chapter}{\numberline {7}Telomeres and telomere transcription in cancer}{92}{chapter.7}% 
 \contentsline {section}{\numberline {7.1}What are telomeres?}{92}{section.7.1}% 
-\contentsline {subsection}{\numberline {7.1.1}Telomeres mask chromosome ends from being recognized as double-strand breaks}{92}{subsection.7.1.1}% 
-\contentsline {subsection}{\numberline {7.1.2}Telomere dysfunction in a p53 and Rb mutant setting does not induce cell cycle block}{93}{subsection.7.1.2}% 
-\contentsline {subsection}{\numberline {7.1.3}End of replication problem}{94}{subsection.7.1.3}% 
-\contentsline {subsubsection}{\numberline {7.1.3.1}Hayflick limit}{95}{subsubsection.7.1.3.1}% 
-\contentsline {subsubsection}{\numberline {7.1.3.2}Triggering senescence}{96}{subsubsection.7.1.3.2}% 
-\contentsline {subsection}{\numberline {7.1.4}Cell crisis}{96}{subsection.7.1.4}% 
-\contentsline {subsection}{\numberline {7.1.5}Telomerase enzyme}{97}{subsection.7.1.5}% 
-\contentsline {subsubsection}{\numberline {7.1.5.1}Usage of telomerase}{98}{subsubsection.7.1.5.1}% 
+\contentsline {section}{\numberline {7.2}Telomeres mask chromosome ends from being recognized as double-strand breaks}{92}{section.7.2}% 
+\contentsline {section}{\numberline {7.3}Telomere dysfunction in a p53 and Rb mutant setting does not induce cell cycle block}{93}{section.7.3}% 
+\contentsline {section}{\numberline {7.4}End of replication problem}{94}{section.7.4}% 
+\contentsline {subsection}{\numberline {7.4.1}Hayflick limit}{95}{subsection.7.4.1}% 
+\contentsline {subsection}{\numberline {7.4.2}Triggering senescence}{96}{subsection.7.4.2}% 
+\contentsline {section}{\numberline {7.5}Cell crisis}{97}{section.7.5}% 
+\contentsline {section}{\numberline {7.6}Telomerase enzyme}{97}{section.7.6}% 
+\contentsline {subsection}{\numberline {7.6.1}Usage of telomerase}{97}{subsection.7.6.1}% 
 \contentsline {chapter}{\numberline {8}Journal Clubs}{99}{chapter.8}% 
-\contentsline {section}{\numberline {8.1}11- JC Transcriptional Control in Cancer}{99}{section.8.1}% 
-\contentsline {subsection}{\numberline {8.1.1}MYC Recruits SPT5 to RNA Polymerase II to Promote Processive Transcription Elongation}{99}{subsection.8.1.1}% 
-\contentsline {subsubsection}{\numberline {8.1.1.1}Tet-Off/On transgenic system:}{99}{subsubsection.8.1.1.1}% 
-\contentsline {subsubsection}{\numberline {8.1.1.2}MYC Controls the Assembly of Transcriptionally Engaged Pol II Complexes}{100}{subsubsection.8.1.1.2}% 
-\contentsline {subsubsection}{\numberline {8.1.1.3}CDK7 Activity is Required for Transfer of SPT5 from MYC to Pol II}{100}{subsubsection.8.1.1.3}% 
-\contentsline {subsubsection}{\numberline {8.1.1.4}MYC Influences Processivity and Directionality of Pol II after pause release}{100}{subsubsection.8.1.1.4}% 
-\contentsline {subsection}{\numberline {8.1.2}BRD4-directed super-enhancer organization of transcription repression programs links to chemotherapeutic efficacy in breast cancer}{101}{subsection.8.1.2}% 
-\contentsline {subsubsection}{\numberline {8.1.2.1}BRD4 is physically associated with LSD1/NuRD complex}{101}{subsubsection.8.1.2.1}% 
-\contentsline {subsubsection}{\numberline {8.1.2.2}BRD4 and the LSD1/NuRD complex occupy SE}{101}{subsubsection.8.1.2.2}% 
-\contentsline {subsubsection}{\numberline {8.1.2.3}Decommissioning the BRD4/LSD1/NuRD Complex Leads to JQ1 Resistance}{101}{subsubsection.8.1.2.3}% 
-\contentsline {subsubsection}{\numberline {8.1.2.4}Elimination of PELI1 Improves the Therapeutic Efficacy of JQ1 in Breast Cancer Cells}{102}{subsubsection.8.1.2.4}% 
-\contentsline {subsubsection}{\numberline {8.1.2.5}The Clinicopathological Significance of the PELI1-LSD1-BRD4/LSD1/ NuRD Axis in Breast Cancer}{102}{subsubsection.8.1.2.5}% 
+\contentsline {section}{\numberline {8.1}Enhancers are activated by p300/CBP activity-dependent PIC assembly, RNAPII recruitment, and pause release}{99}{section.8.1}% 
+\contentsline {section}{\numberline {8.2}SPT5 stabilization of promoter - proximal RNA polymerase II}{100}{section.8.2}% 
+\contentsline {section}{\numberline {8.3}MYC Recruits SPT5 to RNA Polymerase II to Promote Processive Transcription Elongation}{104}{section.8.3}% 
+\contentsline {section}{\numberline {8.4}BRD4-directed super-enhancer organization of transcription repression programs links to chemotherapeutic efficacy in breast cancer}{105}{section.8.4}% 
+\contentsline {section}{\numberline {8.5}HSF2 cooperates with HSF1 to drive a transcriptional program critical for the malignant state}{106}{section.8.5}% 
