@@ -103,8 +103,18 @@
 \contentsline {section}{\numberline {7.6}Telomerase enzyme}{97}{section.7.6}% 
 \contentsline {subsection}{\numberline {7.6.1}Usage of telomerase}{97}{subsection.7.6.1}% 
 \contentsline {chapter}{\numberline {8}Journal Clubs}{99}{chapter.8}% 
-\contentsline {section}{\numberline {8.1}Enhancers are activated by p300/CBP activity-dependent PIC assembly, RNAPII recruitment, and pause release}{99}{section.8.1}% 
-\contentsline {section}{\numberline {8.2}SPT5 stabilization of promoter - proximal RNA polymerase II}{100}{section.8.2}% 
-\contentsline {section}{\numberline {8.3}MYC Recruits SPT5 to RNA Polymerase II to Promote Processive Transcription Elongation}{104}{section.8.3}% 
-\contentsline {section}{\numberline {8.4}BRD4-directed super-enhancer organization of transcription repression programs links to chemotherapeutic efficacy in breast cancer}{105}{section.8.4}% 
-\contentsline {section}{\numberline {8.5}HSF2 cooperates with HSF1 to drive a transcriptional program critical for the malignant state}{106}{section.8.5}% 
+\contentsline {section}{\numberline {8.1}Mechansims of transcription regulation}{99}{section.8.1}% 
+\contentsline {subsection}{\numberline {8.1.1}Enhancers are activated by p300/CBP activity-dependent PIC assembly, RNAPII recruitment, and pause release}{99}{subsection.8.1.1}% 
+\contentsline {subsection}{\numberline {8.1.2}SPT5 stabilization of promoter - proximal RNA polymerase II}{100}{subsection.8.1.2}% 
+\contentsline {section}{\numberline {8.2}Mechanisms of transcription regulation in cancer}{104}{section.8.2}% 
+\contentsline {subsection}{\numberline {8.2.1}MYC Recruits SPT5 to RNA Polymerase II to Promote Processive Transcription Elongation}{104}{subsection.8.2.1}% 
+\contentsline {subsection}{\numberline {8.2.2}BRD4-directed super-enhancer organization of transcription repression programs links to chemotherapeutic efficacy in breast cancer}{105}{subsection.8.2.2}% 
+\contentsline {subsection}{\numberline {8.2.3}HSF2 cooperates with HSF1 to drive a transcriptional program critical for the malignant state}{106}{subsection.8.2.3}% 
+\contentsline {subsection}{\numberline {8.2.4}Oncogenic lncRNAs alter epigenetic memory at a fragile chromosomal site in human cancer cells}{109}{subsection.8.2.4}% 
+\contentsline {section}{\numberline {8.3}Targeting transcription in cancer}{109}{section.8.3}% 
+\contentsline {subsection}{\numberline {8.3.1}Targeting histone acetylation dynamics and oncogenic transcription by catalytic p300/CBP inhibition}{109}{subsection.8.3.1}% 
+\contentsline {subsection}{\numberline {8.3.2}Super Elongation Complex as a Targetable Dependency in Diffuse Midline Glioma}{110}{subsection.8.3.2}% 
+\contentsline {subsection}{\numberline {8.3.3}Transcription elongation factors represent in vivo cancer dependencies in glioblastoma}{111}{subsection.8.3.3}% 
+\contentsline {section}{\numberline {8.4}Nuclear receptors in cancer}{113}{section.8.4}% 
+\contentsline {subsection}{\numberline {8.4.1}ER$\alpha $ is an RNA-binding protein sustaining tumor cell survival and drug resistance}{113}{subsection.8.4.1}% 
+\contentsline {subsection}{\numberline {8.4.2}Analysis of estrogen-regulated enhancer RNAs identified a functional motif required for enhancer assembly and gene expression}{115}{subsection.8.4.2}% 
