@@ -13,7 +13,7 @@
 \contentsline {section}{\numberline {1.4}Transcription elongation}{14}{section.1.4}% 
 \contentsline {subsection}{\numberline {1.4.1}Structural basis of the nucleosome transition during RNA pol II passage}{14}{subsection.1.4.1}% 
 \contentsline {subsubsection}{\numberline {1.4.1.1}Nucleosome structure}{14}{subsubsection.1.4.1.1}% 
-\contentsline {subsubsection}{\numberline {1.4.1.2}Cryo-EM}{15}{subsubsection.1.4.1.2}% 
+\contentsline {subsubsection}{\numberline {1.4.1.2}Cryo-EM}{14}{subsubsection.1.4.1.2}% 
 \contentsline {subsubsection}{\numberline {1.4.1.3}Summary of the main results}{16}{subsubsection.1.4.1.3}% 
 \contentsline {subsubsection}{\numberline {1.4.1.4}Template looping}{16}{subsubsection.1.4.1.4}% 
 \contentsline {subsubsection}{\numberline {1.4.1.5}Structural basis of nucleosome disassembly and reassembly by RNA P II elongation complex with FACT - Ehara et al.}{17}{subsubsection.1.4.1.5}% 
@@ -86,35 +86,43 @@
 \contentsline {subsubsection}{\numberline {5.3.2.1}A topoisomerase IIb-mediated dsDNA break required for Regulated Transcription}{83}{subsubsection.5.3.2.1}% 
 \contentsline {subsubsection}{\numberline {5.3.2.2}BRCA1}{84}{subsubsection.5.3.2.2}% 
 \contentsline {subsubsection}{\numberline {5.3.2.3}Stark et al.}{84}{subsubsection.5.3.2.3}% 
-\contentsline {chapter}{\numberline {6}Role of transcription in DNA damage response and repair}{86}{chapter.6}% 
-\contentsline {section}{\numberline {6.1}Biogenesis of canonical miRNA}{86}{section.6.1}% 
-\contentsline {section}{\numberline {6.2}DICER and DROSH regulation of DDR and checkpoint enforcement}{88}{section.6.2}% 
-\contentsline {section}{\numberline {6.3}DDRNAs}{88}{section.6.3}% 
-\contentsline {subsection}{\numberline {6.3.1}DDRNAs and dilncRNAs regulate DDR and DNA repair}{90}{subsection.6.3.1}% 
-\contentsline {section}{\numberline {6.4}RNA Pol II recruitment at DSBs}{90}{section.6.4}% 
-\contentsline {chapter}{\numberline {7}Telomeres and telomere transcription in cancer}{92}{chapter.7}% 
-\contentsline {section}{\numberline {7.1}What are telomeres?}{92}{section.7.1}% 
-\contentsline {section}{\numberline {7.2}Telomeres mask chromosome ends from being recognized as double-strand breaks}{92}{section.7.2}% 
-\contentsline {section}{\numberline {7.3}Telomere dysfunction in a p53 and Rb mutant setting does not induce cell cycle block}{93}{section.7.3}% 
-\contentsline {section}{\numberline {7.4}End of replication problem}{94}{section.7.4}% 
-\contentsline {subsection}{\numberline {7.4.1}Hayflick limit}{95}{subsection.7.4.1}% 
-\contentsline {subsection}{\numberline {7.4.2}Triggering senescence}{96}{subsection.7.4.2}% 
-\contentsline {section}{\numberline {7.5}Cell crisis}{97}{section.7.5}% 
-\contentsline {section}{\numberline {7.6}Telomerase enzyme}{97}{section.7.6}% 
-\contentsline {subsection}{\numberline {7.6.1}Usage of telomerase}{97}{subsection.7.6.1}% 
-\contentsline {chapter}{\numberline {8}Journal Clubs}{99}{chapter.8}% 
-\contentsline {section}{\numberline {8.1}Mechansims of transcription regulation}{99}{section.8.1}% 
-\contentsline {subsection}{\numberline {8.1.1}Enhancers are activated by p300/CBP activity-dependent PIC assembly, RNAPII recruitment, and pause release}{99}{subsection.8.1.1}% 
-\contentsline {subsection}{\numberline {8.1.2}SPT5 stabilization of promoter - proximal RNA polymerase II}{100}{subsection.8.1.2}% 
-\contentsline {section}{\numberline {8.2}Mechanisms of transcription regulation in cancer}{104}{section.8.2}% 
-\contentsline {subsection}{\numberline {8.2.1}MYC Recruits SPT5 to RNA Polymerase II to Promote Processive Transcription Elongation}{104}{subsection.8.2.1}% 
-\contentsline {subsection}{\numberline {8.2.2}BRD4-directed super-enhancer organization of transcription repression programs links to chemotherapeutic efficacy in breast cancer}{105}{subsection.8.2.2}% 
-\contentsline {subsection}{\numberline {8.2.3}HSF2 cooperates with HSF1 to drive a transcriptional program critical for the malignant state}{106}{subsection.8.2.3}% 
-\contentsline {subsection}{\numberline {8.2.4}Oncogenic lncRNAs alter epigenetic memory at a fragile chromosomal site in human cancer cells}{109}{subsection.8.2.4}% 
-\contentsline {section}{\numberline {8.3}Targeting transcription in cancer}{109}{section.8.3}% 
-\contentsline {subsection}{\numberline {8.3.1}Targeting histone acetylation dynamics and oncogenic transcription by catalytic p300/CBP inhibition}{109}{subsection.8.3.1}% 
-\contentsline {subsection}{\numberline {8.3.2}Super Elongation Complex as a Targetable Dependency in Diffuse Midline Glioma}{110}{subsection.8.3.2}% 
-\contentsline {subsection}{\numberline {8.3.3}Transcription elongation factors represent in vivo cancer dependencies in glioblastoma}{111}{subsection.8.3.3}% 
-\contentsline {section}{\numberline {8.4}Nuclear receptors in cancer}{113}{section.8.4}% 
-\contentsline {subsection}{\numberline {8.4.1}ER$\alpha $ is an RNA-binding protein sustaining tumor cell survival and drug resistance}{113}{subsection.8.4.1}% 
-\contentsline {subsection}{\numberline {8.4.2}Analysis of estrogen-regulated enhancer RNAs identified a functional motif required for enhancer assembly and gene expression}{115}{subsection.8.4.2}% 
+\contentsline {subsection}{\numberline {5.3.3}Causes of genetic instability (from last lecture)}{85}{subsection.5.3.3}% 
+\contentsline {section}{\numberline {5.4}DNA damage signaling activation during tumorigenesis}{86}{section.5.4}% 
+\contentsline {subsection}{\numberline {5.4.1}Which tumorigenic events trigger activation DDR? (very early in tumorigenesis!)}{86}{subsection.5.4.1}% 
+\contentsline {subsection}{\numberline {5.4.2}Oncogene induced senescence cells}{86}{subsection.5.4.2}% 
+\contentsline {subsubsection}{\numberline {5.4.2.1}Replication stress}{87}{subsubsection.5.4.2.1}% 
+\contentsline {subsubsection}{\numberline {5.4.2.2}Chromosome abnormalities due to pre-mitotic defects are frequently found in tumors}{87}{subsubsection.5.4.2.2}% 
+\contentsline {subsubsection}{\numberline {5.4.2.3}Transcription replication conflicts}{88}{subsubsection.5.4.2.3}% 
+\contentsline {subsubsection}{\numberline {5.4.2.4}Increased global transcription activity as a mechanism of replication stress in cancer}{88}{subsubsection.5.4.2.4}% 
+\contentsline {chapter}{\numberline {6}Role of transcription in DNA damage response and repair}{90}{chapter.6}% 
+\contentsline {section}{\numberline {6.1}Biogenesis of canonical miRNA}{90}{section.6.1}% 
+\contentsline {section}{\numberline {6.2}DICER and DROSH regulation of DDR and checkpoint enforcement}{92}{section.6.2}% 
+\contentsline {section}{\numberline {6.3}DDRNAs}{92}{section.6.3}% 
+\contentsline {subsection}{\numberline {6.3.1}DDRNAs and dilncRNAs regulate DDR and DNA repair}{94}{subsection.6.3.1}% 
+\contentsline {section}{\numberline {6.4}RNA Pol II recruitment at DSBs}{94}{section.6.4}% 
+\contentsline {chapter}{\numberline {7}Telomeres and telomere transcription in cancer}{96}{chapter.7}% 
+\contentsline {section}{\numberline {7.1}What are telomeres?}{96}{section.7.1}% 
+\contentsline {section}{\numberline {7.2}Telomeres mask chromosome ends from being recognized as double-strand breaks}{96}{section.7.2}% 
+\contentsline {section}{\numberline {7.3}Telomere dysfunction in a p53 and Rb mutant setting does not induce cell cycle block}{97}{section.7.3}% 
+\contentsline {section}{\numberline {7.4}End of replication problem}{98}{section.7.4}% 
+\contentsline {subsection}{\numberline {7.4.1}Hayflick limit}{99}{subsection.7.4.1}% 
+\contentsline {subsection}{\numberline {7.4.2}Triggering senescence}{100}{subsection.7.4.2}% 
+\contentsline {section}{\numberline {7.5}Cell crisis}{101}{section.7.5}% 
+\contentsline {section}{\numberline {7.6}Telomerase enzyme}{101}{section.7.6}% 
+\contentsline {subsection}{\numberline {7.6.1}Usage of telomerase}{101}{subsection.7.6.1}% 
+\contentsline {chapter}{\numberline {8}Journal Clubs}{103}{chapter.8}% 
+\contentsline {section}{\numberline {8.1}Mechansims of transcription regulation}{103}{section.8.1}% 
+\contentsline {subsection}{\numberline {8.1.1}Enhancers are activated by p300/CBP activity-dependent PIC assembly, RNAPII recruitment, and pause release}{103}{subsection.8.1.1}% 
+\contentsline {subsection}{\numberline {8.1.2}SPT5 stabilization of promoter - proximal RNA polymerase II}{104}{subsection.8.1.2}% 
+\contentsline {section}{\numberline {8.2}Mechanisms of transcription regulation in cancer}{108}{section.8.2}% 
+\contentsline {subsection}{\numberline {8.2.1}MYC Recruits SPT5 to RNA Polymerase II to Promote Processive Transcription Elongation}{108}{subsection.8.2.1}% 
+\contentsline {subsection}{\numberline {8.2.2}BRD4-directed super-enhancer organization of transcription repression programs links to chemotherapeutic efficacy in breast cancer}{109}{subsection.8.2.2}% 
+\contentsline {subsection}{\numberline {8.2.3}HSF2 cooperates with HSF1 to drive a transcriptional program critical for the malignant state}{110}{subsection.8.2.3}% 
+\contentsline {subsection}{\numberline {8.2.4}Oncogenic lncRNAs alter epigenetic memory at a fragile chromosomal site in human cancer cells}{113}{subsection.8.2.4}% 
+\contentsline {section}{\numberline {8.3}Targeting transcription in cancer}{114}{section.8.3}% 
+\contentsline {subsection}{\numberline {8.3.1}Targeting histone acetylation dynamics and oncogenic transcription by catalytic p300/CBP inhibition}{114}{subsection.8.3.1}% 
+\contentsline {subsection}{\numberline {8.3.2}Super Elongation Complex as a Targetable Dependency in Diffuse Midline Glioma}{114}{subsection.8.3.2}% 
+\contentsline {subsection}{\numberline {8.3.3}Transcription elongation factors represent in vivo cancer dependencies in glioblastoma}{116}{subsection.8.3.3}% 
+\contentsline {section}{\numberline {8.4}Nuclear receptors in cancer}{118}{section.8.4}% 
+\contentsline {subsection}{\numberline {8.4.1}ER$\alpha $ is an RNA-binding protein sustaining tumor cell survival and drug resistance}{118}{subsection.8.4.1}% 
+\contentsline {subsection}{\numberline {8.4.2}Analysis of estrogen-regulated enhancer RNAs identified a functional motif required for enhancer assembly and gene expression}{120}{subsection.8.4.2}% 
