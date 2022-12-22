@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.3.9)  21 DEC 2022 15:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.3.9)  22 DEC 2022 12:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1313,17 +1313,13 @@ Package pdftex.def Info: chapters/_resources/../_resources/Screenshot_2022-10-1
 (pdftex.def)             Requested size: 216.81pt x 136.18344pt.
  [32 <./chapters/_resources/../_resources/Screenshot_2022-10-12_at_10-00-02.png
 >]
-Underfull \hbox (badness 10000) in paragraph at lines 385--386
-
- []
-
 <chapters/_resources/../_resources/Screenshot_2022-10-14_at_10-52-51.png, id=89
 9, 706.64pt x 244.915pt>
 File: chapters/_resources/../_resources/Screenshot_2022-10-14_at_10-52-51.png G
 raphic file (type png)
 <use chapters/_resources/../_resources/Screenshot_2022-10-14_at_10-52-51.png>
 Package pdftex.def Info: chapters/_resources/../_resources/Screenshot_2022-10-1
-4_at_10-52-51.png  used on input line 399.
+4_at_10-52-51.png  used on input line 398.
 (pdftex.def)             Requested size: 216.81pt x 75.14554pt.
 <chapters/_resources/../_resources/Screenshot_2022-10-14_at_10-54-02.png, id=90
 0, 321.2pt x 117.94063pt>
@@ -1331,10 +1327,10 @@ File: chapters/_resources/../_resources/Screenshot_2022-10-14_at_10-54-02.png G
 raphic file (type png)
 <use chapters/_resources/../_resources/Screenshot_2022-10-14_at_10-54-02.png>
 Package pdftex.def Info: chapters/_resources/../_resources/Screenshot_2022-10-1
-4_at_10-54-02.png  used on input line 408.
+4_at_10-54-02.png  used on input line 407.
 (pdftex.def)             Requested size: 216.81pt x 79.61188pt.
-[33]
-Overfull \hbox (20.43439pt too wide) in paragraph at lines 433--433
+ [33]
+Overfull \hbox (20.43439pt too wide) in paragraph at lines 432--432
 []\T1/lmr/bx/n/12 CCAT2, a novel non-cod-ing RNA map-ping to 8q24, un-der-lies 
 metastatic
  []
@@ -1347,7 +1343,7 @@ File: chapters/_resources/../_resources/Screenshot_2022-10-14_at_11-20-37.png G
 raphic file (type png)
 <use chapters/_resources/../_resources/Screenshot_2022-10-14_at_11-20-37.png>
 Package pdftex.def Info: chapters/_resources/../_resources/Screenshot_2022-10-1
-4_at_11-20-37.png  used on input line 476.
+4_at_11-20-37.png  used on input line 475.
 (pdftex.def)             Requested size: 216.81pt x 255.07343pt.
 )
 (./chapters/03/CTCF.tex [35] [36 <./chapters/_resources/../_resources/Screensho
@@ -1372,7 +1368,7 @@ Package pdftex.def Info: chapters/_resources/../_resources/Screenshot_2022-10-1
 [38 <./chapters/_resources/../_resources/Screenshot_2022-10-14_at_19-51-43.png>
 ]
 <chapters/_resources/../_resources/Screenshot_2022-10-14_at_19-50-44.png, id=94
-5, 824.07875pt x 347.2975pt>
+6, 824.07875pt x 347.2975pt>
 File: chapters/_resources/../_resources/Screenshot_2022-10-14_at_19-50-44.png G
 raphic file (type png)
 <use chapters/_resources/../_resources/Screenshot_2022-10-14_at_19-50-44.png>
@@ -1380,89 +1376,89 @@ Package pdftex.def Info: chapters/_resources/../_resources/Screenshot_2022-10-1
 4_at_19-50-44.png  used on input line 67.
 (pdftex.def)             Requested size: 346.89731pt x 146.1978pt.
 <chapters/_resources/../_resources/Screenshot_2022-10-14_at_12-11-11.png, id=94
-6, 321.2pt x 217.31187pt>
+9, 321.2pt x 217.31187pt>
 File: chapters/_resources/../_resources/Screenshot_2022-10-14_at_12-11-11.png G
 raphic file (type png)
 <use chapters/_resources/../_resources/Screenshot_2022-10-14_at_12-11-11.png>
 Package pdftex.def Info: chapters/_resources/../_resources/Screenshot_2022-10-1
-4_at_12-11-11.png  used on input line 75.
-(pdftex.def)             Requested size: 260.17464pt x 176.02827pt.
-<chapters/_resources/../_resources/Screenshot_2022-10-14_at_12-10-46.png, id=94
-7, 560.0925pt x 329.23pt>
+4_at_12-11-11.png  used on input line 77.
+(pdftex.def)             Requested size: 124.8827pt x 84.48932pt.
+<chapters/_resources/../_resources/Screenshot_2022-10-14_at_12-10-46.png, id=95
+0, 560.0925pt x 329.23pt>
 File: chapters/_resources/../_resources/Screenshot_2022-10-14_at_12-10-46.png G
 raphic file (type png)
 <use chapters/_resources/../_resources/Screenshot_2022-10-14_at_12-10-46.png>
 Package pdftex.def Info: chapters/_resources/../_resources/Screenshot_2022-10-1
-4_at_12-10-46.png  used on input line 82.
-(pdftex.def)             Requested size: 216.81pt x 127.44469pt.
+4_at_12-10-46.png  used on input line 83.
+(pdftex.def)             Requested size: 104.06787pt x 61.17284pt.
  [39 <./chapters/_resources/../_resources/Screenshot_2022-10-14_at_19-50-44.png
-> <./chapters/_resources/../_resources/Screenshot_2022-10-14_at_12-11-11.png>]
-<chapters/_resources/../_resources/Screenshot_2022-10-14_at_19-52-56.png, id=95
-6, 321.2pt x 135.50626pt>
+> <./chapters/_resources/../_resources/Screenshot_2022-10-14_at_12-11-11.png> <
+./chapters/_resources/../_resources/Screenshot_2022-10-14_at_12-10-46.png>]
+<chapters/_resources/../_resources/Screenshot_2022-10-14_at_19-52-56.png, id=96
+0, 321.2pt x 135.50626pt>
 File: chapters/_resources/../_resources/Screenshot_2022-10-14_at_19-52-56.png G
 raphic file (type png)
 <use chapters/_resources/../_resources/Screenshot_2022-10-14_at_19-52-56.png>
 Package pdftex.def Info: chapters/_resources/../_resources/Screenshot_2022-10-1
-4_at_19-52-56.png  used on input line 95.
+4_at_19-52-56.png  used on input line 98.
 (pdftex.def)             Requested size: 260.17464pt x 109.76358pt.
-[40 <./chapters/_resources/../_resources/Screenshot_2022-10-14_at_12-10-46.png>
- <./chapters/_resources/../_resources/Screenshot_2022-10-14_at_19-52-56.png>]
+
+[40 <./chapters/_resources/../_resources/Screenshot_2022-10-14_at_19-52-56.png>
+]
 <chapters/_resources/../_resources/Screenshot_2022-10-19_at_08-48-41.png, id=96
-5, 730.73pt x 373.395pt>
+7, 730.73pt x 373.395pt>
 File: chapters/_resources/../_resources/Screenshot_2022-10-19_at_08-48-41.png G
 raphic file (type png)
 <use chapters/_resources/../_resources/Screenshot_2022-10-19_at_08-48-41.png>
 Package pdftex.def Info: chapters/_resources/../_resources/Screenshot_2022-10-1
-9_at_08-48-41.png  used on input line 126.
+9_at_08-48-41.png  used on input line 127.
 (pdftex.def)             Requested size: 346.89731pt x 177.2619pt.
-
-[41 <./chapters/_resources/../_resources/Screenshot_2022-10-19_at_08-48-41.png>
-]
+ [41 <./chapters/_resources/../_resources/Screenshot_2022-10-19_at_08-48-41.png
+>]
 <chapters/_resources/../_resources/Screenshot_2022-10-25_at_11-47-30.png, id=97
-3, 321.2pt x 121.45375pt>
+9, 321.2pt x 121.45375pt>
 File: chapters/_resources/../_resources/Screenshot_2022-10-25_at_11-47-30.png G
 raphic file (type png)
 <use chapters/_resources/../_resources/Screenshot_2022-10-25_at_11-47-30.png>
 Package pdftex.def Info: chapters/_resources/../_resources/Screenshot_2022-10-2
-5_at_11-47-30.png  used on input line 163.
+5_at_11-47-30.png  used on input line 164.
 (pdftex.def)             Requested size: 303.53267pt x 114.77623pt.
- [42 <./chapters/_resources/../_resources/Screenshot_2022-10-25_at_11-47-30.png
->]
 <chapters/_resources/../_resources/Screenshot_2022-10-19_at_09-06-00.png, id=98
-7, 321.2pt x 280.04625pt>
+1, 321.2pt x 280.04625pt>
 File: chapters/_resources/../_resources/Screenshot_2022-10-19_at_09-06-00.png G
 raphic file (type png)
 <use chapters/_resources/../_resources/Screenshot_2022-10-19_at_09-06-00.png>
 Package pdftex.def Info: chapters/_resources/../_resources/Screenshot_2022-10-1
-9_at_09-06-00.png  used on input line 181.
+9_at_09-06-00.png  used on input line 182.
 (pdftex.def)             Requested size: 216.81pt x 189.03586pt.
-<chapters/_resources/../_resources/Screenshot_2022-10-19_at_09-10-50.png, id=98
-8, 321.2pt x 313.67188pt>
+ [42 <./chapters/_resources/../_resources/Screenshot_2022-10-25_at_11-47-30.png
+>]
+<chapters/_resources/../_resources/Screenshot_2022-10-19_at_09-10-50.png, id=99
+4, 321.2pt x 313.67188pt>
 File: chapters/_resources/../_resources/Screenshot_2022-10-19_at_09-10-50.png G
 raphic file (type png)
 <use chapters/_resources/../_resources/Screenshot_2022-10-19_at_09-10-50.png>
 Package pdftex.def Info: chapters/_resources/../_resources/Screenshot_2022-10-1
-9_at_09-10-50.png  used on input line 204.
-(pdftex.def)             Requested size: 216.81pt x 211.73372pt.
-<chapters/_resources/../_resources/Screenshot_2022-10-19_at_09-11-30.png, id=98
-9, 321.2pt x 301.62688pt>
+9_at_09-10-50.png  used on input line 207.
+(pdftex.def)             Requested size: 145.69438pt x 142.28058pt.
+<chapters/_resources/../_resources/Screenshot_2022-10-19_at_09-11-30.png, id=99
+5, 321.2pt x 301.62688pt>
 File: chapters/_resources/../_resources/Screenshot_2022-10-19_at_09-11-30.png G
 raphic file (type png)
 <use chapters/_resources/../_resources/Screenshot_2022-10-19_at_09-11-30.png>
 Package pdftex.def Info: chapters/_resources/../_resources/Screenshot_2022-10-1
-9_at_09-11-30.png  used on input line 210.
-(pdftex.def)             Requested size: 216.81pt x 203.60315pt.
+9_at_09-11-30.png  used on input line 212.
+(pdftex.def)             Requested size: 145.69438pt x 136.817pt.
  [43 <./chapters/_resources/../_resources/Screenshot_2022-10-19_at_09-06-00.png
->] [44 <./chapters/_resources/../_resources/Screenshot_2022-10-19_at_09-10-50.p
-ng> <./chapters/_resources/../_resources/Screenshot_2022-10-19_at_09-11-30.png>
-]
+> <./chapters/_resources/../_resources/Screenshot_2022-10-19_at_09-10-50.png> <
+./chapters/_resources/../_resources/Screenshot_2022-10-19_at_09-11-30.png>]
 <chapters/_resources/../_resources/Screenshot_2022-10-19_at_09-20-57.png, id=10
 05, 574.145pt x 468.75125pt>
 File: chapters/_resources/../_resources/Screenshot_2022-10-19_at_09-20-57.png G
 raphic file (type png)
 <use chapters/_resources/../_resources/Screenshot_2022-10-19_at_09-20-57.png>
 Package pdftex.def Info: chapters/_resources/../_resources/Screenshot_2022-10-1
-9_at_09-20-57.png  used on input line 234.
+9_at_09-20-57.png  used on input line 237.
 (pdftex.def)             Requested size: 216.81pt x 177.01152pt.
 <chapters/_resources/../_resources/Screenshot_2022-10-19_at_09-21-57.png, id=10
 06, 746.79pt x 464.73625pt>
@@ -1470,171 +1466,170 @@ File: chapters/_resources/../_resources/Screenshot_2022-10-19_at_09-21-57.png G
 raphic file (type png)
 <use chapters/_resources/../_resources/Screenshot_2022-10-19_at_09-21-57.png>
 Package pdftex.def Info: chapters/_resources/../_resources/Screenshot_2022-10-1
-9_at_09-21-57.png  used on input line 242.
+9_at_09-21-57.png  used on input line 245.
 (pdftex.def)             Requested size: 216.81pt x 134.91898pt.
- [45 <./chapters/_resources/../_resources/Screenshot_2022-10-19_at_09-20-57.png
->]
+ [44 <./chapters/_resources/../_resources/Screenshot_2022-10-19_at_09-20-57.png
+> <./chapters/_resources/../_resources/Screenshot_2022-10-19_at_09-21-57.png>]
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
 Make it at least 22.48878pt.
 We now make it that large for the rest of the document.
 This may cause the page layout to be inconsistent, however.
 
-[46 <./chapters/_resources/../_resources/Screenshot_2022-10-19_at_09-21-57.png>
-]
+[45]
 <chapters/_resources/../_resources/Screenshot_2022-10-19_at_10-01-09.png, id=10
-23, 1383.1675pt x 626.34pt>
+24, 1383.1675pt x 626.34pt>
 File: chapters/_resources/../_resources/Screenshot_2022-10-19_at_10-01-09.png G
 raphic file (type png)
 <use chapters/_resources/../_resources/Screenshot_2022-10-19_at_10-01-09.png>
 Package pdftex.def Info: chapters/_resources/../_resources/Screenshot_2022-10-1
-9_at_10-01-09.png  used on input line 306.
+9_at_10-01-09.png  used on input line 309.
 (pdftex.def)             Requested size: 216.81pt x 98.1712pt.
- [47 <./chapters/_resources/../_resources/Screenshot_2022-10-19_at_10-01-09.png
+ [46 <./chapters/_resources/../_resources/Screenshot_2022-10-19_at_10-01-09.png
 >]
 <chapters/_resources/../_resources/4eb79fba5a169cc3d31f5400dee44c80.png, id=103
-1, 403.5075pt x 201.75375pt>
+2, 403.5075pt x 201.75375pt>
 File: chapters/_resources/../_resources/4eb79fba5a169cc3d31f5400dee44c80.png Gr
 aphic file (type png)
 <use chapters/_resources/../_resources/4eb79fba5a169cc3d31f5400dee44c80.png>
 Package pdftex.def Info: chapters/_resources/../_resources/4eb79fba5a169cc3d31f
-5400dee44c80.png  used on input line 333.
-(pdftex.def)             Requested size: 346.89731pt x 173.44942pt.
- [48 <./chapters/_resources/../_resources/4eb79fba5a169cc3d31f5400dee44c80.png>
+5400dee44c80.png  used on input line 336.
+(pdftex.def)             Requested size: 216.81pt x 108.40665pt.
+ [47 <./chapters/_resources/../_resources/4eb79fba5a169cc3d31f5400dee44c80.png>
 ]
 <chapters/_resources/../_resources/bf32b9679af0fb7fcba57b9f87bb4207.png, id=104
-0, 771.88374pt x 329.23pt>
+2, 771.88374pt x 329.23pt>
 File: chapters/_resources/../_resources/bf32b9679af0fb7fcba57b9f87bb4207.png Gr
 aphic file (type png)
 <use chapters/_resources/../_resources/bf32b9679af0fb7fcba57b9f87bb4207.png>
 Package pdftex.def Info: chapters/_resources/../_resources/bf32b9679af0fb7fcba5
-7b9f87bb4207.png  used on input line 353.
-(pdftex.def)             Requested size: 303.53267pt x 129.46419pt.
+7b9f87bb4207.png  used on input line 359.
+(pdftex.def)             Requested size: 104.06787pt x 44.38383pt.
 <chapters/_resources/../_resources/3d83d920d425aa5f76bdbb127596c02b.png, id=104
-2, 692.5875pt x 260.975pt>
+3, 692.5875pt x 260.975pt>
 File: chapters/_resources/../_resources/3d83d920d425aa5f76bdbb127596c02b.png Gr
 aphic file (type png)
 <use chapters/_resources/../_resources/3d83d920d425aa5f76bdbb127596c02b.png>
 Package pdftex.def Info: chapters/_resources/../_resources/3d83d920d425aa5f76bd
-bb127596c02b.png  used on input line 363.
-(pdftex.def)             Requested size: 216.81pt x 81.69386pt.
- [49 <./chapters/_resources/../_resources/bf32b9679af0fb7fcba57b9f87bb4207.png>
- <./chapters/_resources/../_resources/3d83d920d425aa5f76bdbb127596c02b.png>]
-<chapters/_resources/../_resources/99fbd93b812d482263d53c442698a36a.png, id=105
-2, 344.28625pt x 287.0725pt>
+bb127596c02b.png  used on input line 365.
+(pdftex.def)             Requested size: 104.06787pt x 39.21225pt.
+<chapters/_resources/../_resources/99fbd93b812d482263d53c442698a36a.png, id=104
+5, 344.28625pt x 287.0725pt>
 File: chapters/_resources/../_resources/99fbd93b812d482263d53c442698a36a.png Gr
 aphic file (type png)
 <use chapters/_resources/../_resources/99fbd93b812d482263d53c442698a36a.png>
 Package pdftex.def Info: chapters/_resources/../_resources/99fbd93b812d482263d5
-3c442698a36a.png  used on input line 389.
-(pdftex.def)             Requested size: 216.81pt x 180.78215pt.
- [50 <./chapters/_resources/../_resources/99fbd93b812d482263d53c442698a36a.png>
-]
-<chapters/_resources/../_resources/c099d4a9ad4bba13e7839f48fd831265.png, id=106
-3, 258.9675pt x 329.23pt>
+3c442698a36a.png  used on input line 392.
+(pdftex.def)             Requested size: 62.44135pt x 52.06067pt.
+<chapters/_resources/../_resources/c099d4a9ad4bba13e7839f48fd831265.png, id=104
+6, 258.9675pt x 329.23pt>
 File: chapters/_resources/../_resources/c099d4a9ad4bba13e7839f48fd831265.png Gr
 aphic file (type png)
 <use chapters/_resources/../_resources/c099d4a9ad4bba13e7839f48fd831265.png>
 Package pdftex.def Info: chapters/_resources/../_resources/c099d4a9ad4bba13e783
-9f48fd831265.png  used on input line 409.
-(pdftex.def)             Requested size: 216.81pt x 275.64705pt.
+9f48fd831265.png  used on input line 398.
+(pdftex.def)             Requested size: 62.44135pt x 79.37851pt.
+ [48 <./chapters/_resources/../_resources/bf32b9679af0fb7fcba57b9f87bb4207.png>
+ <./chapters/_resources/../_resources/3d83d920d425aa5f76bdbb127596c02b.png> <./
+chapters/_resources/../_resources/99fbd93b812d482263d53c442698a36a.png> <./chap
+ters/_resources/../_resources/c099d4a9ad4bba13e7839f48fd831265.png>]
 <chapters/_resources/../_resources/dfb8371fc17e078308c3d5aa247ebcbf.png, id=106
-5, 641.39626pt x 385.44pt>
+2, 641.39626pt x 385.44pt>
 File: chapters/_resources/../_resources/dfb8371fc17e078308c3d5aa247ebcbf.png Gr
 aphic file (type png)
 <use chapters/_resources/../_resources/dfb8371fc17e078308c3d5aa247ebcbf.png>
 Package pdftex.def Info: chapters/_resources/../_resources/dfb8371fc17e078308c3
-d5aa247ebcbf.png  used on input line 423.
-(pdftex.def)             Requested size: 216.81pt x 130.28917pt.
+d5aa247ebcbf.png  used on input line 430.
+(pdftex.def)             Requested size: 145.69438pt x 87.54951pt.
 <chapters/_resources/../_resources/8bd5f4820c364c35b02c35eb0e48f464.png, id=106
-7, 641.39626pt x 375.4025pt>
+3, 641.39626pt x 375.4025pt>
 File: chapters/_resources/../_resources/8bd5f4820c364c35b02c35eb0e48f464.png Gr
 aphic file (type png)
 <use chapters/_resources/../_resources/8bd5f4820c364c35b02c35eb0e48f464.png>
 Package pdftex.def Info: chapters/_resources/../_resources/8bd5f4820c364c35b02c
-35eb0e48f464.png  used on input line 435.
-(pdftex.def)             Requested size: 216.81pt x 126.89622pt.
- [51 <./chapters/_resources/../_resources/c099d4a9ad4bba13e7839f48fd831265.png>
-] [52 <./chapters/_resources/../_resources/dfb8371fc17e078308c3d5aa247ebcbf.png
-> <./chapters/_resources/../_resources/8bd5f4820c364c35b02c35eb0e48f464.png>]
-<chapters/_resources/../_resources/796c982294bedb0a7994a942aa5ff2a5.png, id=108
-3, 380.42125pt x 193.72375pt>
+35eb0e48f464.png  used on input line 436.
+(pdftex.def)             Requested size: 145.69438pt x 85.26958pt.
+
+[49 <./chapters/_resources/../_resources/dfb8371fc17e078308c3d5aa247ebcbf.png> 
+<./chapters/_resources/../_resources/8bd5f4820c364c35b02c35eb0e48f464.png>]
+<chapters/_resources/../_resources/796c982294bedb0a7994a942aa5ff2a5.png, id=107
+4, 380.42125pt x 193.72375pt>
 File: chapters/_resources/../_resources/796c982294bedb0a7994a942aa5ff2a5.png Gr
 aphic file (type png)
 <use chapters/_resources/../_resources/796c982294bedb0a7994a942aa5ff2a5.png>
 Package pdftex.def Info: chapters/_resources/../_resources/796c982294bedb0a7994
-a942aa5ff2a5.png  used on input line 449.
+a942aa5ff2a5.png  used on input line 451.
 (pdftex.def)             Requested size: 216.81pt x 110.40889pt.
-[53 <./chapters/_resources/../_resources/796c982294bedb0a7994a942aa5ff2a5.png>]
-<chapters/_resources/../_resources/641af477cb65d73954e1ae24aab9a2ed.png, id=109
-2, 751.80875pt x 317.185pt>
+<chapters/_resources/../_resources/641af477cb65d73954e1ae24aab9a2ed.png, id=107
+5, 751.80875pt x 317.185pt>
 File: chapters/_resources/../_resources/641af477cb65d73954e1ae24aab9a2ed.png Gr
 aphic file (type png)
 <use chapters/_resources/../_resources/641af477cb65d73954e1ae24aab9a2ed.png>
 Package pdftex.def Info: chapters/_resources/../_resources/641af477cb65d73954e1
-ae24aab9a2ed.png  used on input line 481.
+ae24aab9a2ed.png  used on input line 483.
 (pdftex.def)             Requested size: 216.81pt x 91.46826pt.
-<chapters/_resources/../_resources/18345a0e70ca9e50883ca61f93ad3405.png, id=109
+
+[50 <./chapters/_resources/../_resources/796c982294bedb0a7994a942aa5ff2a5.png>]
+<chapters/_resources/../_resources/18345a0e70ca9e50883ca61f93ad3405.png, id=108
 4, 695.59875pt x 315.1775pt>
 File: chapters/_resources/../_resources/18345a0e70ca9e50883ca61f93ad3405.png Gr
 aphic file (type png)
 <use chapters/_resources/../_resources/18345a0e70ca9e50883ca61f93ad3405.png>
 Package pdftex.def Info: chapters/_resources/../_resources/18345a0e70ca9e50883c
-a61f93ad3405.png  used on input line 496.
+a61f93ad3405.png  used on input line 498.
 (pdftex.def)             Requested size: 216.81pt x 98.23302pt.
-<chapters/_resources/../_resources/01adbb32a69ee3baec1bf9bddd890f52.png, id=109
+<chapters/_resources/../_resources/01adbb32a69ee3baec1bf9bddd890f52.png, id=108
 6, 760.8425pt x 388.45125pt>
 File: chapters/_resources/../_resources/01adbb32a69ee3baec1bf9bddd890f52.png Gr
 aphic file (type png)
 <use chapters/_resources/../_resources/01adbb32a69ee3baec1bf9bddd890f52.png>
 Package pdftex.def Info: chapters/_resources/../_resources/01adbb32a69ee3baec1b
-f9bddd890f52.png  used on input line 511.
+f9bddd890f52.png  used on input line 512.
 (pdftex.def)             Requested size: 216.81pt x 110.69197pt.
-[54 <./chapters/_resources/../_resources/641af477cb65d73954e1ae24aab9a2ed.png> 
+[51 <./chapters/_resources/../_resources/641af477cb65d73954e1ae24aab9a2ed.png> 
 <./chapters/_resources/../_resources/18345a0e70ca9e50883ca61f93ad3405.png>]
-<chapters/_resources/../_resources/017e543a7782177edd93188be60ae382.png, id=111
+<chapters/_resources/../_resources/017e543a7782177edd93188be60ae382.png, id=110
 1, 411.5375pt x 317.185pt>
 File: chapters/_resources/../_resources/017e543a7782177edd93188be60ae382.png Gr
 aphic file (type png)
 <use chapters/_resources/../_resources/017e543a7782177edd93188be60ae382.png>
 Package pdftex.def Info: chapters/_resources/../_resources/017e543a7782177edd93
-188be60ae382.png  used on input line 522.
-(pdftex.def)             Requested size: 216.81pt x 167.10054pt.
-<chapters/_resources/../_resources/e218faf59750ef1a90a9e45629f08973.png, id=111
+188be60ae382.png  used on input line 527.
+(pdftex.def)             Requested size: 104.06787pt x 80.20593pt.
+<chapters/_resources/../_resources/e218faf59750ef1a90a9e45629f08973.png, id=110
 2, 742.775pt x 410.53375pt>
 File: chapters/_resources/../_resources/e218faf59750ef1a90a9e45629f08973.png Gr
 aphic file (type png)
 <use chapters/_resources/../_resources/e218faf59750ef1a90a9e45629f08973.png>
 Package pdftex.def Info: chapters/_resources/../_resources/e218faf59750ef1a90a9
-e45629f08973.png  used on input line 531.
-(pdftex.def)             Requested size: 216.81pt x 119.82849pt.
-<chapters/_resources/../_resources/10a2ad3114504053030a1071443aabd7.png, id=111
+e45629f08973.png  used on input line 533.
+(pdftex.def)             Requested size: 145.69438pt x 80.52043pt.
+<chapters/_resources/../_resources/10a2ad3114504053030a1071443aabd7.png, id=110
 3, 736.7525pt x 398.48875pt>
 File: chapters/_resources/../_resources/10a2ad3114504053030a1071443aabd7.png Gr
 aphic file (type png)
 <use chapters/_resources/../_resources/10a2ad3114504053030a1071443aabd7.png>
 Package pdftex.def Info: chapters/_resources/../_resources/10a2ad3114504053030a
-1071443aabd7.png  used on input line 540.
-(pdftex.def)             Requested size: 216.81pt x 117.26129pt.
-
-[55 <./chapters/_resources/../_resources/01adbb32a69ee3baec1bf9bddd890f52.png> 
-<./chapters/_resources/../_resources/017e543a7782177edd93188be60ae382.png>]
-<chapters/_resources/../_resources/cdb9692b7dd2ca7bcfae696cd1b1ce36.png, id=112
-4, 742.775pt x 313.17pt>
+1071443aabd7.png  used on input line 543.
+(pdftex.def)             Requested size: 303.53267pt x 164.17189pt.
+<chapters/_resources/../_resources/cdb9692b7dd2ca7bcfae696cd1b1ce36.png, id=110
+5, 742.775pt x 313.17pt>
 File: chapters/_resources/../_resources/cdb9692b7dd2ca7bcfae696cd1b1ce36.png Gr
 aphic file (type png)
 <use chapters/_resources/../_resources/cdb9692b7dd2ca7bcfae696cd1b1ce36.png>
 Package pdftex.def Info: chapters/_resources/../_resources/cdb9692b7dd2ca7bcfae
-696cd1b1ce36.png  used on input line 554.
+696cd1b1ce36.png  used on input line 557.
 (pdftex.def)             Requested size: 303.53267pt x 127.97522pt.
 
-[56 <./chapters/_resources/../_resources/e218faf59750ef1a90a9e45629f08973.png> 
-<./chapters/_resources/../_resources/10a2ad3114504053030a1071443aabd7.png>])
-(./chapters/04/tcic.tex [57 <./chapters/_resources/../_resources/cdb9692b7dd2ca
-7bcfae696cd1b1ce36.png>]
+[52 <./chapters/_resources/../_resources/01adbb32a69ee3baec1bf9bddd890f52.png> 
+<./chapters/_resources/../_resources/017e543a7782177edd93188be60ae382.png> <./c
+hapters/_resources/../_resources/e218faf59750ef1a90a9e45629f08973.png>]
+[53 <./chapters/_resources/../_resources/10a2ad3114504053030a1071443aabd7.png> 
+<./chapters/_resources/../_resources/cdb9692b7dd2ca7bcfae696cd1b1ce36.png>])
+(./chapters/04/tcic.tex [54]
 Chapter 4.
 <chapters/_resources/../_resources/Screen_Shot_2022-11-04_at_10-50-01.png, id=1
-147, 321.2pt x 157.08687pt>
+136, 321.2pt x 157.08687pt>
 File: chapters/_resources/../_resources/Screen_Shot_2022-11-04_at_10-50-01.png 
 Graphic file (type png)
 <use chapters/_resources/../_resources/Screen_Shot_2022-11-04_at_10-50-01.png>
@@ -1642,264 +1637,262 @@ Package pdftex.def Info: chapters/_resources/../_resources/Screen_Shot_2022-11-
 04_at_10-50-01.png  used on input line 13.
 (pdftex.def)             Requested size: 216.81pt x 106.03624pt.
 <chapters/_resources/../_resources/Screen_Shot_2022-11-04_at_10-51-30.png, id=1
-149, 754.82pt x 292.09125pt>
+138, 754.82pt x 292.09125pt>
 File: chapters/_resources/../_resources/Screen_Shot_2022-11-04_at_10-51-30.png 
 Graphic file (type png)
 <use chapters/_resources/../_resources/Screen_Shot_2022-11-04_at_10-51-30.png>
 Package pdftex.def Info: chapters/_resources/../_resources/Screen_Shot_2022-11-
 04_at_10-51-30.png  used on input line 22.
 (pdftex.def)             Requested size: 216.81pt x 83.89757pt.
-[58
+[55
 
  <./chapters/_resources/../_resources/Screen_Shot_2022-11-04_at_10-50-01.png>]
 <chapters/_resources/../_resources/Screen_Shot_2022-11-04_at_10-59-51.png, id=1
-158, 321.2pt x 156.08313pt>
+147, 321.2pt x 156.08313pt>
 File: chapters/_resources/../_resources/Screen_Shot_2022-11-04_at_10-59-51.png 
 Graphic file (type png)
 <use chapters/_resources/../_resources/Screen_Shot_2022-11-04_at_10-59-51.png>
 Package pdftex.def Info: chapters/_resources/../_resources/Screen_Shot_2022-11-
 04_at_10-59-51.png  used on input line 48.
 (pdftex.def)             Requested size: 216.81pt x 105.35869pt.
- [59 <./chapters/_resources/../_resources/Screen_Shot_2022-11-04_at_10-51-30.pn
+ [56 <./chapters/_resources/../_resources/Screen_Shot_2022-11-04_at_10-51-30.pn
 g> <./chapters/_resources/../_resources/Screen_Shot_2022-11-04_at_10-59-51.png>
 ]
 <chapters/_resources/../_resources/Screen_Shot_2022-11-04_at_11-25-54.png, id=1
-166, 627.34375pt x 378.41376pt>
+155, 627.34375pt x 378.41376pt>
 File: chapters/_resources/../_resources/Screen_Shot_2022-11-04_at_11-25-54.png 
 Graphic file (type png)
 <use chapters/_resources/../_resources/Screen_Shot_2022-11-04_at_11-25-54.png>
 Package pdftex.def Info: chapters/_resources/../_resources/Screen_Shot_2022-11-
 04_at_11-25-54.png  used on input line 88.
 (pdftex.def)             Requested size: 216.81pt x 130.77808pt.
- [60] [61 <./chapters/_resources/../_resources/Screen_Shot_2022-11-04_at_11-25-
+ [57] [58 <./chapters/_resources/../_resources/Screen_Shot_2022-11-04_at_11-25-
 54.png>]
 <chapters/_resources/../_resources/Screen_Shot_2022-11-04_at_11-51-12.png, id=1
-178, 299.1175pt x 474.77374pt>
+166, 299.1175pt x 474.77374pt>
 File: chapters/_resources/../_resources/Screen_Shot_2022-11-04_at_11-51-12.png 
 Graphic file (type png)
 <use chapters/_resources/../_resources/Screen_Shot_2022-11-04_at_11-51-12.png>
 Package pdftex.def Info: chapters/_resources/../_resources/Screen_Shot_2022-11-
 04_at_11-51-12.png  used on input line 116.
-(pdftex.def)             Requested size: 216.81pt x 344.13333pt.
- [62 <./chapters/_resources/../_resources/Screen_Shot_2022-11-04_at_11-51-12.pn
-g>]
+(pdftex.def)             Requested size: 130.08731pt x 206.48145pt.
 <chapters/_resources/../_resources/Screen_Shot_2022-11-04_at_11-55-34.png, id=1
-187, 321.2pt x 201.75375pt>
+168, 321.2pt x 201.75375pt>
 File: chapters/_resources/../_resources/Screen_Shot_2022-11-04_at_11-55-34.png 
 Graphic file (type png)
 <use chapters/_resources/../_resources/Screen_Shot_2022-11-04_at_11-55-34.png>
 Package pdftex.def Info: chapters/_resources/../_resources/Screen_Shot_2022-11-
-04_at_11-55-34.png  used on input line 146.
+04_at_11-55-34.png  used on input line 145.
 (pdftex.def)             Requested size: 216.81pt x 136.18713pt.
- [63 <./chapters/_resources/../_resources/Screen_Shot_2022-11-04_at_11-55-34.pn
-g>]
+ [59 <./chapters/_resources/../_resources/Screen_Shot_2022-11-04_at_11-51-12.pn
+g>] [60 <./chapters/_resources/../_resources/Screen_Shot_2022-11-04_at_11-55-34
+.png>]
 <chapters/_resources/../_resources/Screen_Shot_2022-11-13_at_19-35-28.png, id=1
-195, 664.4825pt x 445.665pt>
+184, 664.4825pt x 445.665pt>
 File: chapters/_resources/../_resources/Screen_Shot_2022-11-13_at_19-35-28.png 
 Graphic file (type png)
 <use chapters/_resources/../_resources/Screen_Shot_2022-11-13_at_19-35-28.png>
 Package pdftex.def Info: chapters/_resources/../_resources/Screen_Shot_2022-11-
-13_at_19-35-28.png  used on input line 183.
+13_at_19-35-28.png  used on input line 180.
 (pdftex.def)             Requested size: 216.81pt x 145.41063pt.
- [64 <./chapters/_resources/../_resources/Screen_Shot_2022-11-13_at_19-35-28.pn
+ [61 <./chapters/_resources/../_resources/Screen_Shot_2022-11-13_at_19-35-28.pn
 g>]
 <chapters/_resources/../_resources/Screen_Shot_2022-11-13_at_19-40-17.png, id=1
-206, 614.295pt x 445.665pt>
+194, 614.295pt x 445.665pt>
 File: chapters/_resources/../_resources/Screen_Shot_2022-11-13_at_19-40-17.png 
 Graphic file (type png)
 <use chapters/_resources/../_resources/Screen_Shot_2022-11-13_at_19-40-17.png>
 Package pdftex.def Info: chapters/_resources/../_resources/Screen_Shot_2022-11-
-13_at_19-40-17.png  used on input line 218.
+13_at_19-40-17.png  used on input line 215.
 (pdftex.def)             Requested size: 216.81pt x 157.29074pt.
 
 
-LaTeX Warning: Reference `fig:hippo' on page 65 undefined on input line 223.
+LaTeX Warning: Reference `fig:hippo' on page 62 undefined on input line 220.
 
 <chapters/_resources/../_resources/Screen_Shot_2022-11-13_at_19-41-35.png, id=1
-207, 321.2pt x 206.7725pt>
+195, 321.2pt x 206.7725pt>
 File: chapters/_resources/../_resources/Screen_Shot_2022-11-13_at_19-41-35.png 
 Graphic file (type png)
 <use chapters/_resources/../_resources/Screen_Shot_2022-11-13_at_19-41-35.png>
 Package pdftex.def Info: chapters/_resources/../_resources/Screen_Shot_2022-11-
-13_at_19-41-35.png  used on input line 227.
-(pdftex.def)             Requested size: 216.81pt x 139.57487pt.
+13_at_19-41-35.png  used on input line 225.
+(pdftex.def)             Requested size: 166.50922pt x 107.19418pt.
 <chapters/_resources/../_resources/Screen_Shot_2022-11-13_at_19-43-07.png, id=1
-209, 321.2pt x 213.29688pt>
+196, 321.2pt x 213.29688pt>
 File: chapters/_resources/../_resources/Screen_Shot_2022-11-13_at_19-43-07.png 
 Graphic file (type png)
 <use chapters/_resources/../_resources/Screen_Shot_2022-11-13_at_19-43-07.png>
 Package pdftex.def Info: chapters/_resources/../_resources/Screen_Shot_2022-11-
-13_at_19-43-07.png  used on input line 238.
-(pdftex.def)             Requested size: 216.81pt x 143.97893pt.
-[65 <./chapters/_resources/../_resources/Screen_Shot_2022-11-13_at_19-40-17.png
->] [66 <./chapters/_resources/../_resources/Screen_Shot_2022-11-13_at_19-41-35.
-png> <./chapters/_resources/../_resources/Screen_Shot_2022-11-13_at_19-43-07.pn
-g>]
+13_at_19-43-07.png  used on input line 231.
+(pdftex.def)             Requested size: 187.32089pt x 124.39574pt.
+[62 <./chapters/_resources/../_resources/Screen_Shot_2022-11-13_at_19-40-17.png
+> <./chapters/_resources/../_resources/Screen_Shot_2022-11-13_at_19-41-35.png> 
+<./chapters/_resources/../_resources/Screen_Shot_2022-11-13_at_19-43-07.png>]
 <chapters/_resources/../_resources/Screen_Shot_2022-11-13_at_19-48-01.png, id=1
-227, 925.056pt x 758.835pt>
+210, 925.056pt x 758.835pt>
 File: chapters/_resources/../_resources/Screen_Shot_2022-11-13_at_19-48-01.png 
 Graphic file (type png)
 <use chapters/_resources/../_resources/Screen_Shot_2022-11-13_at_19-48-01.png>
 Package pdftex.def Info: chapters/_resources/../_resources/Screen_Shot_2022-11-
-13_at_19-48-01.png  used on input line 255.
+13_at_19-48-01.png  used on input line 252.
 (pdftex.def)             Requested size: 216.81pt x 177.85152pt.
- [67 <./chapters/_resources/../_resources/Screen_Shot_2022-11-13_at_19-48-01.pn
-g>]
+
+[63 <./chapters/_resources/../_resources/Screen_Shot_2022-11-13_at_19-48-01.png
+>]
 <chapters/_resources/../_resources/Screen_Shot_2022-11-18_at_11-11-12.png, id=1
-237, 561.89925pt x 578.16pt>
+220, 561.89925pt x 578.16pt>
 File: chapters/_resources/../_resources/Screen_Shot_2022-11-18_at_11-11-12.png 
 Graphic file (type png)
 <use chapters/_resources/../_resources/Screen_Shot_2022-11-18_at_11-11-12.png>
 Package pdftex.def Info: chapters/_resources/../_resources/Screen_Shot_2022-11-
-18_at_11-11-12.png  used on input line 312.
+18_at_11-11-12.png  used on input line 309.
 (pdftex.def)             Requested size: 216.81pt x 223.08191pt.
- [68]
+ [64] [65 <./chapters/_resources/../_resources/Screen_Shot_2022-11-18_at_11-11-
+12.png>]
 <chapters/_resources/../_resources/Screen_Shot_2022-11-18_at_11-06-54.png, id=1
-244, 321.2pt x 162.10562pt>
+233, 321.2pt x 162.10562pt>
 File: chapters/_resources/../_resources/Screen_Shot_2022-11-18_at_11-06-54.png 
 Graphic file (type png)
 <use chapters/_resources/../_resources/Screen_Shot_2022-11-18_at_11-06-54.png>
 Package pdftex.def Info: chapters/_resources/../_resources/Screen_Shot_2022-11-
-18_at_11-06-54.png  used on input line 333.
+18_at_11-06-54.png  used on input line 330.
 (pdftex.def)             Requested size: 216.81pt x 109.42398pt.
 <chapters/_resources/../_resources/Screen_Shot_2022-11-18_at_11-14-09.png, id=1
-246, 578.16pt x 553.76888pt>
+235, 578.16pt x 553.76888pt>
 File: chapters/_resources/../_resources/Screen_Shot_2022-11-18_at_11-14-09.png 
 Graphic file (type png)
 <use chapters/_resources/../_resources/Screen_Shot_2022-11-18_at_11-14-09.png>
 Package pdftex.def Info: chapters/_resources/../_resources/Screen_Shot_2022-11-
-18_at_11-14-09.png  used on input line 341.
+18_at_11-14-09.png  used on input line 338.
 (pdftex.def)             Requested size: 216.81pt x 207.66281pt.
- [69 <./chapters/_resources/../_resources/Screen_Shot_2022-11-18_at_11-11-12.pn
-g>]
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 347.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\alpha' on input line 347.
+(hyperref)                removing `math shift' on input line 344.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 347.
+(hyperref)                removing `\alpha' on input line 344.
 
-[70 <./chapters/_resources/../_resources/Screen_Shot_2022-11-18_at_11-06-54.png
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 344.
+
+[66 <./chapters/_resources/../_resources/Screen_Shot_2022-11-18_at_11-06-54.png
 > <./chapters/_resources/../_resources/Screen_Shot_2022-11-18_at_11-14-09.png>]
-[71]
+[67]
 <chapters/_resources/../_resources/Screen_Shot_2022-11-18_at_11-59-02.png, id=1
-270, 321.2pt x 229.35687pt>
+253, 321.2pt x 229.35687pt>
 File: chapters/_resources/../_resources/Screen_Shot_2022-11-18_at_11-59-02.png 
 Graphic file (type png)
 <use chapters/_resources/../_resources/Screen_Shot_2022-11-18_at_11-59-02.png>
 Package pdftex.def Info: chapters/_resources/../_resources/Screen_Shot_2022-11-
-18_at_11-59-02.png  used on input line 404.
+18_at_11-59-02.png  used on input line 401.
 (pdftex.def)             Requested size: 216.81pt x 154.8197pt.
- [72 <./chapters/_resources/../_resources/Screen_Shot_2022-11-18_at_11-59-02.pn
-g>]) (./chapters/05/instability.tex [73]
+ [68 <./chapters/_resources/../_resources/Screen_Shot_2022-11-18_at_11-59-02.pn
+g>]) (./chapters/05/instability.tex [69]
 Chapter 5.
 <chapters/_resources/../_resources/Screen_Shot_2022-11-23_at_09-53-33.png, id=1
-283, 748.7975pt x 258.9675pt>
+267, 748.7975pt x 258.9675pt>
 File: chapters/_resources/../_resources/Screen_Shot_2022-11-23_at_09-53-33.png 
 Graphic file (type png)
 <use chapters/_resources/../_resources/Screen_Shot_2022-11-23_at_09-53-33.png>
 Package pdftex.def Info: chapters/_resources/../_resources/Screen_Shot_2022-11-
 23_at_09-53-33.png  used on input line 13.
 (pdftex.def)             Requested size: 216.81pt x 74.98009pt.
-[74
+[70
 
  <./chapters/_resources/../_resources/Screen_Shot_2022-11-23_at_09-53-33.png>] 
-[75]
+[71]
 <chapters/_resources/../_resources/Screen_Shot_2022-11-23_at_10-18-00.png, id=1
-299, 481.8pt x 455.7025pt>
+284, 481.8pt x 455.7025pt>
 File: chapters/_resources/../_resources/Screen_Shot_2022-11-23_at_10-18-00.png 
 Graphic file (type png)
 <use chapters/_resources/../_resources/Screen_Shot_2022-11-23_at_10-18-00.png>
 Package pdftex.def Info: chapters/_resources/../_resources/Screen_Shot_2022-11-
-23_at_10-18-00.png  used on input line 88.
+23_at_10-18-00.png  used on input line 84.
 (pdftex.def)             Requested size: 216.81pt x 205.06422pt.
- [76 <./chapters/_resources/../_resources/Screen_Shot_2022-11-23_at_10-18-00.pn
+ [72 <./chapters/_resources/../_resources/Screen_Shot_2022-11-23_at_10-18-00.pn
 g>]
 <chapters/_resources/../_resources/Screen_Shot_2022-11-25_at_11-49-03.png, id=1
-308, 578.16pt x 425.48962pt>
+295, 578.16pt x 425.48962pt>
 File: chapters/_resources/../_resources/Screen_Shot_2022-11-25_at_11-49-03.png 
 Graphic file (type png)
 <use chapters/_resources/../_resources/Screen_Shot_2022-11-25_at_11-49-03.png>
 Package pdftex.def Info: chapters/_resources/../_resources/Screen_Shot_2022-11-
-25_at_11-49-03.png  used on input line 122.
+25_at_11-49-03.png  used on input line 116.
 (pdftex.def)             Requested size: 216.81pt x 159.55821pt.
- [77 <./chapters/_resources/../_resources/Screen_Shot_2022-11-25_at_11-49-03.pn
+ [73 <./chapters/_resources/../_resources/Screen_Shot_2022-11-25_at_11-49-03.pn
 g>]
-Overfull \hbox (4.20882pt too wide) in paragraph at lines 163--163
+Overfull \hbox (4.20882pt too wide) in paragraph at lines 157--157
 []\T1/lmr/bx/n/12 HOTTIP lncRNA Pro-motes Hematopoi-etic Stem Cells Self-Renewa
 l
  []
 
-[78]
+[74]
 <chapters/_resources/../_resources/Screen_Shot_2022-11-30_at_08-49-05.png, id=1
-322, 613.29124pt x 204.765pt>
+309, 613.29124pt x 204.765pt>
 File: chapters/_resources/../_resources/Screen_Shot_2022-11-30_at_08-49-05.png 
 Graphic file (type png)
 <use chapters/_resources/../_resources/Screen_Shot_2022-11-30_at_08-49-05.png>
 Package pdftex.def Info: chapters/_resources/../_resources/Screen_Shot_2022-11-
-30_at_08-49-05.png  used on input line 185.
+30_at_08-49-05.png  used on input line 178.
 (pdftex.def)             Requested size: 216.81pt x 72.38744pt.
- [79 <./chapters/_resources/../_resources/Screen_Shot_2022-11-30_at_08-49-05.pn
+ [75 <./chapters/_resources/../_resources/Screen_Shot_2022-11-30_at_08-49-05.pn
 g>]
 <chapters/_resources/../_resources/Screen_Shot_2022-11-30_at_08-51-07.png, id=1
-332, 327.2225pt x 527.9725pt>
+318, 327.2225pt x 527.9725pt>
 File: chapters/_resources/../_resources/Screen_Shot_2022-11-30_at_08-51-07.png 
 Graphic file (type png)
 <use chapters/_resources/../_resources/Screen_Shot_2022-11-30_at_08-51-07.png>
 Package pdftex.def Info: chapters/_resources/../_resources/Screen_Shot_2022-11-
-30_at_08-51-07.png  used on input line 198.
-(pdftex.def)             Requested size: 216.81pt x 349.82442pt.
- [80 <./chapters/_resources/../_resources/Screen_Shot_2022-11-30_at_08-51-07.pn
+30_at_08-51-07.png  used on input line 192.
+(pdftex.def)             Requested size: 130.08731pt x 209.89626pt.
+ [76 <./chapters/_resources/../_resources/Screen_Shot_2022-11-30_at_08-51-07.pn
 g>]
 <chapters/_resources/../_resources/Screen_Shot_2022-11-30_at_09-11-05.png, id=1
-340, 584.1825pt x 329.23pt>
+330, 584.1825pt x 329.23pt>
 File: chapters/_resources/../_resources/Screen_Shot_2022-11-30_at_09-11-05.png 
 Graphic file (type png)
 <use chapters/_resources/../_resources/Screen_Shot_2022-11-30_at_09-11-05.png>
 Package pdftex.def Info: chapters/_resources/../_resources/Screen_Shot_2022-11-
-30_at_09-11-05.png  used on input line 219.
+30_at_09-11-05.png  used on input line 214.
 (pdftex.def)             Requested size: 216.81pt x 122.18996pt.
 <chapters/_resources/../_resources/Screen_Shot_2022-11-30_at_09-16-55.png, id=1
-341, 321.2pt x 194.22563pt>
+331, 321.2pt x 194.22563pt>
 File: chapters/_resources/../_resources/Screen_Shot_2022-11-30_at_09-16-55.png 
 Graphic file (type png)
 <use chapters/_resources/../_resources/Screen_Shot_2022-11-30_at_09-16-55.png>
 Package pdftex.def Info: chapters/_resources/../_resources/Screen_Shot_2022-11-
-30_at_09-16-55.png  used on input line 233.
-(pdftex.def)             Requested size: 216.81pt x 131.10551pt.
-<chapters/_resources/../_resources/Picture1.jpg, id=1342, 646.415pt x 333.245pt
+30_at_09-16-55.png  used on input line 229.
+(pdftex.def)             Requested size: 260.17464pt x 157.3278pt.
+<chapters/_resources/../_resources/Picture1.jpg, id=1332, 646.415pt x 333.245pt
 >
 File: chapters/_resources/../_resources/Picture1.jpg Graphic file (type jpg)
 <use chapters/_resources/../_resources/Picture1.jpg>
 Package pdftex.def Info: chapters/_resources/../_resources/Picture1.jpg  used o
-n input line 242.
-(pdftex.def)             Requested size: 216.81pt x 111.77124pt.
- [81 <./chapters/_resources/../_resources/Screen_Shot_2022-11-30_at_09-11-05.pn
-g>] [82 <./chapters/_resources/../_resources/Screen_Shot_2022-11-30_at_09-16-55
+n input line 238.
+(pdftex.def)             Requested size: 303.53267pt x 156.47769pt.
+ [77 <./chapters/_resources/../_resources/Screen_Shot_2022-11-30_at_09-11-05.pn
+g>] [78 <./chapters/_resources/../_resources/Screen_Shot_2022-11-30_at_09-16-55
 .png> <./chapters/_resources/../_resources/Picture1.jpg>]
 <chapters/_resources/../_resources/Screen_Shot_2022-11-30_at_10-03-17.png, id=1
-356, 602.25pt x 245.91875pt>
+347, 602.25pt x 245.91875pt>
 File: chapters/_resources/../_resources/Screen_Shot_2022-11-30_at_10-03-17.png 
 Graphic file (type png)
 <use chapters/_resources/../_resources/Screen_Shot_2022-11-30_at_10-03-17.png>
 Package pdftex.def Info: chapters/_resources/../_resources/Screen_Shot_2022-11-
-30_at_10-03-17.png  used on input line 271.
+30_at_10-03-17.png  used on input line 266.
 (pdftex.def)             Requested size: 216.81pt x 88.53067pt.
- [83]
-[84 <./chapters/_resources/../_resources/Screen_Shot_2022-11-30_at_10-03-17.png
->]
-Underfull \hbox (badness 10000) in paragraph at lines 321--330
+ [79 <./chapters/_resources/../_resources/Screen_Shot_2022-11-30_at_10-03-17.pn
+g>] [80]
+Underfull \hbox (badness 10000) in paragraph at lines 316--325
 
  []
 
-[85] [86] [87] [88]) (./chapters/06/repair.tex [89]
+[81] [82] [83]) (./chapters/06/repair.tex [84]
 Chapter 6.
-<chapters/_resources/Screen_Shot_2022-12-07_at_08-58-00.png, id=1416, 578.16pt 
+<chapters/_resources/Screen_Shot_2022-12-07_at_08-58-00.png, id=1404, 578.16pt 
 x 428.19975pt>
 File: chapters/_resources/Screen_Shot_2022-12-07_at_08-58-00.png Graphic file (
 type png)
@@ -1907,286 +1900,281 @@ type png)
 Package pdftex.def Info: chapters/_resources/Screen_Shot_2022-12-07_at_08-58-00
 .png  used on input line 13.
 (pdftex.def)             Requested size: 216.81pt x 160.57451pt.
-<chapters/_resources/Screen_Shot_2022-12-07_at_08-59-12.png, id=1417, 321.2pt x
+<chapters/_resources/Screen_Shot_2022-12-07_at_08-59-12.png, id=1406, 321.2pt x
  285.065pt>
 File: chapters/_resources/Screen_Shot_2022-12-07_at_08-59-12.png Graphic file (
 type png)
 <use chapters/_resources/Screen_Shot_2022-12-07_at_08-59-12.png>
 Package pdftex.def Info: chapters/_resources/Screen_Shot_2022-12-07_at_08-59-12
-.png  used on input line 28.
+.png  used on input line 29.
 (pdftex.def)             Requested size: 216.81pt x 192.42361pt.
-[90
+[85
 
-] [91 <./chapters/_resources/Screen_Shot_2022-12-07_at_08-58-00.png> <./chapter
+] [86 <./chapters/_resources/Screen_Shot_2022-12-07_at_08-58-00.png> <./chapter
 s/_resources/Screen_Shot_2022-12-07_at_08-59-12.png>]
-<chapters/_resources/Screen_Shot_2022-12-07_at_09-03-41.png, id=1433, 709.65125
+<chapters/_resources/Screen_Shot_2022-12-07_at_09-03-41.png, id=1422, 709.65125
 pt x 345.29pt>
 File: chapters/_resources/Screen_Shot_2022-12-07_at_09-03-41.png Graphic file (
 type png)
 <use chapters/_resources/Screen_Shot_2022-12-07_at_09-03-41.png>
 Package pdftex.def Info: chapters/_resources/Screen_Shot_2022-12-07_at_09-03-41
-.png  used on input line 45.
+.png  used on input line 47.
 (pdftex.def)             Requested size: 216.81pt x 105.48979pt.
-<chapters/_resources/Screen_Shot_2022-12-07_at_09-15-58.png, id=1434, 749.80125
+<chapters/_resources/Screen_Shot_2022-12-07_at_09-15-58.png, id=1424, 749.80125
 pt x 237.88875pt>
 File: chapters/_resources/Screen_Shot_2022-12-07_at_09-15-58.png Graphic file (
 type png)
 <use chapters/_resources/Screen_Shot_2022-12-07_at_09-15-58.png>
 Package pdftex.def Info: chapters/_resources/Screen_Shot_2022-12-07_at_09-15-58
-.png  used on input line 64.
+.png  used on input line 65.
 (pdftex.def)             Requested size: 216.81pt x 68.78632pt.
- [92 <./chapters/_resources/Screen_Shot_2022-12-07_at_09-03-41.png>]
-<chapters/_resources/Screen_Shot_2022-12-07_at_09-23-19.png, id=1442, 369.38pt 
+ [87 <./chapters/_resources/Screen_Shot_2022-12-07_at_09-03-41.png>]
+<chapters/_resources/Screen_Shot_2022-12-07_at_09-23-19.png, id=1434, 369.38pt 
 x 352.31625pt>
 File: chapters/_resources/Screen_Shot_2022-12-07_at_09-23-19.png Graphic file (
 type png)
 <use chapters/_resources/Screen_Shot_2022-12-07_at_09-23-19.png>
 Package pdftex.def Info: chapters/_resources/Screen_Shot_2022-12-07_at_09-23-19
-.png  used on input line 74.
+.png  used on input line 76.
 (pdftex.def)             Requested size: 216.81pt x 206.79497pt.
- [93 <./chapters/_resources/Screen_Shot_2022-12-07_at_09-15-58.png> <./chapters
+ [88 <./chapters/_resources/Screen_Shot_2022-12-07_at_09-15-58.png> <./chapters
 /_resources/Screen_Shot_2022-12-07_at_09-23-19.png>]
-<chapters/_resources/Screen_Shot_2022-12-07_at_09-50-28.png, id=1452, 633.36626
+<chapters/_resources/Screen_Shot_2022-12-07_at_09-50-28.png, id=1443, 633.36626
 pt x 288.07625pt>
 File: chapters/_resources/Screen_Shot_2022-12-07_at_09-50-28.png Graphic file (
 type png)
 <use chapters/_resources/Screen_Shot_2022-12-07_at_09-50-28.png>
 Package pdftex.def Info: chapters/_resources/Screen_Shot_2022-12-07_at_09-50-28
-.png  used on input line 98.
+.png  used on input line 100.
 (pdftex.def)             Requested size: 216.81pt x 98.61276pt.
-<chapters/_resources/Screen_Shot_2022-12-07_at_09-51-02.png, id=1453, 522.95375
+<chapters/_resources/Screen_Shot_2022-12-07_at_09-51-02.png, id=1444, 522.95375
 pt x 410.53375pt>
 File: chapters/_resources/Screen_Shot_2022-12-07_at_09-51-02.png Graphic file (
 type png)
 <use chapters/_resources/Screen_Shot_2022-12-07_at_09-51-02.png>
 Package pdftex.def Info: chapters/_resources/Screen_Shot_2022-12-07_at_09-51-02
-.png  used on input line 104.
-(pdftex.def)             Requested size: 216.81pt x 170.20546pt.
- [94 <./chapters/_resources/Screen_Shot_2022-12-07_at_09-50-28.png> <./chapters
+.png  used on input line 106.
+(pdftex.def)             Requested size: 173.44534pt x 136.15935pt.
+ [89 <./chapters/_resources/Screen_Shot_2022-12-07_at_09-50-28.png> <./chapters
 /_resources/Screen_Shot_2022-12-07_at_09-51-02.png>])
-(./chapters/07/telomere.tex [95]
+(./chapters/07/telomere.tex [90]
 Chapter 7.
 <chapters/_resources/../_resources/Screen_Shot_2022-12-15_at_17-43-24.png, id=1
-468, 321.2pt x 157.08687pt>
+461, 321.2pt x 157.08687pt>
 File: chapters/_resources/../_resources/Screen_Shot_2022-12-15_at_17-43-24.png 
 Graphic file (type png)
 <use chapters/_resources/../_resources/Screen_Shot_2022-12-15_at_17-43-24.png>
 Package pdftex.def Info: chapters/_resources/../_resources/Screen_Shot_2022-12-
 15_at_17-43-24.png  used on input line 41.
 (pdftex.def)             Requested size: 216.81pt x 106.03624pt.
-[96
+[91
 
 ]
 <chapters/_resources/../_resources/Screen_Shot_2022-12-15_at_17-54-31.png, id=1
-476, 321.2pt x 151.06438pt>
+470, 321.2pt x 151.06438pt>
 File: chapters/_resources/../_resources/Screen_Shot_2022-12-15_at_17-54-31.png 
 Graphic file (type png)
 <use chapters/_resources/../_resources/Screen_Shot_2022-12-15_at_17-54-31.png>
 Package pdftex.def Info: chapters/_resources/../_resources/Screen_Shot_2022-12-
-15_at_17-54-31.png  used on input line 75.
+15_at_17-54-31.png  used on input line 76.
 (pdftex.def)             Requested size: 216.81pt x 101.97096pt.
+ [92 <./chapters/_resources/../_resources/Screen_Shot_2022-12-15_at_17-43-24.pn
+g> <./chapters/_resources/../_resources/Screen_Shot_2022-12-15_at_17-54-31.png>
+]
 <chapters/_resources/../_resources/Screen_Shot_2022-12-15_at_17-49-51.png, id=1
-477, 321.2pt x 188.20313pt>
+479, 321.2pt x 188.20313pt>
 File: chapters/_resources/../_resources/Screen_Shot_2022-12-15_at_17-49-51.png 
 Graphic file (type png)
 <use chapters/_resources/../_resources/Screen_Shot_2022-12-15_at_17-49-51.png>
 Package pdftex.def Info: chapters/_resources/../_resources/Screen_Shot_2022-12-
-15_at_17-49-51.png  used on input line 90.
+15_at_17-49-51.png  used on input line 92.
 (pdftex.def)             Requested size: 216.81pt x 127.04022pt.
- [97 <./chapters/_resources/../_resources/Screen_Shot_2022-12-15_at_17-43-24.pn
-g> <./chapters/_resources/../_resources/Screen_Shot_2022-12-15_at_17-54-31.png>
-]
 <chapters/_resources/../_resources/Screen_Shot_2022-12-15_at_17-49-02.png, id=1
-487, 321.2pt x 93.85063pt>
+481, 321.2pt x 93.85063pt>
 File: chapters/_resources/../_resources/Screen_Shot_2022-12-15_at_17-49-02.png 
 Graphic file (type png)
 <use chapters/_resources/../_resources/Screen_Shot_2022-12-15_at_17-49-02.png>
 Package pdftex.def Info: chapters/_resources/../_resources/Screen_Shot_2022-12-
-15_at_17-49-02.png  used on input line 102.
+15_at_17-49-02.png  used on input line 104.
 (pdftex.def)             Requested size: 216.81pt x 63.35072pt.
 <chapters/_resources/../_resources/Screen_Shot_2022-12-15_at_18-00-30.png, id=1
-488, 352.31625pt x 380.42125pt>
+482, 352.31625pt x 380.42125pt>
 File: chapters/_resources/../_resources/Screen_Shot_2022-12-15_at_18-00-30.png 
 Graphic file (type png)
 <use chapters/_resources/../_resources/Screen_Shot_2022-12-15_at_18-00-30.png>
 Package pdftex.def Info: chapters/_resources/../_resources/Screen_Shot_2022-12-
-15_at_18-00-30.png  used on input line 140.
+15_at_18-00-30.png  used on input line 143.
 (pdftex.def)             Requested size: 216.81pt x 234.10568pt.
- [98 <./chapters/_resources/../_resources/Screen_Shot_2022-12-15_at_17-49-51.pn
+ [93 <./chapters/_resources/../_resources/Screen_Shot_2022-12-15_at_17-49-51.pn
 g> <./chapters/_resources/../_resources/Screen_Shot_2022-12-15_at_17-49-02.png>
-] [99 <./chapters/_resources/../_resources/Screen_Shot_2022-12-15_at_18-00-30.p
+] [94 <./chapters/_resources/../_resources/Screen_Shot_2022-12-15_at_18-00-30.p
 ng>]
 <chapters/_resources/../_resources/Screen_Shot_2022-12-15_at_22-39-00.png, id=1
-510, 708.6475pt x 413.545pt>
+504, 708.6475pt x 413.545pt>
 File: chapters/_resources/../_resources/Screen_Shot_2022-12-15_at_22-39-00.png 
 Graphic file (type png)
 <use chapters/_resources/../_resources/Screen_Shot_2022-12-15_at_22-39-00.png>
 Package pdftex.def Info: chapters/_resources/../_resources/Screen_Shot_2022-12-
-15_at_22-39-00.png  used on input line 233.
+15_at_22-39-00.png  used on input line 234.
 (pdftex.def)             Requested size: 216.81pt x 126.5191pt.
- [100 <./chapters/_resources/../_resources/Screen_Shot_2022-12-15_at_22-39-00.p
-ng>]
+ [95 <./chapters/_resources/../_resources/Screen_Shot_2022-12-15_at_22-39-00.pn
+g>]
 <chapters/_resources/../_resources/Screen_Shot_2022-12-15_at_22-58-03.png, id=1
-519, 398.48875pt x 454.69875pt>
+515, 398.48875pt x 454.69875pt>
 File: chapters/_resources/../_resources/Screen_Shot_2022-12-15_at_22-58-03.png 
 Graphic file (type png)
 <use chapters/_resources/../_resources/Screen_Shot_2022-12-15_at_22-58-03.png>
 Package pdftex.def Info: chapters/_resources/../_resources/Screen_Shot_2022-12-
-15_at_22-58-03.png  used on input line 282.
-(pdftex.def)             Requested size: 216.81pt x 247.39308pt.
+15_at_22-58-03.png  used on input line 284.
+(pdftex.def)             Requested size: 173.44534pt x 197.9103pt.
 <chapters/_resources/../_resources/Screen_Shot_2022-12-15_at_22-58-28.png, id=1
-520, 762.85pt x 277.035pt>
+517, 762.85pt x 277.035pt>
 File: chapters/_resources/../_resources/Screen_Shot_2022-12-15_at_22-58-28.png 
 Graphic file (type png)
 <use chapters/_resources/../_resources/Screen_Shot_2022-12-15_at_22-58-28.png>
 Package pdftex.def Info: chapters/_resources/../_resources/Screen_Shot_2022-12-
-15_at_22-58-28.png  used on input line 294.
+15_at_22-58-28.png  used on input line 297.
 (pdftex.def)             Requested size: 216.81pt x 78.73598pt.
-) (./chapters/08/jc.tex [101] [102 <./chapters/_resources/../_resources/Screen_
-Shot_2022-12-15_at_22-58-03.png> <./chapters/_resources/../_resources/Screen_Sh
-ot_2022-12-15_at_22-58-28.png>]
+) (./chapters/08/jc.tex [96] [97 <./chapters/_resources/../_resources/Screen_Sh
+ot_2022-12-15_at_22-58-03.png> <./chapters/_resources/../_resources/Screen_Shot
+_2022-12-15_at_22-58-28.png>]
 Chapter 8.
-[103
+[98
 
 ]
 <chapters/_resources/../_resources/Screenshot_2022-12-19_at_16-39-14.png, id=15
-40, 254.45062pt x 321.2pt>
+37, 254.45062pt x 321.2pt>
 File: chapters/_resources/../_resources/Screenshot_2022-12-19_at_16-39-14.png G
 raphic file (type png)
 <use chapters/_resources/../_resources/Screenshot_2022-12-19_at_16-39-14.png>
 Package pdftex.def Info: chapters/_resources/../_resources/Screenshot_2022-12-1
-9_at_16-39-14.png  used on input line 51.
-(pdftex.def)             Requested size: 433.62pt x 547.3953pt.
-
-
-LaTeX Warning: Float too large for page by 144.2353pt on input line 54.
-
-
-Overfull \hbox (11.37852pt too wide) in paragraph at lines 66--67
+9_at_16-39-14.png  used on input line 54.
+(pdftex.def)             Requested size: 130.08731pt x 164.21663pt.
+ [99 <./chapters/_resources/../_resources/Screenshot_2022-12-19_at_16-39-14.png
+>]
+Overfull \hbox (11.37852pt too wide) in paragraph at lines 69--70
 []\T1/lmr/m/n/10 SPT5 phys-i-cally lo-cal-izes with RNAPolII at most tran-scrip
 -tion-ally ac-tive genes on chro-matin.Therefore,
  []
 
-[104] [105 <./chapters/_resources/../_resources/Screenshot_2022-12-19_at_16-39-
-14.png>]
+[100]
 <chapters/_resources/../_resources/Screen_Shot_2022-12-19_at_17-00-41.png, id=1
-551, 578.16pt x 353.21962pt>
+550, 578.16pt x 353.21962pt>
 File: chapters/_resources/../_resources/Screen_Shot_2022-12-19_at_17-00-41.png 
 Graphic file (type png)
 <use chapters/_resources/../_resources/Screen_Shot_2022-12-19_at_17-00-41.png>
 Package pdftex.def Info: chapters/_resources/../_resources/Screen_Shot_2022-12-
-19_at_17-00-41.png  used on input line 93.
-(pdftex.def)             Requested size: 433.62pt x 264.91406pt.
- [106] [107 <./chapters/_resources/../_resources/Screen_Shot_2022-12-19_at_17-0
-0-41.png>]
+19_at_17-00-41.png  used on input line 98.
+(pdftex.def)             Requested size: 346.89731pt x 211.9334pt.
 <chapters/_resources/../_resources/Screenshot_2022-10-28_at_10-37-23.png, id=15
-66, 646.415pt x 642.4pt>
+51, 646.415pt x 642.4pt>
 File: chapters/_resources/../_resources/Screenshot_2022-10-28_at_10-37-23.png G
 raphic file (type png)
 <use chapters/_resources/../_resources/Screenshot_2022-10-28_at_10-37-23.png>
 Package pdftex.def Info: chapters/_resources/../_resources/Screenshot_2022-10-2
-8_at_10-37-23.png  used on input line 106.
-(pdftex.def)             Requested size: 216.81pt x 215.46265pt.
- [108 <./chapters/_resources/../_resources/Screenshot_2022-10-28_at_10-37-23.pn
-g>]
-Overfull \hbox (1.85081pt too wide) in paragraph at lines 156--156
+8_at_10-37-23.png  used on input line 111.
+(pdftex.def)             Requested size: 130.08731pt x 129.2717pt.
+ [101 <./chapters/_resources/../_resources/Screen_Shot_2022-12-19_at_17-00-41.p
+ng>]
+Overfull \hbox (1.85081pt too wide) in paragraph at lines 160--160
 []\T1/lmr/bx/n/12 BRD4-directed super-enhancer or-ga-ni-za-tion of tran-scrip-t
 ion re-pres-
  []
 
-[109]
+[102 <./chapters/_resources/../_resources/Screenshot_2022-10-28_at_10-37-23.png
+>]
 <chapters/_resources/../_resources/Screenshot_2022-10-28_at_11-55-04.png, id=15
-81, 519.9425pt x 515.9275pt>
+67, 519.9425pt x 515.9275pt>
 File: chapters/_resources/../_resources/Screenshot_2022-10-28_at_11-55-04.png G
 raphic file (type png)
 <use chapters/_resources/../_resources/Screenshot_2022-10-28_at_11-55-04.png>
 Package pdftex.def Info: chapters/_resources/../_resources/Screenshot_2022-10-2
-8_at_11-55-04.png  used on input line 238.
-(pdftex.def)             Requested size: 216.81pt x 215.1372pt.
- [110 <./chapters/_resources/../_resources/Screenshot_2022-10-28_at_11-55-04.pn
-g>]
+8_at_11-55-04.png  used on input line 239.
+(pdftex.def)             Requested size: 173.44534pt x 172.10661pt.
+ [103] [104 <./chapters/_resources/../_resources/Screenshot_2022-10-28_at_11-55
+-04.png>]
 <chapters/_resources/../_resources/Screen_Shot_2022-12-20_at_11-45-23.png, id=1
-589, 321.2pt x 131.99312pt>
+582, 321.2pt x 131.99312pt>
 File: chapters/_resources/../_resources/Screen_Shot_2022-12-20_at_11-45-23.png 
 Graphic file (type png)
 <use chapters/_resources/../_resources/Screen_Shot_2022-12-20_at_11-45-23.png>
 Package pdftex.def Info: chapters/_resources/../_resources/Screen_Shot_2022-12-
 20_at_11-45-23.png  used on input line 263.
 (pdftex.def)             Requested size: 433.62pt x 178.1971pt.
- [111 <./chapters/_resources/../_resources/Screen_Shot_2022-12-20_at_11-45-23.p
-ng>] [112]
-<chapters/_resources/../_resources/cenp.png, id=1600, 154.176pt x 77.5698pt>
+ [105 <./chapters/_resources/../_resources/Screen_Shot_2022-12-20_at_11-45-23.p
+ng>]
+<chapters/_resources/../_resources/cenp.png, id=1589, 154.176pt x 77.5698pt>
 File: chapters/_resources/../_resources/cenp.png Graphic file (type png)
 <use chapters/_resources/../_resources/cenp.png>
 Package pdftex.def Info: chapters/_resources/../_resources/cenp.png  used on in
-put line 303.
-(pdftex.def)             Requested size: 433.62pt x 218.1917pt.
+put line 304.
+(pdftex.def)             Requested size: 303.53267pt x 152.7329pt.
 
-Overfull \hbox (5.09311pt too wide) in paragraph at lines 309--312
+Overfull \hbox (5.09311pt too wide) in paragraph at lines 310--313
 \T1/lmr/m/n/10 P300/CBP are a tran-scrip-tional co-activators with ly-sine acet
 yl-trans-ferase. It lo-calise to cis-regulatory
  []
 
-[113 <./chapters/_resources/../_resources/cenp.png>]
+[106] [107 <./chapters/_resources/../_resources/cenp.png>]
 <chapters/_resources/../_resources/Screen_Shot_2022-12-20_at_12-01-08.png, id=1
-607, 795.97375pt x 195.73125pt>
+600, 795.97375pt x 195.73125pt>
 File: chapters/_resources/../_resources/Screen_Shot_2022-12-20_at_12-01-08.png 
 Graphic file (type png)
 <use chapters/_resources/../_resources/Screen_Shot_2022-12-20_at_12-01-08.png>
 Package pdftex.def Info: chapters/_resources/../_resources/Screen_Shot_2022-12-
-20_at_12-01-08.png  used on input line 333.
+20_at_12-01-08.png  used on input line 335.
 (pdftex.def)             Requested size: 433.62pt x 106.6281pt.
- [114] [115 <./chapters/_resources/../_resources/Screen_Shot_2022-12-20_at_12-0
-1-08.png>]
+ [108 <./chapters/_resources/../_resources/Screen_Shot_2022-12-20_at_12-01-08.p
+ng>]
 <chapters/_resources/../_resources/Screen_Shot_2022-12-20_at_12-43-26.png, id=1
-619, 578.16pt x 574.5465pt>
+608, 578.16pt x 574.5465pt>
 File: chapters/_resources/../_resources/Screen_Shot_2022-12-20_at_12-43-26.png 
 Graphic file (type png)
 <use chapters/_resources/../_resources/Screen_Shot_2022-12-20_at_12-43-26.png>
 Package pdftex.def Info: chapters/_resources/../_resources/Screen_Shot_2022-12-
-20_at_12-43-26.png  used on input line 417.
-(pdftex.def)             Requested size: 433.62pt x 430.90881pt.
- [116] [117 <./chapters/_resources/../_resources/Screen_Shot_2022-12-20_at_12-4
-3-26.png>]
-<chapters/_resources/../_resources/RNAi.png, id=1630, 578.16pt x 383.93437pt>
+20_at_12-43-26.png  used on input line 422.
+(pdftex.def)             Requested size: 173.44534pt x 172.3565pt.
+ [109 <./chapters/_resources/../_resources/Screen_Shot_2022-12-20_at_12-43-26.p
+ng>] [110]
+<chapters/_resources/../_resources/RNAi.png, id=1619, 578.16pt x 383.93437pt>
 File: chapters/_resources/../_resources/RNAi.png Graphic file (type png)
 <use chapters/_resources/../_resources/RNAi.png>
 Package pdftex.def Info: chapters/_resources/../_resources/RNAi.png  used on in
-put line 447.
-(pdftex.def)             Requested size: 433.62pt x 287.95006pt.
+put line 452.
+(pdftex.def)             Requested size: 260.17464pt x 172.76886pt.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 452.
+(hyperref)                removing `math shift' on input line 457.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\alpha' on input line 452.
+(hyperref)                removing `\alpha' on input line 457.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `math shift' on input line 452.
+(hyperref)                removing `math shift' on input line 457.
 
-[118] [119 <./chapters/_resources/../_resources/RNAi.png>]
-<chapters/_resources/../_resources/era.png, id=1641, 453.695pt x 450.68375pt>
+[111 <./chapters/_resources/../_resources/RNAi.png>]
+<chapters/_resources/../_resources/era.png, id=1626, 453.695pt x 450.68375pt>
 File: chapters/_resources/../_resources/era.png Graphic file (type png)
 <use chapters/_resources/../_resources/era.png>
 Package pdftex.def Info: chapters/_resources/../_resources/era.png  used on inp
-ut line 487.
-(pdftex.def)             Requested size: 433.62pt x 430.74658pt.
- [120] [121 <./chapters/_resources/../_resources/era.png>] [122]
+ut line 493.
+(pdftex.def)             Requested size: 130.08731pt x 129.22328pt.
+ [112 <./chapters/_resources/../_resources/era.png>] [113]
 <chapters/_resources/../_resources/Screen_Shot_2022-12-20_at_14-17-02.png, id=1
-660, 578.16pt x 571.83638pt>
+640, 578.16pt x 571.83638pt>
 File: chapters/_resources/../_resources/Screen_Shot_2022-12-20_at_14-17-02.png 
 Graphic file (type png)
 <use chapters/_resources/../_resources/Screen_Shot_2022-12-20_at_14-17-02.png>
 Package pdftex.def Info: chapters/_resources/../_resources/Screen_Shot_2022-12-
-20_at_14-17-02.png  used on input line 604.
-(pdftex.def)             Requested size: 433.62pt x 428.87624pt.
+20_at_14-17-02.png  used on input line 609.
+(pdftex.def)             Requested size: 130.08731pt x 128.65762pt.
 )
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 48.
- [123] [124 <./chapters/_resources/../_resources/Screen_Shot_2022-12-20_at_14-1
-7-02.png>]
+ [114 <./chapters/_resources/../_resources/Screen_Shot_2022-12-20_at_14-17-02.p
+ng>]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 48.
  (./build/principal.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 48.
@@ -2203,13 +2191,13 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 48.
  ) 
 Here is how much of TeX's memory you used:
- 14079 strings out of 492616
- 241422 string characters out of 6129482
- 339421 words of memory out of 5000000
- 17101 multiletter control sequences out of 15000+600000
+ 14087 strings out of 492616
+ 241464 string characters out of 6129482
+ 334992 words of memory out of 5000000
+ 17126 multiletter control sequences out of 15000+600000
  81182 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,12n,43p,1610b,473s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,12n,43p,1237b,473s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/lo
 cal/texlive/2019/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/20
 19/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2019/texmf-dist/
@@ -2226,10 +2214,10 @@ lic/lm/lmr12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmr7
 ocal/texlive/2019/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texli
 ve/2019/texmf-dist/fonts/type1/public/lm/lmri9.pfb></usr/local/texlive/2019/tex
 mf-dist/fonts/type1/public/lm/lmsy10.pfb>
-Output written on ./build/principal.pdf (125 pages, 26410687 bytes).
+Output written on ./build/principal.pdf (115 pages, 26406483 bytes).
 PDF statistics:
- 1837 PDF objects out of 2073 (max. 8388607)
- 1456 compressed objects within 15 object streams
- 535 named destinations out of 1000 (max. 500000)
+ 1811 PDF objects out of 2073 (max. 8388607)
+ 1440 compressed objects within 15 object streams
+ 518 named destinations out of 1000 (max. 500000)
  1416 words of extra memory for PDF output out of 10000 (max. 10000000)
 

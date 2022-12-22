@@ -60,27 +60,30 @@ Cohesin and CTCF co-occupy thousands of genomic binding sites and share the same
 
 \emph{Does cohesion contribute to CTCF enhancer blocking function?}
 
-Reporter assay with pIHLIE, which is known to be responsible for the insulator sequence. By removing CTCF, the luciferase activity increases. Nothing happens by impairing sister chromatids link through a drug, Sororin. The insulator function of the H19 ICR requires CTCF binding as well as cohesin binding to DNA, but not the establishment of cohesion.
+Reporter assay with pIHLIE, which is known to be responsible for the insulator sequence. (Figure \ref{fig:rep}). By removing CTCF, the luciferase activity increases. Nothing happens by impairing sister chromatids link through a drug, Sororin. The insulator function of the H19 ICR requires CTCF binding as well as cohesin binding to DNA, but not the establishment of cohesion.
 
 \begin{figure}
 \centering
 \includegraphics[width=0.8\textwidth]{../_resources/Screenshot_2022-10-14_at_19-50-44.png}
 \caption{Wendt et al, Nature, 2008}
+\label{fig:rep}
 \end{figure}
 
-Cohesin complexes co-localize with CTCF insulator protein and are required for it to block enhancer sequences. CTCF can slide on DNA and when it reaches an already bound CTCF is stops there $\rightarrow$ functional to repress enhance function.
+Cohesin complexes co-localize with CTCF insulator protein and are required for it to block enhancer sequences. (Figure \ref{fig:cohe}). CTCF can slide on DNA and when it reaches an already bound CTCF is stops there $\rightarrow$ functional to repress enhance function (Figure \ref{fig:chrom}).
 
-\begin{figure}
-\centering
-\includegraphics[width=0.6\textwidth]{../_resources/Screenshot_2022-10-14_at_12-11-11.png}
+\begin{figure}[!htb]
+   \begin{minipage}{0.48\textwidth}
+     \centering
+     \includegraphics[width=0.6\textwidth]{../_resources/Screenshot_2022-10-14_at_12-11-11.png}
 \caption{Herold \emph{et al., Development,} 2012}
-\end{figure}
-
-
-\begin{figure}
-\centering
-\includegraphics[width=0.5\textwidth]{../_resources/Screenshot_2022-10-14_at_12-10-46.png}
+\label{fig:chrom}
+   \end{minipage}\hfill
+   \begin{minipage}{0.48\textwidth}
+     \centering
+     \includegraphics[width=0.5\textwidth]{../_resources/Screenshot_2022-10-14_at_12-10-46.png}
 \caption{Parelho et al, Cell, 2008}
+\label{fig:cohe}
+   \end{minipage}
 \end{figure}
 
 \emph{Does cohesin have anything to do with transcription regulation?}
@@ -97,7 +100,6 @@ CTCF binding motifs tend to interact with each other forming a \emph{chromatin l
 \end{figure}
 
 The hierarchical model of chromatin organization impacts gene regulation:
-
 \begin{itemize}
 \tightlist
 \item
@@ -112,14 +114,13 @@ The hierarchical model of chromatin organization impacts gene regulation:
 
 Most TADs are constrained within CTCF-cohesin boundaries and may consist of a single or multiple DNA loops called insulated neighborhoods (or loop domains, or sub-TADs).
 
-
 The sequences that are within a loop are interacting with each other with higher frequency as compared with canonical interaction rates.
 
 The 3D structure of the genome leads to TAD (topologically associated domains), characterized by a high frequency of DNA interaction within them. Compartment A (euchromatin) and B (heterochromatin) can be subdivided in subcompartments with distinct patterns of histone modifications.
 
 Most of the times, TAD consists of one \emph{insulated neighbourhood} (1 loop). We can also find other cohesins inside the same TAD, resulting in \emph{nested} insulated neighbourhoods or \emph{two insulated neighbourhoods}. 90\% of enhancer promoter interactions occur within neighbourhood boundaries in human ESCs and T cells. However, promoters and enhancers do not exclusively interact with each other, as they interact also with other sequences in the same loop.
 
-Chromatin conformation within TADs is highly variable from cell to cell and contacts between DNA loops are dynamics.
+Chromatin conformation within TADs is highly variable from cell to cell and contacts between DNA loops are dynamic.
 
 \begin{figure}
 \centering
@@ -174,12 +175,13 @@ Each chromosome can be decomposed into two sets of loci (arbitrarily labeled A a
 
 Bimodal pattern in eigenvector $\rightarrow$ either A or B compartment.
 
-3D-FISH to probe four loci (L1, L2, L3, andL4) on chromosome 14 that alternate between the two compartments (L1 and L3 in compartment A; L2 and L4 in compartment B).
+Figure \ref{fig:fish}: 3D-FISH to probe four loci (L1, L2, L3, and L4) on chromosome 14 that alternate between the two compartments (L1 and L3 in compartment A; L2 and L4 in compartment B).
 
 \begin{figure}
 \centering
 \includegraphics[width=0.5\textwidth]{../_resources/Screenshot_2022-10-19_at_09-06-00.png}
 \caption{Lieberma-Aiden \emph{et al., Science} 2009}
+\label{fig:fish}
 \end{figure}
 
 \begin{itemize}
@@ -197,18 +199,19 @@ Bimodal pattern in eigenvector $\rightarrow$ either A or B compartment.
 \hypertarget{optimization-of-hi-c-approach}{%
 \subsection{Optimization of Hi-C approach}\label{optimization-of-hi-c-approach}}
 
-Digestion \emph{in situ}, permeabilize nuclei from cell and without lysing them introduce restriction enzyme cutting 4 nucleotide bases $\rightarrow$ 1kb resolution, proximity ligation performed in intact nuclei (reducing the frequency of spurious contacts).
+Digestion \emph{in situ}, permeabilize nuclei from cell and without lysing them introduce restriction enzyme cutting 4 nucleotide bases $\rightarrow$ 1kb resolution (Figure \ref{fig:kb}), proximity ligation performed in intact nuclei (reducing the frequency of spurious contacts).
 
-\begin{figure}
-\centering
-\includegraphics[width=0.5\textwidth]{../_resources/Screenshot_2022-10-19_at_09-10-50.png}
-\caption{}
-\end{figure}
-
-\begin{figure}
-\centering
-\includegraphics[width=0.5\textwidth]{../_resources/Screenshot_2022-10-19_at_09-11-30.png}
-\caption{}
+\begin{figure}[!htb]
+   \begin{minipage}{0.48\textwidth}
+     \centering
+     \includegraphics[width=0.7\linewidth]{../_resources/Screenshot_2022-10-19_at_09-10-50.png}
+     \caption{}\label{fig:kb}
+   \end{minipage}\hfill
+   \begin{minipage}{0.48\textwidth}
+     \centering
+     \includegraphics[width=0.7\linewidth]{../_resources/Screenshot_2022-10-19_at_09-11-30.png}
+     \caption{}\label{fig:sub}
+   \end{minipage}
 \end{figure}
 
 We can divide a compartment in 6 subcompartments: A1,A2,B1,B2,B3 and B4. The genomic and epigenetic content is different: different density of active genes, CG richness, epigenetic marks,\ldots{} If we increase the resolution within subcompartments, we find frequently interacting regions, which are called domains:
@@ -221,13 +224,13 @@ We can divide a compartment in 6 subcompartments: A1,A2,B1,B2,B3 and B4. The gen
   \emph{ordinary domains or compartment domains}
 \end{itemize}
 
-Depending on the resolution, we can define subcomparments or domains TADs.
+Depending on the resolution, we can define subcomparments or domains TADs (Figure \ref{fig:sub}).
 
 Chromosome compartments are formed by aggregation of multiple domains with similar biochemical or functional properties. In literature some studies indicate `'sub-TADs'' or `'insulated neighborhoods'' to refer to domains identified by high-resolution Hi-C as being smaller than the domains TADs, either ordinary or loop domains.
 
 The frequency of interaction can also be depicted as a linear genomic coordinate. A Hi-C map can be integrated with ChIP-seq and RNA-seq data to assess the complexity of the domains identified by low resolution data.
 
-The identification of TADs is highly dependent on the resolution of the Hi-C data and the scale at which the data are analysed
+The identification of TADs is highly dependent on the resolution of the Hi-C data and the scale at which the data are analysed.
 
 \begin{figure}
 \centering
@@ -299,14 +302,14 @@ When the transcription activators bind mediator, the mediator complex undergoes 
 \hypertarget{promoter-enhancer-communication-occurs-primarily-within-insulated-neighbourhoods}{%
 \subsection{Promoter-Enhancer Communication Occurs Primarily within Insulated neighbourhoods}\label{promoter-enhancer-communication-occurs-primarily-within-insulated-neighbourhoods}}
 
-Computational analyses of published CTCF and Smc1 ChIA-PET datasets enabled identification of insulated neighborhoods encompassing 9,407 protein-coding genes of which 3,929 were transcriptionally active in mouse ESCs.
+Computational analyses of published CTCF and Smc1 ChIA-PET datasets enabled identification of insulated neighborhoods encompassing 9,407 protein-coding genes of which 3,929 were transcriptionally active in mouse ESCs (Figure \ref{fig:mouse}).
 
 \begin{figure}
 \centering
 \includegraphics[width=0.5\textwidth]{../_resources/Screenshot_2022-10-19_at_10-01-09.png}
 \caption{Sun et al., 2019}
+\label{fig:mouse}
 \end{figure}
-
 
 The sites of co-binding of cohesin and CTCF define \emph{DNA loops boundaries}. We can recognize promoters by TAF2 Hac, POL II (not much Med26, repressive).
 
@@ -316,7 +319,7 @@ Distribution of the indicated proteins binding and promoter Hi-C interactions in
 
 Promoter sequences form loops predominantly within the insulated neighborhood, in particular with enhancers and boundaries. Are the enhancer function and gene regulation constrained within the same insulated neighborhood? Is it possible to interfere with the function of specific enhancers and test whether it has an effect on genes inside and outside the insulated neighborhood?
 
-Can the Mediator complex be removed from specific genes? They generated a sequence with promoter and TF binding site, anchored to a magnetic bead. Test with Western blot the binding of the protein. The transcription factor estrogen-related receptor b (\textbf{Essrb}) directly interacts with the Mediator complex. Downregulating Essrb would impair Mediator binding to specific enanhcers, deregulating expression of distinct target genes.
+Can the Mediator complex be removed from specific genes? They generated a sequence with promoter and TF binding site, anchored to a magnetic bead. Test with Western blot the binding of the protein. The transcription factor estrogen-related receptor b (\textbf{Essrb}) directly interacts with the Mediator complex. Downregulating Essrb would impair Mediator binding to specific enhancers, deregulating expression of distinct target genes.
 
 Indeed, Essrb knock down can be used to deplete Mediator, inactivate enhancers and downregulate target genes.
 
@@ -330,7 +333,7 @@ Hypothesis: in DNA loop are present oncogene, which can be activate by different
 
 \begin{figure}
 \centering
-\includegraphics[width=0.8\textwidth]{../_resources/4eb79fba5a169cc3d31f5400dee44c80.png}
+\includegraphics[width=0.5\textwidth]{../_resources/4eb79fba5a169cc3d31f5400dee44c80.png}
 \caption{Hnisz et al., Cell, 2016}
 \label{fig:proto}
 \end{figure}
@@ -348,21 +351,20 @@ The main hypothesis states that some insulated neighborhoods function to prevent
 
 Example: deletion in promoter of TAL1 -\textgreater{} its transcription is initiated by STIL promoter, which is normally active in T-Cells. TAL1 is normally silenced after fetal stage. Using CRISPr/Cas9 they removed a little piece on the boundary. Disruption of insulated neighborhood boundaries is linked to proto-oncogene activation (Figure \ref{fig:cas}).
 
-\begin{figure}
-\centering
-\includegraphics[width=0.7\textwidth]{../_resources/bf32b9679af0fb7fcba57b9f87bb4207.png}
-\caption{Hnisz et al., Cell, 2016}
-\label{fig:cas}
-\end{figure}
-
-
 The silent state of the TAL1 proto-oncogene is dependent on the integrity of the insulated neighborhood TAL1 encodes a transcription factor that is overexpressed in \textasciitilde50\% of T-ALL cases and is a key oncogenic driver of this cancer (Figure \ref{fig:tal1}).
 
-\begin{figure}
-\centering
-\includegraphics[width=0.5\textwidth]{../_resources/3d83d920d425aa5f76bdbb127596c02b.png}
+\begin{figure}[!htb]
+   \begin{minipage}{0.48\textwidth}
+     \centering
+    \includegraphics[width=0.5\textwidth]{../_resources/bf32b9679af0fb7fcba57b9f87bb4207.png}
 \caption{Hnisz et al., Cell, 2016}
-\label{fig:tal1}
+\label{fig:cas}
+   \end{minipage}\hfill
+   \begin{minipage}{0.48\textwidth}
+     \centering
+    \includegraphics[width=0.5\textwidth]{../_resources/3d83d920d425aa5f76bdbb127596c02b.png}
+\caption{Hnisz et al., Cell, 2016}\label{fig:tal1}
+   \end{minipage}
 \end{figure}
 
 They tried to do the same on another locus, without the mediation of enhancer or promoters. Even in this case,  the disruption of DNA loop allows for the transcription of proto oncogenes.
@@ -384,15 +386,22 @@ Super-enhancers regulate genes involved in cell identity: they are bound by tiss
 
 TAL1 forms transcriptional regulatory networks with other transcription factors in hematopoietic stem cells (Figure \ref{fig:hema}).
 
-\begin{figure}
-\centering
-\includegraphics[width=0.5\textwidth]{../_resources/99fbd93b812d482263d53c442698a36a.png}
+\begin{figure}[!htb]
+   \begin{minipage}{0.48\textwidth}
+     \centering
+     \includegraphics[width=0.3\textwidth]{../_resources/99fbd93b812d482263d53c442698a36a.png}
 \caption{}
 \label{fig:hema}
+   \end{minipage}\hfill
+   \begin{minipage}{0.48\textwidth}
+     \centering
+     \includegraphics[width=0.3\textwidth]{../_resources/c099d4a9ad4bba13e7839f48fd831265.png}
+\caption{}
+\label{fig:talju}
+   \end{minipage}
 \end{figure}
 
-
-This circuits underline the tissue-specificity of most cancers. TAL1 requires a SE, a transcriptional re-wiring.
+These circuits underline the tissue-specificity of most cancers. TAL1 requires a SE, a transcriptional re-wiring.
 \begin{itemize}
 \item The expression of TAL1 is downregulated during normal T-cell development, while GATA3 and RUNX1 are expressed in T cells
 \item  Re-expression of TAL1 in T cells dictates a transcriptional circuitry inducing tumorigenesis
@@ -404,13 +413,6 @@ This circuits underline the tissue-specificity of most cancers. TAL1 requires a 
 
 Even SNPs can generate super-enhancers! TAL1 SE was not found in T cells, or hematopoietic stem and progenitor cells (HSPCs). 3C experiments identified a looping interaction within the SE (red arrow), not anymore an insulated neighborhood in this particular site (Figure \ref{fig:talju}).
 
-\begin{figure}
-\centering
-\includegraphics[width=0.5\textwidth]{../_resources/c099d4a9ad4bba13e7839f48fd831265.png}
-\caption{}
-\label{fig:talju}
-\end{figure}
-
 When investigating the reason for this difference, they found out that some nucleotide addition (but not much). Small insertion leads to a TFBS in T-ALL cancer cell lines. Only transcription factors expressed in T-ALL cells are involved in the activation of the mutant enhancer.
 
 BUT a mutation on the promoter of TAL1 is not enough. We need all the transcription circuit of the actors that co-regulate each-other. The Mediator binding pattern stretching for 20kb, overlapping with the H2K27ac mark (seen in previous ChIP), indicates the presence of a super-enhancer. Not observed in HPSCs or T-ALL cells devoid of the mutated TAL1 enhancer site: it is the de novo MYB site to promote TAL1 complex formation and induce TAL1 expression.
@@ -418,23 +420,23 @@ BUT a mutation on the promoter of TAL1 is not enough. We need all the transcript
 ChIP seq revealed the presence of a TAL1 complex, including MYB, at the TAL1 mutated enhancer.
 Targeted deletion of the TAL1 enhancer mutation collapses the TAL1 super-enhancer (Figure \ref{fig:deltal}).
 
-\begin{figure}
-\centering
-\includegraphics[width=0.5\textwidth]{../_resources/dfb8371fc17e078308c3d5aa247ebcbf.png}
-\caption{}
-\label{fig:deltal}
-\end{figure}
-
 This results in a gain of function even in heterozygosity. A SE can be generated by a single transcription factor biding site and can extend to hundred of bases. They are very sensitive to mutations.
 
 Finally, there's mainly two ways to activate proto-oncogenes (Figure \ref{fig:sup}). Both can be triggered by very short deletions/mutations that happen in regulatory regions.
 
-
-\begin{figure}
-\centering
-\includegraphics[width=0.5\textwidth]{../_resources/8bd5f4820c364c35b02c35eb0e48f464.png}
+\begin{figure}[!htb]
+   \begin{minipage}{0.48\textwidth}
+     \centering
+    \includegraphics[width=0.7\textwidth]{../_resources/dfb8371fc17e078308c3d5aa247ebcbf.png}
+\caption{}
+\label{fig:deltal}
+   \end{minipage}\hfill
+   \begin{minipage}{0.48\textwidth}
+     \centering
+     \includegraphics[width=0.7\textwidth]{../_resources/8bd5f4820c364c35b02c35eb0e48f464.png}
 \caption{}
 \label{fig:sup}
+   \end{minipage}
 \end{figure}
 
 More recent genomic insertions form enhancers that misregulate oncogenes; this hypothesis was tested in different cancer cell lines.
@@ -505,7 +507,6 @@ Cells become addicted to a single oncogene! (and to transcription in general). T
 
 MYC is quite an unstable protein, even its mRNA has a very short life. It has an one-of-a-kind binding domain, it is a very special protein.
 
-
 \begin{figure}
 \centering
 \includegraphics[width=0.5\textwidth]{../_resources/01adbb32a69ee3baec1bf9bddd890f52.png}
@@ -517,27 +518,29 @@ MYC, MAX and MXDI all recognise the same site (Figure \ref{fig:myc}).
 MXD and MYC act as antagonists. MXD proteins can recruit histone deacetylases and repress transcription while MYC proteins recruit complexes that promote transcription (not always the case\ldots). MYC stimulates cell growth and proliferation, while MXD inhibits cell growth and proliferation and blocks MYC effects.
 MYC-MAX bind to thousands of genes whose identity depends on the cellular transcriptome and the abundance of MYC protein (Figure \ref{fig:maxmyc}).
 
-\begin{figure}
-\centering
-\includegraphics[width=0.5\textwidth]{../_resources/017e543a7782177edd93188be60ae382.png}
-\caption{Carroll et al., Front.Med. 2018}
-\label{fig:maxmyc}
-\end{figure}
 
 Studying MYC is very difficult. What we know is that if we do a chIP for MYC we have an extreme range of possible results, result is basically random. For RNA-seq: regulation of genes from MYC is also very subtle, with down-up regualted genes changing like 20\%, but also transcribe for TF that regulate their own site.
 
-\begin{figure}
-\centering
-\includegraphics[width=0.5\textwidth]{../_resources/e218faf59750ef1a90a9e45629f08973.png}
-\caption{Lourenco et al., Nature Reviews Cancer, 2021}
-\label{fig:regmyc}
+\begin{figure}[!htb]
+   \begin{minipage}{0.48\textwidth}
+     \centering
+    \includegraphics[width=0.5\textwidth]{../_resources/017e543a7782177edd93188be60ae382.png}
+	\caption{Carroll et al., Front.Med. 2018}
+	\label{fig:maxmyc}
+   \end{minipage}\hfill
+   \begin{minipage}{0.48\textwidth}
+     \centering
+     \includegraphics[width=0.7\textwidth]{../_resources/e218faf59750ef1a90a9e45629f08973.png}
+	\caption{Lourenco et al., Nature Reviews Cancer, 2021}
+	\label{fig:regmyc}
+   \end{minipage}
 \end{figure}
 
 Trunk sustains the outcome of MYC, but the net outcome of MYC interaction and transcription we have epigenetic regulation, pre initiation complex assembly, pause-release behaviour\ldots. 
 
 \begin{figure}
 \centering
-\includegraphics[width=0.5\textwidth]{../_resources/10a2ad3114504053030a1071443aabd7.png}
+\includegraphics[width=0.7\textwidth]{../_resources/10a2ad3114504053030a1071443aabd7.png}
 \caption{Lourenco et al., Nature Reviews Cancer, 2021}
 \label{fig:ppmyc}
 \end{figure}
@@ -555,7 +558,6 @@ BUT tumorigenesis is not only about proliferation: we need proteins, membranes,\
 \caption{Kress et al, NatureRevCancer-2015}
 \label{fig:ppmyc}
 \end{figure}
-
 
 \hypertarget{by-which-major-mechanism-or-pathway-myc-proteins-promote-tumorigenesis}{%
 \subsection{By which major mechanism or pathway do MYC proteins promote tumorigenesis?}\label{by-which-major-mechanism-or-pathway-myc-proteins-promote-tumorigenesis}}

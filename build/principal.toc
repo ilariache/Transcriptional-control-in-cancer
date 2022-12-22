@@ -35,94 +35,94 @@
 \contentsline {subsection}{\numberline {2.5.2}eRNAs proposed functions}{32}{subsection.2.5.2}% 
 \contentsline {subsection}{\numberline {2.5.3}Assessing whether the CRC 8q24 risk region acts as an enhancer}{32}{subsection.2.5.3}% 
 \contentsline {subsection}{\numberline {2.5.4}The common colorectal cancer predisposition SNP rs6983267 at chromosome 8q24 confers potential to enhanced Wnt signaling}{33}{subsection.2.5.4}% 
-\contentsline {subsection}{\numberline {2.5.5}CCAT2, a novel noncoding RNA mapping to 8q24, underlies metastatic progression and chromosomal instabilty n colon cancer}{34}{subsection.2.5.5}% 
+\contentsline {subsection}{\numberline {2.5.5}CCAT2, a novel noncoding RNA mapping to 8q24, underlies metastatic progression and chromosomal instabilty in colon cancer}{34}{subsection.2.5.5}% 
 \contentsline {chapter}{\numberline {3}Chromosome domains and oncogene activation}{37}{chapter.3}% 
 \contentsline {section}{\numberline {3.1}Genome organization and transcription regulation}{37}{section.3.1}% 
 \contentsline {subsection}{\numberline {3.1.1}CTCF}{37}{subsection.3.1.1}% 
 \contentsline {subsection}{\numberline {3.1.2}Cohesin mediates transcriptional insulation by CCCTC-binding factor}{38}{subsection.3.1.2}% 
 \contentsline {subsection}{\numberline {3.1.3}CTCF and Cohesin in Genome Folding and Transcriptional Gene Regulation}{40}{subsection.3.1.3}% 
-\contentsline {section}{\numberline {3.2}Chromosome Conformation Capture (3C)}{42}{section.3.2}% 
-\contentsline {section}{\numberline {3.3}Hi-C approach}{42}{section.3.3}% 
+\contentsline {section}{\numberline {3.2}Chromosome Conformation Capture (3C)}{41}{section.3.2}% 
+\contentsline {section}{\numberline {3.3}Hi-C approach}{41}{section.3.3}% 
 \contentsline {subsection}{\numberline {3.3.1}Optimization of Hi-C approach}{43}{subsection.3.3.1}% 
-\contentsline {section}{\numberline {3.4}Mediator and cohesin connect gene expression and chromatin architecture}{46}{section.3.4}% 
-\contentsline {subsection}{\numberline {3.4.1}Promoter-Enhancer Communication Occurs Primarily within Insulated neighbourhoods}{47}{subsection.3.4.1}% 
-\contentsline {subsection}{\numberline {3.4.2}Depletion of Mediator causes loss of PIC assembly}{48}{subsection.3.4.2}% 
-\contentsline {section}{\numberline {3.5}Super-enhancers}{50}{section.3.5}% 
-\contentsline {subsection}{\numberline {3.5.1}How is a SE generated during tumorigenesis?}{51}{subsection.3.5.1}% 
-\contentsline {subsection}{\numberline {3.5.2}How cancer cells take advantage of super-enhancers}{53}{subsection.3.5.2}% 
-\contentsline {section}{\numberline {3.6}The role of MYC in cancer cells}{54}{section.3.6}% 
-\contentsline {subsection}{\numberline {3.6.1}Key aspects of MYC in tumorigenesis}{54}{subsection.3.6.1}% 
-\contentsline {subsubsection}{\numberline {3.6.1.1}MYC transcription factor forms a heterodimer with MAX}{54}{subsubsection.3.6.1.1}% 
-\contentsline {subsection}{\numberline {3.6.2}By which major mechanism or pathway do MYC proteins promote tumorigenesis?}{56}{subsection.3.6.2}% 
-\contentsline {chapter}{\numberline {4}Targeting transcription in cancer}{58}{chapter.4}% 
-\contentsline {section}{\numberline {4.1}Age-related remodellling of oesophageal epithelia by mutated cancer drivers}{58}{section.4.1}% 
-\contentsline {section}{\numberline {4.2}The risk of suffering any cancer increases during aging}{60}{section.4.2}% 
-\contentsline {section}{\numberline {4.3}Targeted therapeutics generally lead to resistance}{61}{section.4.3}% 
-\contentsline {subsection}{\numberline {4.3.1}Mutations in cancer}{61}{subsection.4.3.1}% 
-\contentsline {section}{\numberline {4.4}Target transcription in cancer}{62}{section.4.4}% 
-\contentsline {section}{\numberline {4.5}BRD4}{64}{section.4.5}% 
-\contentsline {subsection}{\numberline {4.5.1}Selective inhibition of Tumor Oncogenes by Disruption of Super-Enhancers}{64}{subsection.4.5.1}% 
-\contentsline {section}{\numberline {4.6}YAP/TAZ}{65}{section.4.6}% 
-\contentsline {section}{\numberline {4.7}TEAD}{67}{section.4.7}% 
-\contentsline {subsection}{\numberline {4.7.1}YAP/TAZ/TEAD}{67}{subsection.4.7.1}% 
-\contentsline {section}{\numberline {4.8}Nuclear receptors}{68}{section.4.8}% 
-\contentsline {subsection}{\numberline {4.8.1}Estrogen receptor \(\alpha \)}{69}{subsection.4.8.1}% 
-\contentsline {subsection}{\numberline {4.8.2}ER$\alpha $ in breast cancer}{70}{subsection.4.8.2}% 
-\contentsline {subsubsection}{\numberline {4.8.2.1}Mechanisms provoking breast cancer drug resistance}{70}{subsubsection.4.8.2.1}% 
-\contentsline {subsubsection}{\numberline {4.8.2.2}Summary}{71}{subsubsection.4.8.2.2}% 
-\contentsline {subsubsection}{\numberline {4.8.2.3}ER$\alpha $ transcriptional program}{72}{subsubsection.4.8.2.3}% 
-\contentsline {chapter}{\numberline {5}Transcription and genome instability}{74}{chapter.5}% 
-\contentsline {section}{\numberline {5.1}R-loops}{74}{section.5.1}% 
-\contentsline {subsection}{\numberline {5.1.1}R-loop degradation}{75}{subsection.5.1.1}% 
-\contentsline {subsubsection}{\numberline {5.1.1.1}R-loop recognition and distribution}{75}{subsubsection.5.1.1.1}% 
-\contentsline {subsection}{\numberline {5.1.2}VIM-antisense1}{76}{subsection.5.1.2}% 
-\contentsline {subsubsection}{\numberline {5.1.2.1}Main findings}{76}{subsubsection.5.1.2.1}% 
-\contentsline {subsection}{\numberline {5.1.3}HOTTIP-dependent R-loop formation regulates CTCF boundary activity and TAD integrity in leukemia}{77}{subsection.5.1.3}% 
-\contentsline {subsection}{\numberline {5.1.4}HOTTIP lncRNA Promotes Hematopoietic Stem Cells Self-Renewal Leading to AML-like Disease in Mice}{79}{subsection.5.1.4}% 
-\contentsline {section}{\numberline {5.2}DNA damage}{79}{section.5.2}% 
-\contentsline {section}{\numberline {5.3}R loop modified bases}{79}{section.5.3}% 
-\contentsline {subsection}{\numberline {5.3.1}Apical kinases}{81}{subsection.5.3.1}% 
-\contentsline {subsection}{\numberline {5.3.2}Topoisomerases}{83}{subsection.5.3.2}% 
-\contentsline {subsubsection}{\numberline {5.3.2.1}A topoisomerase IIb-mediated dsDNA break required for Regulated Transcription}{83}{subsubsection.5.3.2.1}% 
-\contentsline {subsubsection}{\numberline {5.3.2.2}BRCA1}{84}{subsubsection.5.3.2.2}% 
-\contentsline {subsubsection}{\numberline {5.3.2.3}Stark et al.}{84}{subsubsection.5.3.2.3}% 
-\contentsline {subsection}{\numberline {5.3.3}Causes of genetic instability (from last lecture)}{85}{subsection.5.3.3}% 
-\contentsline {section}{\numberline {5.4}DNA damage signaling activation during tumorigenesis}{86}{section.5.4}% 
-\contentsline {subsection}{\numberline {5.4.1}Which tumorigenic events trigger activation DDR? (very early in tumorigenesis!)}{86}{subsection.5.4.1}% 
-\contentsline {subsection}{\numberline {5.4.2}Oncogene induced senescence cells}{86}{subsection.5.4.2}% 
-\contentsline {subsubsection}{\numberline {5.4.2.1}Replication stress}{87}{subsubsection.5.4.2.1}% 
-\contentsline {subsubsection}{\numberline {5.4.2.2}Chromosome abnormalities due to pre-mitotic defects are frequently found in tumors}{87}{subsubsection.5.4.2.2}% 
-\contentsline {subsubsection}{\numberline {5.4.2.3}Transcription replication conflicts}{88}{subsubsection.5.4.2.3}% 
-\contentsline {subsubsection}{\numberline {5.4.2.4}Increased global transcription activity as a mechanism of replication stress in cancer}{88}{subsubsection.5.4.2.4}% 
-\contentsline {chapter}{\numberline {6}Role of transcription in DNA damage response and repair}{90}{chapter.6}% 
-\contentsline {section}{\numberline {6.1}Biogenesis of canonical miRNA}{90}{section.6.1}% 
-\contentsline {section}{\numberline {6.2}DICER and DROSH regulation of DDR and checkpoint enforcement}{92}{section.6.2}% 
-\contentsline {section}{\numberline {6.3}DDRNAs}{92}{section.6.3}% 
-\contentsline {subsection}{\numberline {6.3.1}DDRNAs and dilncRNAs regulate DDR and DNA repair}{94}{subsection.6.3.1}% 
-\contentsline {section}{\numberline {6.4}RNA Pol II recruitment at DSBs}{94}{section.6.4}% 
-\contentsline {chapter}{\numberline {7}Telomeres and telomere transcription in cancer}{96}{chapter.7}% 
-\contentsline {section}{\numberline {7.1}What are telomeres?}{96}{section.7.1}% 
-\contentsline {section}{\numberline {7.2}Telomeres mask chromosome ends from being recognized as double-strand breaks}{96}{section.7.2}% 
-\contentsline {section}{\numberline {7.3}Telomere dysfunction in a p53 and Rb mutant setting does not induce cell cycle block}{97}{section.7.3}% 
-\contentsline {section}{\numberline {7.4}End of replication problem}{98}{section.7.4}% 
-\contentsline {subsection}{\numberline {7.4.1}Hayflick limit}{99}{subsection.7.4.1}% 
-\contentsline {subsection}{\numberline {7.4.2}Triggering senescence}{100}{subsection.7.4.2}% 
-\contentsline {section}{\numberline {7.5}Cell crisis}{101}{section.7.5}% 
-\contentsline {section}{\numberline {7.6}Telomerase enzyme}{101}{section.7.6}% 
-\contentsline {subsection}{\numberline {7.6.1}Usage of telomerase}{101}{subsection.7.6.1}% 
-\contentsline {chapter}{\numberline {8}Journal Clubs}{103}{chapter.8}% 
-\contentsline {section}{\numberline {8.1}Mechansims of transcription regulation}{103}{section.8.1}% 
-\contentsline {subsection}{\numberline {8.1.1}Enhancers are activated by p300/CBP activity-dependent PIC assembly, RNAPII recruitment, and pause release}{103}{subsection.8.1.1}% 
-\contentsline {subsection}{\numberline {8.1.2}SPT5 stabilization of promoter - proximal RNA polymerase II}{104}{subsection.8.1.2}% 
-\contentsline {section}{\numberline {8.2}Mechanisms of transcription regulation in cancer}{108}{section.8.2}% 
-\contentsline {subsection}{\numberline {8.2.1}MYC Recruits SPT5 to RNA Polymerase II to Promote Processive Transcription Elongation}{108}{subsection.8.2.1}% 
-\contentsline {subsection}{\numberline {8.2.2}BRD4-directed super-enhancer organization of transcription repression programs links to chemotherapeutic efficacy in breast cancer}{109}{subsection.8.2.2}% 
-\contentsline {subsection}{\numberline {8.2.3}HSF2 cooperates with HSF1 to drive a transcriptional program critical for the malignant state}{110}{subsection.8.2.3}% 
-\contentsline {subsection}{\numberline {8.2.4}Oncogenic lncRNAs alter epigenetic memory at a fragile chromosomal site in human cancer cells}{113}{subsection.8.2.4}% 
-\contentsline {section}{\numberline {8.3}Targeting transcription in cancer}{114}{section.8.3}% 
-\contentsline {subsection}{\numberline {8.3.1}Targeting histone acetylation dynamics and oncogenic transcription by catalytic p300/CBP inhibition}{114}{subsection.8.3.1}% 
-\contentsline {subsection}{\numberline {8.3.2}Super Elongation Complex as a Targetable Dependency in Diffuse Midline Glioma}{114}{subsection.8.3.2}% 
-\contentsline {subsection}{\numberline {8.3.3}Transcription elongation factors represent in vivo cancer dependencies in glioblastoma}{116}{subsection.8.3.3}% 
-\contentsline {section}{\numberline {8.4}Nuclear receptors in cancer}{118}{section.8.4}% 
-\contentsline {subsection}{\numberline {8.4.1}ER$\alpha $ is an RNA-binding protein sustaining tumor cell survival and drug resistance}{118}{subsection.8.4.1}% 
-\contentsline {subsection}{\numberline {8.4.2}Analysis of estrogen-regulated enhancer RNAs identified a functional motif required for enhancer assembly and gene expression}{120}{subsection.8.4.2}% 
+\contentsline {section}{\numberline {3.4}Mediator and cohesin connect gene expression and chromatin architecture}{45}{section.3.4}% 
+\contentsline {subsection}{\numberline {3.4.1}Promoter-Enhancer Communication Occurs Primarily within Insulated neighbourhoods}{46}{subsection.3.4.1}% 
+\contentsline {subsection}{\numberline {3.4.2}Depletion of Mediator causes loss of PIC assembly}{47}{subsection.3.4.2}% 
+\contentsline {section}{\numberline {3.5}Super-enhancers}{48}{section.3.5}% 
+\contentsline {subsection}{\numberline {3.5.1}How is a SE generated during tumorigenesis?}{49}{subsection.3.5.1}% 
+\contentsline {subsection}{\numberline {3.5.2}How cancer cells take advantage of super-enhancers}{49}{subsection.3.5.2}% 
+\contentsline {section}{\numberline {3.6}The role of MYC in cancer cells}{50}{section.3.6}% 
+\contentsline {subsection}{\numberline {3.6.1}Key aspects of MYC in tumorigenesis}{51}{subsection.3.6.1}% 
+\contentsline {subsubsection}{\numberline {3.6.1.1}MYC transcription factor forms a heterodimer with MAX}{51}{subsubsection.3.6.1.1}% 
+\contentsline {subsection}{\numberline {3.6.2}By which major mechanism or pathway do MYC proteins promote tumorigenesis?}{54}{subsection.3.6.2}% 
+\contentsline {chapter}{\numberline {4}Targeting transcription in cancer}{55}{chapter.4}% 
+\contentsline {section}{\numberline {4.1}Age-related remodellling of oesophageal epithelia by mutated cancer drivers}{55}{section.4.1}% 
+\contentsline {section}{\numberline {4.2}The risk of suffering any cancer increases during aging}{57}{section.4.2}% 
+\contentsline {section}{\numberline {4.3}Targeted therapeutics generally lead to resistance}{58}{section.4.3}% 
+\contentsline {subsection}{\numberline {4.3.1}Mutations in cancer}{58}{subsection.4.3.1}% 
+\contentsline {section}{\numberline {4.4}Target transcription in cancer}{59}{section.4.4}% 
+\contentsline {section}{\numberline {4.5}BRD4}{61}{section.4.5}% 
+\contentsline {subsection}{\numberline {4.5.1}Selective inhibition of Tumor Oncogenes by Disruption of Super-Enhancers}{61}{subsection.4.5.1}% 
+\contentsline {section}{\numberline {4.6}YAP/TAZ}{62}{section.4.6}% 
+\contentsline {section}{\numberline {4.7}TEAD}{63}{section.4.7}% 
+\contentsline {subsection}{\numberline {4.7.1}YAP/TAZ/TEAD}{63}{subsection.4.7.1}% 
+\contentsline {section}{\numberline {4.8}Nuclear receptors}{65}{section.4.8}% 
+\contentsline {subsection}{\numberline {4.8.1}Estrogen receptor \(\alpha \)}{65}{subsection.4.8.1}% 
+\contentsline {subsection}{\numberline {4.8.2}ER$\alpha $ in breast cancer}{66}{subsection.4.8.2}% 
+\contentsline {subsubsection}{\numberline {4.8.2.1}Mechanisms provoking breast cancer drug resistance}{67}{subsubsection.4.8.2.1}% 
+\contentsline {subsubsection}{\numberline {4.8.2.2}Summary}{67}{subsubsection.4.8.2.2}% 
+\contentsline {subsubsection}{\numberline {4.8.2.3}ER$\alpha $ transcriptional program}{68}{subsubsection.4.8.2.3}% 
+\contentsline {chapter}{\numberline {5}Transcription and genome instability}{70}{chapter.5}% 
+\contentsline {section}{\numberline {5.1}R-loops}{70}{section.5.1}% 
+\contentsline {subsection}{\numberline {5.1.1}R-loop degradation}{71}{subsection.5.1.1}% 
+\contentsline {subsubsection}{\numberline {5.1.1.1}R-loop recognition and distribution}{71}{subsubsection.5.1.1.1}% 
+\contentsline {subsection}{\numberline {5.1.2}VIM-antisense1}{72}{subsection.5.1.2}% 
+\contentsline {subsubsection}{\numberline {5.1.2.1}Main findings}{72}{subsubsection.5.1.2.1}% 
+\contentsline {subsection}{\numberline {5.1.3}HOTTIP-dependent R-loop formation regulates CTCF boundary activity and TAD integrity in leukemia}{73}{subsection.5.1.3}% 
+\contentsline {subsection}{\numberline {5.1.4}HOTTIP lncRNA Promotes Hematopoietic Stem Cells Self-Renewal Leading to AML-like Disease in Mice}{75}{subsection.5.1.4}% 
+\contentsline {section}{\numberline {5.2}DNA damage}{75}{section.5.2}% 
+\contentsline {section}{\numberline {5.3}R loop modified bases}{76}{section.5.3}% 
+\contentsline {subsection}{\numberline {5.3.1}Apical kinases}{76}{subsection.5.3.1}% 
+\contentsline {subsection}{\numberline {5.3.2}Topoisomerases}{79}{subsection.5.3.2}% 
+\contentsline {subsubsection}{\numberline {5.3.2.1}A topoisomerase IIb-mediated dsDNA break required for Regulated Transcription}{79}{subsubsection.5.3.2.1}% 
+\contentsline {subsubsection}{\numberline {5.3.2.2}BRCA1}{80}{subsubsection.5.3.2.2}% 
+\contentsline {subsubsection}{\numberline {5.3.2.3}Stark et al.}{80}{subsubsection.5.3.2.3}% 
+\contentsline {subsection}{\numberline {5.3.3}Causes of genetic instability (from last lecture)}{81}{subsection.5.3.3}% 
+\contentsline {section}{\numberline {5.4}DNA damage signaling activation during tumorigenesis}{81}{section.5.4}% 
+\contentsline {subsection}{\numberline {5.4.1}Which tumorigenic events trigger activation DDR? (very early in tumorigenesis!)}{82}{subsection.5.4.1}% 
+\contentsline {subsection}{\numberline {5.4.2}Oncogene induced senescence cells}{82}{subsection.5.4.2}% 
+\contentsline {subsubsection}{\numberline {5.4.2.1}Replication stress}{82}{subsubsection.5.4.2.1}% 
+\contentsline {subsubsection}{\numberline {5.4.2.2}Chromosome abnormalities due to pre-mitotic defects are frequently found in tumors}{83}{subsubsection.5.4.2.2}% 
+\contentsline {subsubsection}{\numberline {5.4.2.3}Transcription replication conflicts}{83}{subsubsection.5.4.2.3}% 
+\contentsline {subsubsection}{\numberline {5.4.2.4}Increased global transcription activity as a mechanism of replication stress in cancer}{84}{subsubsection.5.4.2.4}% 
+\contentsline {chapter}{\numberline {6}Role of transcription in DNA damage response and repair}{85}{chapter.6}% 
+\contentsline {section}{\numberline {6.1}Biogenesis of canonical miRNA}{85}{section.6.1}% 
+\contentsline {section}{\numberline {6.2}DICER and DROSHA regulation of DDR and checkpoint enforcement}{87}{section.6.2}% 
+\contentsline {section}{\numberline {6.3}DDRNAs}{87}{section.6.3}% 
+\contentsline {subsection}{\numberline {6.3.1}DDRNAs and dilncRNAs regulate DDR and DNA repair}{89}{subsection.6.3.1}% 
+\contentsline {section}{\numberline {6.4}RNA Pol II recruitment at DSBs}{89}{section.6.4}% 
+\contentsline {chapter}{\numberline {7}Telomeres and telomere transcription in cancer}{91}{chapter.7}% 
+\contentsline {section}{\numberline {7.1}What are telomeres?}{91}{section.7.1}% 
+\contentsline {section}{\numberline {7.2}Telomeres mask chromosome ends from being recognized as double-strand breaks}{91}{section.7.2}% 
+\contentsline {section}{\numberline {7.3}Telomere dysfunction in a p53 and Rb mutant setting does not induce cell cycle block}{92}{section.7.3}% 
+\contentsline {section}{\numberline {7.4}End of replication problem}{93}{section.7.4}% 
+\contentsline {subsection}{\numberline {7.4.1}Hayflick limit}{95}{subsection.7.4.1}% 
+\contentsline {subsection}{\numberline {7.4.2}Triggering senescence}{95}{subsection.7.4.2}% 
+\contentsline {section}{\numberline {7.5}Cell crisis}{96}{section.7.5}% 
+\contentsline {section}{\numberline {7.6}Telomerase enzyme}{96}{section.7.6}% 
+\contentsline {subsection}{\numberline {7.6.1}Usage of telomerase}{96}{subsection.7.6.1}% 
+\contentsline {chapter}{\numberline {8}Journal Clubs}{98}{chapter.8}% 
+\contentsline {section}{\numberline {8.1}Mechansims of transcription regulation}{98}{section.8.1}% 
+\contentsline {subsection}{\numberline {8.1.1}Enhancers are activated by p300/CBP activity-dependent PIC assembly, RNAPII recruitment, and pause release}{98}{subsection.8.1.1}% 
+\contentsline {subsection}{\numberline {8.1.2}SPT5 stabilization of promoter - proximal RNA polymerase II}{100}{subsection.8.1.2}% 
+\contentsline {section}{\numberline {8.2}Mechanisms of transcription regulation in cancer}{101}{section.8.2}% 
+\contentsline {subsection}{\numberline {8.2.1}MYC Recruits SPT5 to RNA Polymerase II to Promote Processive Transcription Elongation}{101}{subsection.8.2.1}% 
+\contentsline {subsection}{\numberline {8.2.2}BRD4-directed super-enhancer organization of transcription repression programs links to chemotherapeutic efficacy in breast cancer}{103}{subsection.8.2.2}% 
+\contentsline {subsection}{\numberline {8.2.3}HSF2 cooperates with HSF1 to drive a transcriptional program critical for the malignant state}{104}{subsection.8.2.3}% 
+\contentsline {subsection}{\numberline {8.2.4}Oncogenic lncRNAs alter epigenetic memory at a fragile chromosomal site in human cancer cells}{106}{subsection.8.2.4}% 
+\contentsline {section}{\numberline {8.3}Targeting transcription in cancer}{106}{section.8.3}% 
+\contentsline {subsection}{\numberline {8.3.1}Targeting histone acetylation dynamics and oncogenic transcription by catalytic p300/CBP inhibition}{106}{subsection.8.3.1}% 
+\contentsline {subsection}{\numberline {8.3.2}Super Elongation Complex as a Targetable Dependency in Diffuse Midline Glioma}{108}{subsection.8.3.2}% 
+\contentsline {subsection}{\numberline {8.3.3}Transcription elongation factors represent in vivo cancer dependencies in glioblastoma}{110}{subsection.8.3.3}% 
+\contentsline {section}{\numberline {8.4}Nuclear receptors in cancer}{111}{section.8.4}% 
+\contentsline {subsection}{\numberline {8.4.1}ER$\alpha $ is an RNA-binding protein sustaining tumor cell survival and drug resistance}{111}{subsection.8.4.1}% 
+\contentsline {subsection}{\numberline {8.4.2}Analysis of estrogen-regulated enhancer RNAs identified a functional motif required for enhancer assembly and gene expression}{112}{subsection.8.4.2}% 
