@@ -1,568 +1,454 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.3.9)  29 DEC 2022 11:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.1.4)  29 DEC 2022 14:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **principal.tex
 (./principal.tex
-LaTeX2e <2018-12-01>
-(./prefix.tex (/usr/local/texlive/2019/texmf-dist/tex/latex/base/book.cls
-Document Class: book 2018/09/03 v1.4i Standard LaTeX document class
-(/usr/local/texlive/2019/texmf-dist/tex/latex/base/bk10.clo
-File: bk10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-02-25> (./prefix.tex
+(/usr/share/texlive/texmf-dist/tex/latex/base/book.cls
+Document Class: book 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/bk10.clo
+File: bk10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 )
-\c@part=\count80
-\c@chapter=\count81
-\c@section=\count82
-\c@subsection=\count83
-\c@subsubsection=\count84
-\c@paragraph=\count85
-\c@subparagraph=\count86
-\c@figure=\count87
-\c@table=\count88
-\abovecaptionskip=\skip41
-\belowcaptionskip=\skip42
-\bibindent=\dimen102
+\c@part=\count167
+\c@chapter=\count168
+\c@section=\count169
+\c@subsection=\count170
+\c@subsubsection=\count171
+\c@paragraph=\count172
+\c@subparagraph=\count173
+\c@figure=\count174
+\c@table=\count175
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
 )
-(/usr/local/texlive/2019/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2019/05/04 3.31 The Babel package
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2020/02/28 3.41 The Babel package
 
-(/usr/local/texlive/2019/texmf-dist/tex/generic/babel/switch.def
-File: switch.def 2019/05/04 3.31 Babel switching mechanism
+(/usr/share/texlive/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2020/02/28 3.41 Babel switching mechanism
 )
-(/usr/local/texlive/2019/texmf-dist/tex/generic/babel-english/english.ldf
+(/usr/share/texlive/texmf-dist/tex/generic/babel-english/english.ldf
 Language: english 2017/06/06 v3.3r English support from the babel system
 
-(/usr/local/texlive/2019/texmf-dist/tex/generic/babel/babel.def
-File: babel.def 2019/05/04 3.31 Babel common definitions
-\babel@savecnt=\count89
-\U@D=\dimen103
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2020/02/28 3.41 Babel common definitions
+\babel@savecnt=\count176
+\U@D=\dimen135
 
-(/usr/local/texlive/2019/texmf-dist/tex/generic/babel/txtbabel.def)
-\bbl@dirlevel=\count90
+(/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count177
 )
-\l@canadian = a dialect from \language\l@american 
-\l@australian = a dialect from \language\l@british 
-\l@newzealand = a dialect from \language\l@british 
+Package babel Info: \l@canadian = using hyphenrules for english
+(babel)             (\language0) on input line 102.
+Package babel Info: \l@australian = using hyphenrules for ukenglish
+(babel)             (\language6) on input line 105.
+Package babel Info: \l@newzealand = using hyphenrules for ukenglish
+(babel)             (\language6) on input line 108.
 ))
-(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2018/11/30 v6.88e Hypertext links for LaTeX
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2020/01/14 v7.00d Hypertext links for LaTeX
 
-(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
-Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
-
-
-(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
-Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
-Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
-Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX not detected.
-Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
-Package ifvtex Info: VTeX not detected.
-Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
-Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
-Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
-Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
-Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
-Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
 )
-Package pdftexcmds Info: LuaTeX not detected.
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
-Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
 )
-Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
-Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
-)
-Package hobsub Info: Skipping package `hobsub' (already loaded).
-Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
-Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
-Package: xcolor-patch 2016/05/16 xcolor patch
-Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
-Package atveryend Info: \enddocument detected (standard20110627).
-Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
-Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
-Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
-)
-(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks14
+\KV@toks@=\toks15
 )
-(/usr/local/texlive/2019/texmf-dist/tex/generic/ifxetex/ifxetex.sty
-Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+(/usr/share/texlive/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
 )
-(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/auxhook.sty
-Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 )
-(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/kvoptions.sty
-Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
 )
-\@linkdim=\dimen104
-\Hy@linkcounter=\count91
-\Hy@pagecounter=\count92
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+)
+\@linkdim=\dimen136
+\Hy@linkcounter=\count178
+\Hy@pagecounter=\count179
 
-(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2018/11/30 v6.88e Hyperref: PDFDocEncoding definition (HO)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2020/01/14 v7.00d Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
-\Hy@SavedSpaceFactor=\count93
-
-(/usr/local/texlive/2019/texmf-dist/tex/latex/latexconfig/hyperref.cfg
-File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-Package hyperref Info: Hyper figures OFF on input line 4519.
-Package hyperref Info: Link nesting OFF on input line 4524.
-Package hyperref Info: Hyper index ON on input line 4527.
-Package hyperref Info: Plain pages OFF on input line 4534.
-Package hyperref Info: Backreferencing OFF on input line 4539.
+(/usr/share/texlive/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count180
+\pdfmajorversion=\count181
+Package hyperref Info: Hyper figures OFF on input line 4547.
+Package hyperref Info: Link nesting OFF on input line 4552.
+Package hyperref Info: Hyper index ON on input line 4555.
+Package hyperref Info: Plain pages OFF on input line 4562.
+Package hyperref Info: Backreferencing OFF on input line 4567.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4772.
-\c@Hy@tempcnt=\count94
+Package hyperref Info: Bookmarks ON on input line 4800.
+\c@Hy@tempcnt=\count182
 
-(/usr/local/texlive/2019/texmf-dist/tex/latex/url/url.sty
-\Urlmuskip=\muskip10
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 5125.
-\XeTeXLinkMargin=\dimen105
-\Fld@menulength=\count95
-\Field@Width=\dimen106
-\Fld@charsize=\dimen107
-Package hyperref Info: Hyper figures OFF on input line 6380.
-Package hyperref Info: Link nesting OFF on input line 6385.
-Package hyperref Info: Hyper index ON on input line 6388.
-Package hyperref Info: backreferencing OFF on input line 6395.
-Package hyperref Info: Link coloring OFF on input line 6400.
-Package hyperref Info: Link coloring with OCG OFF on input line 6405.
-Package hyperref Info: PDF/A mode OFF on input line 6410.
-LaTeX Info: Redefining \ref on input line 6450.
-LaTeX Info: Redefining \pageref on input line 6454.
-\Hy@abspage=\count96
-\c@Item=\count97
-\c@Hfootnote=\count98
+LaTeX Info: Redefining \url on input line 5159.
+\XeTeXLinkMargin=\dimen137
+
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count183
+\Field@Width=\dimen138
+\Fld@charsize=\dimen139
+Package hyperref Info: Hyper figures OFF on input line 6430.
+Package hyperref Info: Link nesting OFF on input line 6435.
+Package hyperref Info: Hyper index ON on input line 6438.
+Package hyperref Info: backreferencing OFF on input line 6445.
+Package hyperref Info: Link coloring OFF on input line 6450.
+Package hyperref Info: Link coloring with OCG OFF on input line 6455.
+Package hyperref Info: PDF/A mode OFF on input line 6460.
+LaTeX Info: Redefining \ref on input line 6500.
+LaTeX Info: Redefining \pageref on input line 6504.
+
+(/usr/share/texlive/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+)
+\Hy@abspage=\count184
+\c@Item=\count185
+\c@Hfootnote=\count186
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
-(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2018/11/30 v6.88e Hyperref driver for pdfTeX
-\Fld@listcount=\count99
-\c@bookmark@seq@number=\count100
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2020/01/14 v7.00d Hyperref driver for pdfTeX
 
-(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
-Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+(/usr/share/texlive/texmf-dist/tex/latex/atveryend/atveryend.sty
+Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+)
+\Fld@listcount=\count187
+\c@bookmark@seq@number=\count188
+
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
-82.
+86.
 )
-\Hy@SectionHShift=\skip43
+\Hy@SectionHShift=\skip49
 )
-(/usr/local/texlive/2019/texmf-dist/tex/latex/base/inputenc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2018/08/11 v1.3c Input encoding file
-\inpenc@prehook=\toks15
-\inpenc@posthook=\toks16
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
 )
-(/usr/local/texlive/2019/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty
+(/usr/share/texlive/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty
 Package: algorithm2e 2017/07/18 v5.2 algorithms environments
-\c@AlgoLine=\count101
+\c@AlgoLine=\count189
 
-(/usr/local/texlive/2019/texmf-dist/tex/latex/base/ifthen.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-\algocf@hangindent=\skip44
+\algocf@hangindent=\skip50
 
-(/usr/local/texlive/2019/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+(/usr/share/texlive/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
 Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
-\c@checkoddpage=\count102
+\c@checkoddpage=\count190
 )
-(/usr/local/texlive/2019/texmf-dist/tex/latex/tools/xspace.sty
+(/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 )
-(/usr/local/texlive/2019/texmf-dist/tex/latex/relsize/relsize.sty
+(/usr/share/texlive/texmf-dist/tex/latex/relsize/relsize.sty
 Package: relsize 2013/03/29 ver 4.1
 )
-\skiptotal=\skip45
-\skiplinenumber=\skip46
-\skiprule=\skip47
-\skiphlne=\skip48
-\skiptext=\skip49
-\skiplength=\skip50
-\algomargin=\skip51
-\skipalgocfslide=\skip52
-\algowidth=\dimen108
-\inoutsize=\dimen109
-\inoutindent=\dimen110
-\interspacetitleruled=\dimen111
-\interspacealgoruled=\dimen112
-\interspacetitleboxruled=\dimen113
-\algocf@ruledwidth=\skip53
-\algocf@inoutbox=\box27
-\algocf@inputbox=\box28
-\AlCapSkip=\skip54
-\AlCapHSkip=\skip55
-\algoskipindent=\skip56
-\algocf@nlbox=\box29
-\algocf@hangingbox=\box30
-\algocf@untilbox=\box31
-\algocf@skipuntil=\skip57
-\algocf@capbox=\box32
-\algocf@lcaptionbox=\skip58
-\algoheightruledefault=\skip59
-\algoheightrule=\skip60
-\algotitleheightruledefault=\skip61
-\algotitleheightrule=\skip62
-\c@algocfline=\count103
-\c@algocfproc=\count104
-\c@algocf=\count105
-\algocf@algoframe=\box33
-\algocf@algobox=\box34
+\skiptotal=\skip51
+\skiplinenumber=\skip52
+\skiprule=\skip53
+\skiphlne=\skip54
+\skiptext=\skip55
+\skiplength=\skip56
+\algomargin=\skip57
+\skipalgocfslide=\skip58
+\algowidth=\dimen140
+\inoutsize=\dimen141
+\inoutindent=\dimen142
+\interspacetitleruled=\dimen143
+\interspacealgoruled=\dimen144
+\interspacetitleboxruled=\dimen145
+\algocf@ruledwidth=\skip59
+\algocf@inoutbox=\box45
+\algocf@inputbox=\box46
+\AlCapSkip=\skip60
+\AlCapHSkip=\skip61
+\algoskipindent=\skip62
+\algocf@nlbox=\box47
+\algocf@hangingbox=\box48
+\algocf@untilbox=\box49
+\algocf@skipuntil=\skip63
+\algocf@capbox=\box50
+\algocf@lcaptionbox=\skip64
+\algoheightruledefault=\skip65
+\algoheightrule=\skip66
+\algotitleheightruledefault=\skip67
+\algotitleheightrule=\skip68
+\c@algocfline=\count191
+\c@algocfproc=\count192
+\c@algocf=\count193
+\algocf@algoframe=\box51
+\algocf@algobox=\box52
 )
-(/usr/local/texlive/2019/texmf-dist/tex/latex/appendix/appendix.sty
-Package: appendix 2009/09/02 v1.2b extra appendix facilities
-\c@@pps=\count106
-\c@@ppsavesec=\count107
-\c@@ppsaveapp=\count108
+(/usr/share/texlive/texmf-dist/tex/latex/appendix/appendix.sty
+Package: appendix 2020/02/08 v1.2c extra appendix facilities
+\c@@pps=\count194
+\c@@ppsavesec=\count195
+\c@@ppsaveapp=\count196
 )
-(/usr/local/texlive/2019/texmf-dist/tex/latex/caption/caption.sty
-Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/01/03 v3.4h Customizing captions (AR)
 
-(/usr/local/texlive/2019/texmf-dist/tex/latex/caption/caption3.sty
-Package: caption3 2018/09/12 v1.8c caption3 kernel (AR)
-Package caption3 Info: TeX engine: e-TeX on input line 64.
-\captionmargin=\dimen114
-\captionmargin@=\dimen115
-\captionwidth=\dimen116
-\caption@tempdima=\dimen117
-\caption@indent=\dimen118
-\caption@parindent=\dimen119
-\caption@hangindent=\dimen120
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/01/03 v1.8h caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen146
+\captionmargin@=\dimen147
+\captionwidth=\dimen148
+\caption@tempdima=\dimen149
+\caption@indent=\dimen150
+\caption@parindent=\dimen151
+\caption@hangindent=\dimen152
+Package caption Info: Standard document class detected.
 )
-\c@caption@flags=\count109
-\c@ContinuedFloat=\count110
+\c@caption@flags=\count197
+\c@continuedfloat=\count198
 Package caption Info: hyperref package is loaded.
 )
-(/usr/local/texlive/2019/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
 s
-\f@nch@headwidth=\skip63
-\f@nch@O@elh=\skip64
-\f@nch@O@erh=\skip65
-\f@nch@O@olh=\skip66
-\f@nch@O@orh=\skip67
-\f@nch@O@elf=\skip68
-\f@nch@O@erf=\skip69
-\f@nch@O@olf=\skip70
-\f@nch@O@orf=\skip71
+\f@nch@headwidth=\skip69
+\f@nch@O@elh=\skip70
+\f@nch@O@erh=\skip71
+\f@nch@O@olh=\skip72
+\f@nch@O@orh=\skip73
+\f@nch@O@elf=\skip74
+\f@nch@O@erf=\skip75
+\f@nch@O@olf=\skip76
+\f@nch@O@orf=\skip77
 )
-(/usr/local/texlive/2019/texmf-dist/tex/latex/float/float.sty
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count111
-\float@exts=\toks17
-\float@box=\box35
-\@float@everytoks=\toks18
-\@floatcapt=\box36
+\c@float@type=\count199
+\float@exts=\toks18
+\float@box=\box53
+\@float@everytoks=\toks19
+\@floatcapt=\box54
 )
-(/usr/local/texlive/2019/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
+(/usr/share/texlive/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
 
-(/usr/local/texlive/2019/texmf-dist/tex/latex/base/t1enc.def
-File: t1enc.def 2018/08/11 v2.0j Standard LaTeX file
-LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count266
+\Gm@cntv=\count267
+\c@Gm@tempcnt=\count268
+\Gm@bindingoffset=\dimen153
+\Gm@wd@mp=\dimen154
+\Gm@odd@mp=\dimen155
+\Gm@even@mp=\dimen156
+\Gm@layoutwidth=\dimen157
+\Gm@layoutheight=\dimen158
+\Gm@layouthoffset=\dimen159
+\Gm@layoutvoffset=\dimen160
+\Gm@dimlist=\toks20
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count269
+\lst@gtempboxa=\box55
+\lst@token=\toks21
+\lst@length=\count270
+\lst@currlwidth=\dimen161
+\lst@column=\count271
+\lst@pos=\count272
+\lst@lostspace=\dimen162
+\lst@width=\dimen163
+\lst@newlines=\count273
+\lst@lineno=\count274
+\lst@maxwidth=\dimen164
+
+(/usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
+\c@lstnumber=\count275
+\lst@skipnumbers=\count276
+\lst@framebox=\box56
+)
+(/usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2019/09/10 1.8c listings configuration
 ))
-(/usr/local/texlive/2019/texmf-dist/tex/latex/geometry/geometry.sty
-Package: geometry 2018/04/16 v5.8 Page Geometry
-\Gm@cnth=\count112
-\Gm@cntv=\count113
-\c@Gm@tempcnt=\count114
-\Gm@bindingoffset=\dimen121
-\Gm@wd@mp=\dimen122
-\Gm@odd@mp=\dimen123
-\Gm@even@mp=\dimen124
-\Gm@layoutwidth=\dimen125
-\Gm@layoutheight=\dimen126
-\Gm@layouthoffset=\dimen127
-\Gm@layoutvoffset=\dimen128
-\Gm@dimlist=\toks19
-)
-(/usr/local/texlive/2019/texmf-dist/tex/latex/listings/listings.sty
-\lst@mode=\count115
-\lst@gtempboxa=\box37
-\lst@token=\toks20
-\lst@length=\count116
-\lst@currlwidth=\dimen129
-\lst@column=\count117
-\lst@pos=\count118
-\lst@lostspace=\dimen130
-\lst@width=\dimen131
-\lst@newlines=\count119
-\lst@lineno=\count120
-\lst@maxwidth=\dimen132
+Package: listings 2019/09/10 1.8c (Carsten Heinz)
 
-(/usr/local/texlive/2019/texmf-dist/tex/latex/listings/lstmisc.sty
-File: lstmisc.sty 2019/02/27 1.8b (Carsten Heinz)
-\c@lstnumber=\count121
-\lst@skipnumbers=\count122
-\lst@framebox=\box38
-)
-(/usr/local/texlive/2019/texmf-dist/tex/latex/listings/listings.cfg
-File: listings.cfg 2019/02/27 1.8b listings configuration
-))
-Package: listings 2019/02/27 1.8b (Carsten Heinz)
-
-(/usr/local/texlive/2019/texmf-dist/tex/latex/makecell/makecell.sty
+(/usr/share/texlive/texmf-dist/tex/latex/makecell/makecell.sty
 Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
 
-(/usr/local/texlive/2019/texmf-dist/tex/latex/tools/array.sty
-Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
-\col@sep=\dimen133
-\ar@mcellbox=\box39
-\extrarowheight=\dimen134
-\NC@list=\toks21
-\extratabsurround=\skip72
-\backup@length=\skip73
-\ar@cellbox=\box40
+(/usr/share/texlive/texmf-dist/tex/latex/tools/array.sty
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen165
+\ar@mcellbox=\box57
+\extrarowheight=\dimen166
+\NC@list=\toks22
+\extratabsurround=\skip78
+\backup@length=\skip79
+\ar@cellbox=\box58
 )
-\rotheadsize=\dimen135
-\c@nlinenum=\count123
-\TeXr@lab=\toks22
+\rotheadsize=\dimen167
+\c@nlinenum=\count277
+\TeXr@lab=\toks23
 )
-(/usr/local/texlive/2019/texmf-dist/tex/latex/tools/multicol.sty
-Package: multicol 2018/12/27 v1.8v multicolumn formatting (FMi)
-\c@tracingmulticols=\count124
-\mult@box=\box41
-\multicol@leftmargin=\dimen136
-\c@unbalance=\count125
-\c@collectmore=\count126
-\doublecol@number=\count127
-\multicoltolerance=\count128
-\multicolpretolerance=\count129
-\full@width=\dimen137
-\page@free=\dimen138
-\premulticols=\dimen139
-\postmulticols=\dimen140
-\multicolsep=\skip74
-\multicolbaselineskip=\skip75
-\partial@page=\box42
-\last@line=\box43
-\maxbalancingoverflow=\dimen141
-\mult@rightbox=\box44
-\mult@grightbox=\box45
-\mult@gfirstbox=\box46
-\mult@firstbox=\box47
-\@tempa=\box48
-\@tempa=\box49
-\@tempa=\box50
-\@tempa=\box51
-\@tempa=\box52
-\@tempa=\box53
-\@tempa=\box54
-\@tempa=\box55
-\@tempa=\box56
-\@tempa=\box57
-\@tempa=\box58
-\@tempa=\box59
-\@tempa=\box60
-\@tempa=\box61
-\@tempa=\box62
-\@tempa=\box63
-\@tempa=\box64
-\c@columnbadness=\count130
-\c@finalcolumnbadness=\count131
-\last@try=\dimen142
-\multicolovershoot=\dimen143
-\multicolundershoot=\dimen144
-\mult@nat@firstbox=\box65
-\colbreak@box=\box66
-\mc@col@check@num=\count132
+(/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
+\c@tracingmulticols=\count278
+\mult@box=\box59
+\multicol@leftmargin=\dimen168
+\c@unbalance=\count279
+\c@collectmore=\count280
+\doublecol@number=\count281
+\multicoltolerance=\count282
+\multicolpretolerance=\count283
+\full@width=\dimen169
+\page@free=\dimen170
+\premulticols=\dimen171
+\postmulticols=\dimen172
+\multicolsep=\skip80
+\multicolbaselineskip=\skip81
+\partial@page=\box60
+\last@line=\box61
+\maxbalancingoverflow=\dimen173
+\mult@rightbox=\box62
+\mult@grightbox=\box63
+\mult@gfirstbox=\box64
+\mult@firstbox=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\@tempa=\box100
+\@tempa=\box101
+\@tempa=\box102
+\c@minrows=\count284
+\c@columnbadness=\count285
+\c@finalcolumnbadness=\count286
+\last@try=\dimen174
+\multicolovershoot=\dimen175
+\multicolundershoot=\dimen176
+\mult@nat@firstbox=\box103
+\colbreak@box=\box104
+\mc@col@check@num=\count287
 )
-(/usr/local/texlive/2019/texmf-dist/tex/latex/soul/soul.sty
+(/usr/share/texlive/texmf-dist/tex/latex/soul/soul.sty
 Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
-\SOUL@word=\toks23
-\SOUL@lasttoken=\toks24
-\SOUL@cmds=\toks25
-\SOUL@buffer=\toks26
-\SOUL@token=\toks27
-\SOUL@spaceskip=\skip76
-\SOUL@ttwidth=\dimen145
-\SOUL@uldp=\dimen146
-\SOUL@ulht=\dimen147
+\SOUL@word=\toks24
+\SOUL@lasttoken=\toks25
+\SOUL@cmds=\toks26
+\SOUL@buffer=\toks27
+\SOUL@token=\toks28
+\SOUL@spaceskip=\skip82
+\SOUL@ttwidth=\dimen177
+\SOUL@uldp=\dimen178
+\SOUL@ulht=\dimen179
 )
-(/usr/local/texlive/2019/texmf-dist/tex/latex/base/textcomp.sty
-Package: textcomp 2018/08/11 v2.0j Standard LaTeX package
-Package textcomp Info: Sub-encoding information:
-(textcomp)               5 = only ISO-Adobe without \textcurrency
-(textcomp)               4 = 5 + \texteuro
-(textcomp)               3 = 4 + \textohm
-(textcomp)               2 = 3 + \textestimated + \textcurrency
-(textcomp)               1 = TS1 - \textcircled - \t
-(textcomp)               0 = TS1 (full)
-(textcomp)             Font families with sub-encoding setting implement
-(textcomp)             only a restricted character set as indicated.
-(textcomp)             Family '?' is the default used for unknown fonts.
-(textcomp)             See the documentation for details.
-Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
-
-(/usr/local/texlive/2019/texmf-dist/tex/latex/base/ts1enc.def
-File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
-Now handling font encoding TS1 ...
-... processing UTF-8 mapping file for font encoding TS1
-
-(/usr/local/texlive/2019/texmf-dist/tex/latex/base/ts1enc.dfu
-File: ts1enc.dfu 2018/10/05 v1.2f UTF-8 support for inputenc
-   defining Unicode char U+00A2 (decimal 162)
-   defining Unicode char U+00A3 (decimal 163)
-   defining Unicode char U+00A4 (decimal 164)
-   defining Unicode char U+00A5 (decimal 165)
-   defining Unicode char U+00A6 (decimal 166)
-   defining Unicode char U+00A7 (decimal 167)
-   defining Unicode char U+00A8 (decimal 168)
-   defining Unicode char U+00A9 (decimal 169)
-   defining Unicode char U+00AA (decimal 170)
-   defining Unicode char U+00AC (decimal 172)
-   defining Unicode char U+00AE (decimal 174)
-   defining Unicode char U+00AF (decimal 175)
-   defining Unicode char U+00B0 (decimal 176)
-   defining Unicode char U+00B1 (decimal 177)
-   defining Unicode char U+00B2 (decimal 178)
-   defining Unicode char U+00B3 (decimal 179)
-   defining Unicode char U+00B4 (decimal 180)
-   defining Unicode char U+00B5 (decimal 181)
-   defining Unicode char U+00B6 (decimal 182)
-   defining Unicode char U+00B7 (decimal 183)
-   defining Unicode char U+00B9 (decimal 185)
-   defining Unicode char U+00BA (decimal 186)
-   defining Unicode char U+00BC (decimal 188)
-   defining Unicode char U+00BD (decimal 189)
-   defining Unicode char U+00BE (decimal 190)
-   defining Unicode char U+00D7 (decimal 215)
-   defining Unicode char U+00F7 (decimal 247)
-   defining Unicode char U+0192 (decimal 402)
-   defining Unicode char U+02C7 (decimal 711)
-   defining Unicode char U+02D8 (decimal 728)
-   defining Unicode char U+02DD (decimal 733)
-   defining Unicode char U+0E3F (decimal 3647)
-   defining Unicode char U+2016 (decimal 8214)
-   defining Unicode char U+2020 (decimal 8224)
-   defining Unicode char U+2021 (decimal 8225)
-   defining Unicode char U+2022 (decimal 8226)
-   defining Unicode char U+2030 (decimal 8240)
-   defining Unicode char U+2031 (decimal 8241)
-   defining Unicode char U+203B (decimal 8251)
-   defining Unicode char U+203D (decimal 8253)
-   defining Unicode char U+2044 (decimal 8260)
-   defining Unicode char U+204E (decimal 8270)
-   defining Unicode char U+2052 (decimal 8274)
-   defining Unicode char U+20A1 (decimal 8353)
-   defining Unicode char U+20A4 (decimal 8356)
-   defining Unicode char U+20A6 (decimal 8358)
-   defining Unicode char U+20A9 (decimal 8361)
-   defining Unicode char U+20AB (decimal 8363)
-   defining Unicode char U+20AC (decimal 8364)
-   defining Unicode char U+20B1 (decimal 8369)
-   defining Unicode char U+2103 (decimal 8451)
-   defining Unicode char U+2116 (decimal 8470)
-   defining Unicode char U+2117 (decimal 8471)
-   defining Unicode char U+211E (decimal 8478)
-   defining Unicode char U+2120 (decimal 8480)
-   defining Unicode char U+2122 (decimal 8482)
-   defining Unicode char U+2126 (decimal 8486)
-   defining Unicode char U+2127 (decimal 8487)
-   defining Unicode char U+212E (decimal 8494)
-   defining Unicode char U+2190 (decimal 8592)
-   defining Unicode char U+2191 (decimal 8593)
-   defining Unicode char U+2192 (decimal 8594)
-   defining Unicode char U+2193 (decimal 8595)
-   defining Unicode char U+2329 (decimal 9001)
-   defining Unicode char U+232A (decimal 9002)
-   defining Unicode char U+2422 (decimal 9250)
-   defining Unicode char U+25E6 (decimal 9702)
-   defining Unicode char U+25EF (decimal 9711)
-   defining Unicode char U+266A (decimal 9834)
-   defining Unicode char U+FEFF (decimal 65279)
-))
-LaTeX Info: Redefining \oldstylenums on input line 334.
-Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
-Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
-Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
-Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
-Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
-Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
-Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
-Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
-Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
-Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
-Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
-Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
-Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
-Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
-Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
-Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
-Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
-Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
-Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
-Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
-Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
-Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
-Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
-Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
-
-Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
-Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
-Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
-Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
-Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
-Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
-Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
-Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
-Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
-Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
-Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
-Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
-Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
-Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
-Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
-Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
-Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
-Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
-Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
-Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
-Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
-Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
-Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
-Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
-Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
-Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
-Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
-Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
-Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
-Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
-Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
-Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
-Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
-Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
-Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
-Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
-Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+(/usr/share/texlive/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
 )
-(/usr/local/texlive/2019/texmf-dist/tex/latex/wrapfig/wrapfig.sty
-\wrapoverhang=\dimen148
-\WF@size=\dimen149
-\c@WF@wrappedlines=\count133
-\WF@box=\box67
-\WF@everypar=\toks28
+(/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+\wrapoverhang=\dimen180
+\WF@size=\dimen181
+\c@WF@wrappedlines=\count288
+\WF@box=\box105
+\WF@everypar=\toks29
 Package: wrapfig 2003/01/31  v 3.6
 )
-(/usr/local/texlive/2019/texmf-dist/tex/latex/xcolor/xcolor.sty
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/color.cfg
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
 
-(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-def/pdftex.def
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 )
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
@@ -575,24 +461,24 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 )
-(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphics.sty
-Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/trig.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 99.
+Package graphics Info: Driver file: pdftex.def on input line 105.
 )
-\Gin@req@height=\dimen150
-\Gin@req@width=\dimen151
+\Gin@req@height=\dimen182
+\Gin@req@width=\dimen183
 )
-(/usr/local/texlive/2019/texmf-dist/tex/latex/lm/lmodern.sty
+(/usr/share/texmf/tex/latex/lm/lmodern.sty
 Package: lmodern 2009/10/30 v1.6 Latin Modern Fonts
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
@@ -627,122 +513,151 @@ LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
 )
-(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\@emptytoks=\toks29
+\@emptytoks=\toks30
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )
-(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsmath.sty
-Package: amsmath 2018/12/01 v2.17b AMS math features
-\@mathmargin=\skip77
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip83
 
 For additional information on amsmath, use the `?' option.
-(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
 
-(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsgen.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks30
-\ex@=\dimen152
+\@emptytoks=\toks31
+\ex@=\dimen184
 ))
-(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsbsy.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen153
+\pmbraise@=\dimen185
 )
-(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsopn.sty
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
-\inf@bad=\count134
-LaTeX Info: Redefining \frac on input line 223.
-\uproot@=\count135
-\leftroot@=\count136
-LaTeX Info: Redefining \overline on input line 385.
-\classnum@=\count137
-\DOTSCASE@=\count138
-LaTeX Info: Redefining \ldots on input line 482.
-LaTeX Info: Redefining \dots on input line 485.
-LaTeX Info: Redefining \cdots on input line 606.
-\Mathstrutbox@=\box68
-\strutbox@=\box69
-\big@size=\dimen154
-LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
-LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
-\macc@depth=\count139
-\c@MaxMatrixCols=\count140
-\dotsspace@=\muskip11
-\c@parentequation=\count141
-\dspbrk@lvl=\count142
-\tag@help=\toks31
-\row@=\count143
-\column@=\count144
-\maxfields@=\count145
-\andhelp@=\toks32
-\eqnshift@=\dimen155
-\alignsep@=\dimen156
-\tagshift@=\dimen157
-\tagwidth@=\dimen158
-\totwidth@=\dimen159
-\lineht@=\dimen160
-\@envbody=\toks33
-\multlinegap=\skip78
-\multlinetaggap=\skip79
-\mathdisplay@stack=\toks34
-LaTeX Info: Redefining \[ on input line 2844.
-LaTeX Info: Redefining \] on input line 2845.
+\inf@bad=\count289
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count290
+\leftroot@=\count291
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count292
+\DOTSCASE@=\count293
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box106
+\strutbox@=\box107
+\big@size=\dimen186
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count294
+\c@MaxMatrixCols=\count295
+\dotsspace@=\muskip17
+\c@parentequation=\count296
+\dspbrk@lvl=\count297
+\tag@help=\toks32
+\row@=\count298
+\column@=\count299
+\maxfields@=\count300
+\andhelp@=\toks33
+\eqnshift@=\dimen187
+\alignsep@=\dimen188
+\tagshift@=\dimen189
+\tagwidth@=\dimen190
+\totwidth@=\dimen191
+\lineht@=\dimen192
+\@envbody=\toks34
+\multlinegap=\skip84
+\multlinetaggap=\skip85
+\mathdisplay@stack=\toks35
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
 )
-(/usr/local/texlive/2019/texmf-dist/tex/latex/doublestroke/dsfont.sty
+(/usr/share/texlive/texmf-dist/tex/latex/doublestroke/dsfont.sty
 Package: dsfont 1995/08/01 v0.1 Double stroke roman fonts
 )
-(/usr/local/texlive/2019/texmf-dist/tex/latex/mathtools/mathtools.sty
-Package: mathtools 2018/01/08 v1.21 mathematical typesetting tools
+(/usr/share/texlive/texmf-dist/tex/latex/mathtools/mathtools.sty
+Package: mathtools 2020/01/17 v1.23 mathematical typesetting tools
 
-(/usr/local/texlive/2019/texmf-dist/tex/latex/tools/calc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count146
-\calc@Bcount=\count147
-\calc@Adimen=\dimen161
-\calc@Bdimen=\dimen162
-\calc@Askip=\skip80
-\calc@Bskip=\skip81
+\calc@Acount=\count301
+\calc@Bcount=\count302
+\calc@Adimen=\dimen193
+\calc@Bdimen=\dimen194
+\calc@Askip=\skip86
+\calc@Bskip=\skip87
 LaTeX Info: Redefining \setlength on input line 80.
 LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count148
-\calc@Cskip=\skip82
+\calc@Ccount=\count303
+\calc@Cskip=\skip88
 )
-(/usr/local/texlive/2019/texmf-dist/tex/latex/mathtools/mhsetup.sty
+(/usr/share/texlive/texmf-dist/tex/latex/mathtools/mhsetup.sty
 Package: mhsetup 2017/03/31 v1.3 programming setup (MH)
 )
 LaTeX Info: Thecontrolsequence`\('isalreadyrobust on input line 129.
 LaTeX Info: Thecontrolsequence`\)'isalreadyrobust on input line 129.
 LaTeX Info: Thecontrolsequence`\['isalreadyrobust on input line 129.
 LaTeX Info: Thecontrolsequence`\]'isalreadyrobust on input line 129.
-\g_MT_multlinerow_int=\count149
-\l_MT_multwidth_dim=\dimen163
-\origjot=\skip83
-\l_MT_shortvdotswithinadjustabove_dim=\dimen164
-\l_MT_shortvdotswithinadjustbelow_dim=\dimen165
-\l_MT_above_intertext_sep=\dimen166
-\l_MT_below_intertext_sep=\dimen167
-\l_MT_above_shortintertext_sep=\dimen168
-\l_MT_below_shortintertext_sep=\dimen169
+\g_MT_multlinerow_int=\count304
+\l_MT_multwidth_dim=\dimen195
+\origjot=\skip89
+\l_MT_shortvdotswithinadjustabove_dim=\dimen196
+\l_MT_shortvdotswithinadjustbelow_dim=\dimen197
+\l_MT_above_intertext_sep=\dimen198
+\l_MT_below_intertext_sep=\dimen199
+\l_MT_above_shortintertext_sep=\dimen256
+\l_MT_below_shortintertext_sep=\dimen257
 ))
-(./build/principal.aux
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-02-23 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count305
+\l__pdf_internal_box=\box108
+)
+(build/principal.aux
 
 LaTeX Warning: Label `fig:ppmyc' multiply defined.
+
+
+LaTeX Warning: Label `fig:senescence' multiply defined.
+
+
+LaTeX Warning: Label `fig:senescence' multiply defined.
+
+
+LaTeX Warning: Label `fig:rep' multiply defined.
+
+
+LaTeX Warning: Label `fig:senescence' multiply defined.
+
+
+LaTeX Warning: Label `fig:senescence' multiply defined.
+
+
+LaTeX Warning: Label `fig:senescence' multiply defined.
+
+
+LaTeX Warning: Label `fig:senescence' multiply defined.
 
 )
 \openout1 = `principal.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
 LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
 LaTeX Font Info:    ... okay on input line 15.
 LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
 LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 15.
 LaTeX Font Info:    ... okay on input line 15.
 LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
 LaTeX Font Info:    ... okay on input line 15.
@@ -750,33 +665,30 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
 LaTeX Font Info:    ... okay on input line 15.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 15.
 LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 15.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 15.
- (/usr/local/texlive/2019/texmf-dist/tex/latex/base/ts1cmr.fd
-File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Try loading font information for T1+lmr on input line 15.
-
-(/usr/local/texlive/2019/texmf-dist/tex/latex/lm/t1lmr.fd
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 15
+.
+ (/usr/share/texmf/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-\AtBeginShipoutBox=\box70
+\AtBeginShipoutBox=\box109
 Package hyperref Info: Link coloring OFF on input line 15.
 
-(/usr/local/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
-Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
 
-(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
-Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 )
-\c@section@level=\count150
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count306
 )
 LaTeX Info: Redefining \ref on input line 15.
 LaTeX Info: Redefining \pageref on input line 15.
 LaTeX Info: Redefining \nameref on input line 15.
 
-(./build/principal.out) (./build/principal.out)
+(build/principal.out) (build/principal.out)
 \@outlinefile=\write3
 \openout3 = `principal.out'.
 
@@ -820,57 +732,51 @@ Package caption Info: End \AtBeginDocument code.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\c@lstlisting=\count151
-(/usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+\c@lstlisting=\count307
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count152
-\scratchdimen=\dimen170
-\scratchbox=\box71
-\nofMPsegments=\count153
-\nofMParguments=\count154
-\everyMPshowfont=\toks35
-\MPscratchCnt=\count155
-\MPscratchDim=\dimen171
-\MPnumerator=\count156
-\makeMPintoPDFobject=\count157
-\everyMPtoPDFconversion=\toks36
-) (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
-Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
-
-(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/grfext.sty
-Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
-)
+\scratchcounter=\count308
+\scratchdimen=\dimen258
+\scratchbox=\box110
+\nofMPsegments=\count309
+\nofMParguments=\count310
+\everyMPshowfont=\toks36
+\MPscratchCnt=\count311
+\MPscratchDim=\dimen259
+\MPnumerator=\count312
+\makeMPintoPDFobject=\count313
+\everyMPtoPDFconversion=\toks37
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-38.
-Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
-G,.JBIG2,.JB2,.eps]
-(grfext)             \AppendGraphicsExtensions on input line 456.
+85.
 
-(/usr/local/texlive/2019/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 17.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 1
+7.
 
-(/usr/local/texlive/2019/texmf-dist/tex/latex/lm/ot1lmr.fd
+(/usr/share/texmf/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 17.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 1
+7.
 
-(/usr/local/texlive/2019/texmf-dist/tex/latex/lm/omllmm.fd
+(/usr/share/texmf/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 17.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
+17.
 
-
-(/usr/local/texlive/2019/texmf-dist/tex/latex/lm/omslmsy.fd
+(/usr/share/texmf/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 17.
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
+17.
 
-
-(/usr/local/texlive/2019/texmf-dist/tex/latex/lm/omxlmex.fd
+(/usr/share/texmf/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
@@ -879,20 +785,21 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <8> on input line 17.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <6> on input line 17.
-LaTeX Font Info:    Try loading font information for U+msa on input line 17.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 17.
 
-(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 17.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 17.
 
-(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
 
-{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-(./build/principal.toc
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (build/principal.toc
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10> on input line 3.
 LaTeX Font Info:    External font `lmex10' loaded for size
@@ -944,8 +851,9 @@ Package pdftex.def Info: chapters/_resources/../_resources/Screenshot_2022-09-1
 
  <./chapters/_resources/../_resources/Screenshot_2022-09-16_at_12-11-22.png>] [
 7 <./chapters/_resources/../_resources/Screenshot_2022-09-16_at_15-53-19.png>]
-LaTeX Font Info:    Try loading font information for TS1+lmr on input line 64.
- (/usr/local/texlive/2019/texmf-dist/tex/latex/lm/ts1lmr.fd
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 6
+4.
+ (/usr/share/texmf/tex/latex/lm/ts1lmr.fd
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ) [8]
 <chapters/_resources/../_resources/Screenshot_2022-09-16_at_16-26-04.png, id=64
@@ -974,9 +882,8 @@ raphic file (type png)
 Package pdftex.def Info: chapters/_resources/../_resources/Screenshot_2022-09-2
 3_at_15-22-44.png  used on input line 152.
 (pdftex.def)             Requested size: 216.81pt x 165.53821pt.
-
-[10 <./chapters/_resources/../_resources/Screenshot_2022-09-16_at_16-30-29.png>
- <./chapters/_resources/../_resources/Screenshot_2022-09-23_at_15-22-44.png>]
+ [10 <./chapters/_resources/../_resources/Screenshot_2022-09-16_at_16-30-29.png
+> <./chapters/_resources/../_resources/Screenshot_2022-09-23_at_15-22-44.png>]
 <chapters/_resources/../_resources/Screenshot_2022-09-22_at_21-36-39.png, id=66
 3, 321.2pt x 152.57pt>
 File: chapters/_resources/../_resources/Screenshot_2022-09-22_at_21-36-39.png G
@@ -985,9 +892,8 @@ raphic file (type png)
 Package pdftex.def Info: chapters/_resources/../_resources/Screenshot_2022-09-2
 2_at_21-36-39.png  used on input line 169.
 (pdftex.def)             Requested size: 216.81pt x 102.98729pt.
-
-[11 <./chapters/_resources/../_resources/Screenshot_2022-09-22_at_21-36-39.png>
-]
+ [11 <./chapters/_resources/../_resources/Screenshot_2022-09-22_at_21-36-39.png
+>]
 <chapters/_resources/../_resources/Screenshot_2022-09-22_at_21-49-05.png, id=68
 0, 436.63126pt x 377.41pt>
 File: chapters/_resources/../_resources/Screenshot_2022-09-22_at_21-49-05.png G
@@ -1397,7 +1303,7 @@ Package pdftex.def Info: chapters/_resources/../_resources/Screenshot_2022-10-1
 > <./chapters/_resources/../_resources/Screenshot_2022-10-14_at_12-11-11.png> <
 ./chapters/_resources/../_resources/Screenshot_2022-10-14_at_12-10-46.png>]
 <chapters/_resources/../_resources/Screenshot_2022-10-14_at_19-52-56.png, id=97
-5, 321.2pt x 135.50626pt>
+6, 321.2pt x 135.50626pt>
 File: chapters/_resources/../_resources/Screenshot_2022-10-14_at_19-52-56.png G
 raphic file (type png)
 <use chapters/_resources/../_resources/Screenshot_2022-10-14_at_19-52-56.png>
@@ -1408,7 +1314,7 @@ Package pdftex.def Info: chapters/_resources/../_resources/Screenshot_2022-10-1
 [40 <./chapters/_resources/../_resources/Screenshot_2022-10-14_at_19-52-56.png>
 ]
 <chapters/_resources/../_resources/Screenshot_2022-10-19_at_08-48-41.png, id=98
-2, 730.73pt x 373.395pt>
+3, 730.73pt x 373.395pt>
 File: chapters/_resources/../_resources/Screenshot_2022-10-19_at_08-48-41.png G
 raphic file (type png)
 <use chapters/_resources/../_resources/Screenshot_2022-10-19_at_08-48-41.png>
@@ -1418,7 +1324,7 @@ Package pdftex.def Info: chapters/_resources/../_resources/Screenshot_2022-10-1
  [41 <./chapters/_resources/../_resources/Screenshot_2022-10-19_at_08-48-41.png
 >]
 <chapters/_resources/../_resources/Screenshot_2022-10-25_at_11-47-30.png, id=99
-4, 321.2pt x 121.45375pt>
+5, 321.2pt x 121.45375pt>
 File: chapters/_resources/../_resources/Screenshot_2022-10-25_at_11-47-30.png G
 raphic file (type png)
 <use chapters/_resources/../_resources/Screenshot_2022-10-25_at_11-47-30.png>
@@ -1426,7 +1332,7 @@ Package pdftex.def Info: chapters/_resources/../_resources/Screenshot_2022-10-2
 5_at_11-47-30.png  used on input line 162.
 (pdftex.def)             Requested size: 303.53267pt x 114.77623pt.
 <chapters/_resources/../_resources/Screenshot_2022-10-19_at_09-06-00.png, id=99
-7, 321.2pt x 280.04625pt>
+8, 321.2pt x 280.04625pt>
 File: chapters/_resources/../_resources/Screenshot_2022-10-19_at_09-06-00.png G
 raphic file (type png)
 <use chapters/_resources/../_resources/Screenshot_2022-10-19_at_09-06-00.png>
@@ -1436,7 +1342,7 @@ Package pdftex.def Info: chapters/_resources/../_resources/Screenshot_2022-10-1
  [42 <./chapters/_resources/../_resources/Screenshot_2022-10-25_at_11-47-30.png
 >]
 <chapters/_resources/../_resources/Screenshot_2022-10-19_at_09-10-50.png, id=10
-10, 321.2pt x 313.67188pt>
+11, 321.2pt x 313.67188pt>
 File: chapters/_resources/../_resources/Screenshot_2022-10-19_at_09-10-50.png G
 raphic file (type png)
 <use chapters/_resources/../_resources/Screenshot_2022-10-19_at_09-10-50.png>
@@ -1444,7 +1350,7 @@ Package pdftex.def Info: chapters/_resources/../_resources/Screenshot_2022-10-1
 9_at_09-10-50.png  used on input line 206.
 (pdftex.def)             Requested size: 145.69438pt x 142.28058pt.
 <chapters/_resources/../_resources/Screenshot_2022-10-19_at_09-11-30.png, id=10
-11, 321.2pt x 301.62688pt>
+12, 321.2pt x 301.62688pt>
 File: chapters/_resources/../_resources/Screenshot_2022-10-19_at_09-11-30.png G
 raphic file (type png)
 <use chapters/_resources/../_resources/Screenshot_2022-10-19_at_09-11-30.png>
@@ -1455,7 +1361,7 @@ Package pdftex.def Info: chapters/_resources/../_resources/Screenshot_2022-10-1
 > <./chapters/_resources/../_resources/Screenshot_2022-10-19_at_09-10-50.png> <
 ./chapters/_resources/../_resources/Screenshot_2022-10-19_at_09-11-30.png>]
 <chapters/_resources/../_resources/Screenshot_2022-10-19_at_09-20-57.png, id=10
-21, 574.145pt x 468.75125pt>
+22, 574.145pt x 468.75125pt>
 File: chapters/_resources/../_resources/Screenshot_2022-10-19_at_09-20-57.png G
 raphic file (type png)
 <use chapters/_resources/../_resources/Screenshot_2022-10-19_at_09-20-57.png>
@@ -1463,7 +1369,7 @@ Package pdftex.def Info: chapters/_resources/../_resources/Screenshot_2022-10-1
 9_at_09-20-57.png  used on input line 236.
 (pdftex.def)             Requested size: 216.81pt x 177.01152pt.
 <chapters/_resources/../_resources/Screenshot_2022-10-19_at_09-21-57.png, id=10
-22, 746.79pt x 464.73625pt>
+23, 746.79pt x 464.73625pt>
 File: chapters/_resources/../_resources/Screenshot_2022-10-19_at_09-21-57.png G
 raphic file (type png)
 <use chapters/_resources/../_resources/Screenshot_2022-10-19_at_09-21-57.png>
@@ -1474,7 +1380,7 @@ Package pdftex.def Info: chapters/_resources/../_resources/Screenshot_2022-10-1
 > <./chapters/_resources/../_resources/Screenshot_2022-10-19_at_09-21-57.png>] 
 [45]
 <chapters/_resources/../_resources/Screenshot_2022-10-19_at_10-01-09.png, id=10
-41, 1383.1675pt x 626.34pt>
+42, 1383.1675pt x 626.34pt>
 File: chapters/_resources/../_resources/Screenshot_2022-10-19_at_10-01-09.png G
 raphic file (type png)
 <use chapters/_resources/../_resources/Screenshot_2022-10-19_at_10-01-09.png>
@@ -1484,7 +1390,7 @@ Package pdftex.def Info: chapters/_resources/../_resources/Screenshot_2022-10-1
  [46 <./chapters/_resources/../_resources/Screenshot_2022-10-19_at_10-01-09.png
 >]
 <chapters/_resources/../_resources/4eb79fba5a169cc3d31f5400dee44c80.png, id=104
-8, 403.5075pt x 201.75375pt>
+9, 403.5075pt x 201.75375pt>
 File: chapters/_resources/../_resources/4eb79fba5a169cc3d31f5400dee44c80.png Gr
 aphic file (type png)
 <use chapters/_resources/../_resources/4eb79fba5a169cc3d31f5400dee44c80.png>
@@ -1492,7 +1398,7 @@ Package pdftex.def Info: chapters/_resources/../_resources/4eb79fba5a169cc3d31f
 5400dee44c80.png  used on input line 329.
 (pdftex.def)             Requested size: 216.81pt x 108.40665pt.
 <chapters/_resources/../_resources/bf32b9679af0fb7fcba57b9f87bb4207.png, id=105
-1, 771.88374pt x 329.23pt>
+2, 771.88374pt x 329.23pt>
 File: chapters/_resources/../_resources/bf32b9679af0fb7fcba57b9f87bb4207.png Gr
 aphic file (type png)
 <use chapters/_resources/../_resources/bf32b9679af0fb7fcba57b9f87bb4207.png>
@@ -1500,7 +1406,7 @@ Package pdftex.def Info: chapters/_resources/../_resources/bf32b9679af0fb7fcba5
 7b9f87bb4207.png  used on input line 352.
 (pdftex.def)             Requested size: 104.06787pt x 44.38383pt.
 <chapters/_resources/../_resources/3d83d920d425aa5f76bdbb127596c02b.png, id=105
-2, 692.5875pt x 260.975pt>
+3, 692.5875pt x 260.975pt>
 File: chapters/_resources/../_resources/3d83d920d425aa5f76bdbb127596c02b.png Gr
 aphic file (type png)
 <use chapters/_resources/../_resources/3d83d920d425aa5f76bdbb127596c02b.png>
@@ -1511,7 +1417,7 @@ bb127596c02b.png  used on input line 358.
  <./chapters/_resources/../_resources/bf32b9679af0fb7fcba57b9f87bb4207.png> <./
 chapters/_resources/../_resources/3d83d920d425aa5f76bdbb127596c02b.png>]
 <chapters/_resources/../_resources/99fbd93b812d482263d53c442698a36a.png, id=106
-4, 344.28625pt x 287.0725pt>
+5, 344.28625pt x 287.0725pt>
 File: chapters/_resources/../_resources/99fbd93b812d482263d53c442698a36a.png Gr
 aphic file (type png)
 <use chapters/_resources/../_resources/99fbd93b812d482263d53c442698a36a.png>
@@ -1519,7 +1425,7 @@ Package pdftex.def Info: chapters/_resources/../_resources/99fbd93b812d482263d5
 3c442698a36a.png  used on input line 385.
 (pdftex.def)             Requested size: 62.44135pt x 52.06067pt.
 <chapters/_resources/../_resources/c099d4a9ad4bba13e7839f48fd831265.png, id=106
-5, 258.9675pt x 329.23pt>
+6, 258.9675pt x 329.23pt>
 File: chapters/_resources/../_resources/c099d4a9ad4bba13e7839f48fd831265.png Gr
 aphic file (type png)
 <use chapters/_resources/../_resources/c099d4a9ad4bba13e7839f48fd831265.png>
@@ -1528,8 +1434,8 @@ Package pdftex.def Info: chapters/_resources/../_resources/c099d4a9ad4bba13e783
 (pdftex.def)             Requested size: 62.44135pt x 79.37851pt.
 [48 <./chapters/_resources/../_resources/99fbd93b812d482263d53c442698a36a.png> 
 <./chapters/_resources/../_resources/c099d4a9ad4bba13e7839f48fd831265.png>]
-<chapters/_resources/../_resources/dfb8371fc17e078308c3d5aa247ebcbf.png, id=107
-9, 641.39626pt x 385.44pt>
+<chapters/_resources/../_resources/dfb8371fc17e078308c3d5aa247ebcbf.png, id=108
+0, 641.39626pt x 385.44pt>
 File: chapters/_resources/../_resources/dfb8371fc17e078308c3d5aa247ebcbf.png Gr
 aphic file (type png)
 <use chapters/_resources/../_resources/dfb8371fc17e078308c3d5aa247ebcbf.png>
@@ -1537,7 +1443,7 @@ Package pdftex.def Info: chapters/_resources/../_resources/dfb8371fc17e078308c3
 d5aa247ebcbf.png  used on input line 423.
 (pdftex.def)             Requested size: 145.69438pt x 87.54951pt.
 <chapters/_resources/../_resources/8bd5f4820c364c35b02c35eb0e48f464.png, id=108
-0, 641.39626pt x 375.4025pt>
+1, 641.39626pt x 375.4025pt>
 File: chapters/_resources/../_resources/8bd5f4820c364c35b02c35eb0e48f464.png Gr
 aphic file (type png)
 <use chapters/_resources/../_resources/8bd5f4820c364c35b02c35eb0e48f464.png>
@@ -1545,7 +1451,7 @@ Package pdftex.def Info: chapters/_resources/../_resources/8bd5f4820c364c35b02c
 35eb0e48f464.png  used on input line 429.
 (pdftex.def)             Requested size: 145.69438pt x 85.26958pt.
 <chapters/_resources/../_resources/796c982294bedb0a7994a942aa5ff2a5.png, id=108
-2, 380.42125pt x 193.72375pt>
+3, 380.42125pt x 193.72375pt>
 File: chapters/_resources/../_resources/796c982294bedb0a7994a942aa5ff2a5.png Gr
 aphic file (type png)
 <use chapters/_resources/../_resources/796c982294bedb0a7994a942aa5ff2a5.png>
@@ -1556,7 +1462,7 @@ a942aa5ff2a5.png  used on input line 444.
 [49 <./chapters/_resources/../_resources/dfb8371fc17e078308c3d5aa247ebcbf.png> 
 <./chapters/_resources/../_resources/8bd5f4820c364c35b02c35eb0e48f464.png>]
 <chapters/_resources/../_resources/641af477cb65d73954e1ae24aab9a2ed.png, id=109
-2, 751.80875pt x 317.185pt>
+3, 751.80875pt x 317.185pt>
 File: chapters/_resources/../_resources/641af477cb65d73954e1ae24aab9a2ed.png Gr
 aphic file (type png)
 <use chapters/_resources/../_resources/641af477cb65d73954e1ae24aab9a2ed.png>
@@ -1566,7 +1472,7 @@ ae24aab9a2ed.png  used on input line 476.
 
 [50 <./chapters/_resources/../_resources/796c982294bedb0a7994a942aa5ff2a5.png>]
 <chapters/_resources/../_resources/18345a0e70ca9e50883ca61f93ad3405.png, id=110
-1, 695.59875pt x 315.1775pt>
+2, 695.59875pt x 315.1775pt>
 File: chapters/_resources/../_resources/18345a0e70ca9e50883ca61f93ad3405.png Gr
 aphic file (type png)
 <use chapters/_resources/../_resources/18345a0e70ca9e50883ca61f93ad3405.png>
@@ -1574,7 +1480,7 @@ Package pdftex.def Info: chapters/_resources/../_resources/18345a0e70ca9e50883c
 a61f93ad3405.png  used on input line 491.
 (pdftex.def)             Requested size: 216.81pt x 98.23302pt.
 <chapters/_resources/../_resources/01adbb32a69ee3baec1bf9bddd890f52.png, id=110
-3, 760.8425pt x 388.45125pt>
+4, 760.8425pt x 388.45125pt>
 File: chapters/_resources/../_resources/01adbb32a69ee3baec1bf9bddd890f52.png Gr
 aphic file (type png)
 <use chapters/_resources/../_resources/01adbb32a69ee3baec1bf9bddd890f52.png>
@@ -1582,7 +1488,7 @@ Package pdftex.def Info: chapters/_resources/../_resources/01adbb32a69ee3baec1b
 f9bddd890f52.png  used on input line 505.
 (pdftex.def)             Requested size: 216.81pt x 110.69197pt.
 <chapters/_resources/../_resources/017e543a7782177edd93188be60ae382.png, id=110
-6, 411.5375pt x 317.185pt>
+7, 411.5375pt x 317.185pt>
 File: chapters/_resources/../_resources/017e543a7782177edd93188be60ae382.png Gr
 aphic file (type png)
 <use chapters/_resources/../_resources/017e543a7782177edd93188be60ae382.png>
@@ -1590,7 +1496,7 @@ Package pdftex.def Info: chapters/_resources/../_resources/017e543a7782177edd93
 188be60ae382.png  used on input line 520.
 (pdftex.def)             Requested size: 104.06787pt x 80.20593pt.
 <chapters/_resources/../_resources/e218faf59750ef1a90a9e45629f08973.png, id=110
-7, 742.775pt x 410.53375pt>
+8, 742.775pt x 410.53375pt>
 File: chapters/_resources/../_resources/e218faf59750ef1a90a9e45629f08973.png Gr
 aphic file (type png)
 <use chapters/_resources/../_resources/e218faf59750ef1a90a9e45629f08973.png>
@@ -1598,7 +1504,7 @@ Package pdftex.def Info: chapters/_resources/../_resources/e218faf59750ef1a90a9
 e45629f08973.png  used on input line 526.
 (pdftex.def)             Requested size: 145.69438pt x 80.52043pt.
 <chapters/_resources/../_resources/10a2ad3114504053030a1071443aabd7.png, id=110
-8, 736.7525pt x 398.48875pt>
+9, 736.7525pt x 398.48875pt>
 File: chapters/_resources/../_resources/10a2ad3114504053030a1071443aabd7.png Gr
 aphic file (type png)
 <use chapters/_resources/../_resources/10a2ad3114504053030a1071443aabd7.png>
@@ -1608,7 +1514,7 @@ Package pdftex.def Info: chapters/_resources/../_resources/10a2ad3114504053030a
 [51 <./chapters/_resources/../_resources/641af477cb65d73954e1ae24aab9a2ed.png> 
 <./chapters/_resources/../_resources/18345a0e70ca9e50883ca61f93ad3405.png>]
 <chapters/_resources/../_resources/cdb9692b7dd2ca7bcfae696cd1b1ce36.png, id=112
-2, 742.775pt x 313.17pt>
+3, 742.775pt x 313.17pt>
 File: chapters/_resources/../_resources/cdb9692b7dd2ca7bcfae696cd1b1ce36.png Gr
 aphic file (type png)
 <use chapters/_resources/../_resources/cdb9692b7dd2ca7bcfae696cd1b1ce36.png>
@@ -1624,7 +1530,7 @@ hapters/_resources/../_resources/e218faf59750ef1a90a9e45629f08973.png>]
 (./chapters/04/tcic.tex [54]
 Chapter 4.
 <chapters/_resources/../_resources/Screen_Shot_2022-11-04_at_10-50-01.png, id=1
-152, 321.2pt x 157.08687pt>
+153, 321.2pt x 157.08687pt>
 File: chapters/_resources/../_resources/Screen_Shot_2022-11-04_at_10-50-01.png 
 Graphic file (type png)
 <use chapters/_resources/../_resources/Screen_Shot_2022-11-04_at_10-50-01.png>
@@ -1632,7 +1538,7 @@ Package pdftex.def Info: chapters/_resources/../_resources/Screen_Shot_2022-11-
 04_at_10-50-01.png  used on input line 13.
 (pdftex.def)             Requested size: 216.81pt x 106.03624pt.
 <chapters/_resources/../_resources/Screen_Shot_2022-11-04_at_10-51-30.png, id=1
-154, 754.82pt x 292.09125pt>
+155, 754.82pt x 292.09125pt>
 File: chapters/_resources/../_resources/Screen_Shot_2022-11-04_at_10-51-30.png 
 Graphic file (type png)
 <use chapters/_resources/../_resources/Screen_Shot_2022-11-04_at_10-51-30.png>
@@ -1643,7 +1549,7 @@ Package pdftex.def Info: chapters/_resources/../_resources/Screen_Shot_2022-11-
 
  <./chapters/_resources/../_resources/Screen_Shot_2022-11-04_at_10-50-01.png>]
 <chapters/_resources/../_resources/Screen_Shot_2022-11-04_at_10-59-51.png, id=1
-163, 321.2pt x 156.08313pt>
+164, 321.2pt x 156.08313pt>
 File: chapters/_resources/../_resources/Screen_Shot_2022-11-04_at_10-59-51.png 
 Graphic file (type png)
 <use chapters/_resources/../_resources/Screen_Shot_2022-11-04_at_10-59-51.png>
@@ -1654,7 +1560,7 @@ Package pdftex.def Info: chapters/_resources/../_resources/Screen_Shot_2022-11-
 g> <./chapters/_resources/../_resources/Screen_Shot_2022-11-04_at_10-59-51.png>
 ]
 <chapters/_resources/../_resources/Screen_Shot_2022-11-04_at_11-25-54.png, id=1
-171, 627.34375pt x 378.41376pt>
+172, 627.34375pt x 378.41376pt>
 File: chapters/_resources/../_resources/Screen_Shot_2022-11-04_at_11-25-54.png 
 Graphic file (type png)
 <use chapters/_resources/../_resources/Screen_Shot_2022-11-04_at_11-25-54.png>
@@ -1664,7 +1570,7 @@ Package pdftex.def Info: chapters/_resources/../_resources/Screen_Shot_2022-11-
  [57] [58 <./chapters/_resources/../_resources/Screen_Shot_2022-11-04_at_11-25-
 54.png>]
 <chapters/_resources/../_resources/Screen_Shot_2022-11-04_at_11-51-12.png, id=1
-182, 299.1175pt x 474.77374pt>
+183, 299.1175pt x 474.77374pt>
 File: chapters/_resources/../_resources/Screen_Shot_2022-11-04_at_11-51-12.png 
 Graphic file (type png)
 <use chapters/_resources/../_resources/Screen_Shot_2022-11-04_at_11-51-12.png>
@@ -1672,7 +1578,7 @@ Package pdftex.def Info: chapters/_resources/../_resources/Screen_Shot_2022-11-
 04_at_11-51-12.png  used on input line 116.
 (pdftex.def)             Requested size: 130.08731pt x 206.48145pt.
 <chapters/_resources/../_resources/Screen_Shot_2022-11-04_at_11-55-34.png, id=1
-184, 321.2pt x 201.75375pt>
+185, 321.2pt x 201.75375pt>
 File: chapters/_resources/../_resources/Screen_Shot_2022-11-04_at_11-55-34.png 
 Graphic file (type png)
 <use chapters/_resources/../_resources/Screen_Shot_2022-11-04_at_11-55-34.png>
@@ -1683,7 +1589,7 @@ Package pdftex.def Info: chapters/_resources/../_resources/Screen_Shot_2022-11-
 g>] [60 <./chapters/_resources/../_resources/Screen_Shot_2022-11-04_at_11-55-34
 .png>]
 <chapters/_resources/../_resources/Screen_Shot_2022-11-13_at_19-35-28.png, id=1
-201, 664.4825pt x 445.665pt>
+202, 664.4825pt x 445.665pt>
 File: chapters/_resources/../_resources/Screen_Shot_2022-11-13_at_19-35-28.png 
 Graphic file (type png)
 <use chapters/_resources/../_resources/Screen_Shot_2022-11-13_at_19-35-28.png>
@@ -1693,7 +1599,7 @@ Package pdftex.def Info: chapters/_resources/../_resources/Screen_Shot_2022-11-
  [61 <./chapters/_resources/../_resources/Screen_Shot_2022-11-13_at_19-35-28.pn
 g>]
 <chapters/_resources/../_resources/Screen_Shot_2022-11-13_at_19-40-17.png, id=1
-211, 614.295pt x 445.665pt>
+212, 614.295pt x 445.665pt>
 File: chapters/_resources/../_resources/Screen_Shot_2022-11-13_at_19-40-17.png 
 Graphic file (type png)
 <use chapters/_resources/../_resources/Screen_Shot_2022-11-13_at_19-40-17.png>
@@ -1701,7 +1607,7 @@ Package pdftex.def Info: chapters/_resources/../_resources/Screen_Shot_2022-11-
 13_at_19-40-17.png  used on input line 215.
 (pdftex.def)             Requested size: 216.81pt x 157.29074pt.
 <chapters/_resources/../_resources/Screen_Shot_2022-11-13_at_19-41-35.png, id=1
-213, 321.2pt x 206.7725pt>
+214, 321.2pt x 206.7725pt>
 File: chapters/_resources/../_resources/Screen_Shot_2022-11-13_at_19-41-35.png 
 Graphic file (type png)
 <use chapters/_resources/../_resources/Screen_Shot_2022-11-13_at_19-41-35.png>
@@ -1709,7 +1615,7 @@ Package pdftex.def Info: chapters/_resources/../_resources/Screen_Shot_2022-11-
 13_at_19-41-35.png  used on input line 225.
 (pdftex.def)             Requested size: 166.50922pt x 107.19418pt.
 <chapters/_resources/../_resources/Screen_Shot_2022-11-13_at_19-43-07.png, id=1
-214, 321.2pt x 213.29688pt>
+215, 321.2pt x 213.29688pt>
 File: chapters/_resources/../_resources/Screen_Shot_2022-11-13_at_19-43-07.png 
 Graphic file (type png)
 <use chapters/_resources/../_resources/Screen_Shot_2022-11-13_at_19-43-07.png>
@@ -1720,7 +1626,7 @@ Package pdftex.def Info: chapters/_resources/../_resources/Screen_Shot_2022-11-
 g> <./chapters/_resources/../_resources/Screen_Shot_2022-11-13_at_19-41-35.png>
  <./chapters/_resources/../_resources/Screen_Shot_2022-11-13_at_19-43-07.png>]
 <chapters/_resources/../_resources/Screen_Shot_2022-11-13_at_19-48-01.png, id=1
-227, 925.056pt x 758.835pt>
+228, 925.056pt x 758.835pt>
 File: chapters/_resources/../_resources/Screen_Shot_2022-11-13_at_19-48-01.png 
 Graphic file (type png)
 <use chapters/_resources/../_resources/Screen_Shot_2022-11-13_at_19-48-01.png>
@@ -1730,7 +1636,7 @@ Package pdftex.def Info: chapters/_resources/../_resources/Screen_Shot_2022-11-
  [63 <./chapters/_resources/../_resources/Screen_Shot_2022-11-13_at_19-48-01.pn
 g>]
 <chapters/_resources/../_resources/Screen_Shot_2022-11-18_at_11-11-12.png, id=1
-237, 561.89925pt x 578.16pt>
+238, 561.89925pt x 578.16pt>
 File: chapters/_resources/../_resources/Screen_Shot_2022-11-18_at_11-11-12.png 
 Graphic file (type png)
 <use chapters/_resources/../_resources/Screen_Shot_2022-11-18_at_11-11-12.png>
@@ -1739,7 +1645,7 @@ Package pdftex.def Info: chapters/_resources/../_resources/Screen_Shot_2022-11-
 (pdftex.def)             Requested size: 216.81pt x 223.08191pt.
  [64]
 <chapters/_resources/../_resources/Screen_Shot_2022-11-18_at_11-06-54.png, id=1
-246, 321.2pt x 162.10562pt>
+247, 321.2pt x 162.10562pt>
 File: chapters/_resources/../_resources/Screen_Shot_2022-11-18_at_11-06-54.png 
 Graphic file (type png)
 <use chapters/_resources/../_resources/Screen_Shot_2022-11-18_at_11-06-54.png>
@@ -1747,7 +1653,7 @@ Package pdftex.def Info: chapters/_resources/../_resources/Screen_Shot_2022-11-
 18_at_11-06-54.png  used on input line 320.
 (pdftex.def)             Requested size: 216.81pt x 109.42398pt.
 <chapters/_resources/../_resources/Screen_Shot_2022-11-18_at_11-14-09.png, id=1
-248, 578.16pt x 553.76888pt>
+249, 578.16pt x 553.76888pt>
 File: chapters/_resources/../_resources/Screen_Shot_2022-11-18_at_11-14-09.png 
 Graphic file (type png)
 <use chapters/_resources/../_resources/Screen_Shot_2022-11-18_at_11-14-09.png>
@@ -1772,7 +1678,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 png> <./chapters/_resources/../_resources/Screen_Shot_2022-11-18_at_11-14-09.pn
 g>] [67]
 <chapters/_resources/../_resources/Screen_Shot_2022-11-18_at_11-59-02.png, id=1
-271, 321.2pt x 229.35687pt>
+272, 321.2pt x 229.35687pt>
 File: chapters/_resources/../_resources/Screen_Shot_2022-11-18_at_11-59-02.png 
 Graphic file (type png)
 <use chapters/_resources/../_resources/Screen_Shot_2022-11-18_at_11-59-02.png>
@@ -1783,7 +1689,7 @@ Package pdftex.def Info: chapters/_resources/../_resources/Screen_Shot_2022-11-
 g>]) (./chapters/05/instability.tex [69]
 Chapter 5.
 <chapters/_resources/../_resources/Screen_Shot_2022-11-23_at_09-53-33.png, id=1
-285, 748.7975pt x 258.9675pt>
+286, 748.7975pt x 258.9675pt>
 File: chapters/_resources/../_resources/Screen_Shot_2022-11-23_at_09-53-33.png 
 Graphic file (type png)
 <use chapters/_resources/../_resources/Screen_Shot_2022-11-23_at_09-53-33.png>
@@ -1795,7 +1701,7 @@ Package pdftex.def Info: chapters/_resources/../_resources/Screen_Shot_2022-11-
  <./chapters/_resources/../_resources/Screen_Shot_2022-11-23_at_09-53-33.png>] 
 [71]
 <chapters/_resources/../_resources/Screen_Shot_2022-11-23_at_10-18-00.png, id=1
-301, 481.8pt x 455.7025pt>
+302, 481.8pt x 455.7025pt>
 File: chapters/_resources/../_resources/Screen_Shot_2022-11-23_at_10-18-00.png 
 Graphic file (type png)
 <use chapters/_resources/../_resources/Screen_Shot_2022-11-23_at_10-18-00.png>
@@ -1805,7 +1711,7 @@ Package pdftex.def Info: chapters/_resources/../_resources/Screen_Shot_2022-11-
  [72 <./chapters/_resources/../_resources/Screen_Shot_2022-11-23_at_10-18-00.pn
 g>]
 <chapters/_resources/../_resources/Screen_Shot_2022-11-25_at_11-49-03.png, id=1
-310, 578.16pt x 425.48962pt>
+311, 578.16pt x 425.48962pt>
 File: chapters/_resources/../_resources/Screen_Shot_2022-11-25_at_11-49-03.png 
 Graphic file (type png)
 <use chapters/_resources/../_resources/Screen_Shot_2022-11-25_at_11-49-03.png>
@@ -1821,7 +1727,7 @@ l
 
 [74]
 <chapters/_resources/../_resources/Screen_Shot_2022-11-30_at_08-49-05.png, id=1
-324, 613.29124pt x 204.765pt>
+325, 613.29124pt x 204.765pt>
 File: chapters/_resources/../_resources/Screen_Shot_2022-11-30_at_08-49-05.png 
 Graphic file (type png)
 <use chapters/_resources/../_resources/Screen_Shot_2022-11-30_at_08-49-05.png>
@@ -1831,7 +1737,7 @@ Package pdftex.def Info: chapters/_resources/../_resources/Screen_Shot_2022-11-
  [75 <./chapters/_resources/../_resources/Screen_Shot_2022-11-30_at_08-49-05.pn
 g>]
 <chapters/_resources/../_resources/Screen_Shot_2022-11-30_at_08-51-07.png, id=1
-334, 327.2225pt x 527.9725pt>
+335, 327.2225pt x 527.9725pt>
 File: chapters/_resources/../_resources/Screen_Shot_2022-11-30_at_08-51-07.png 
 Graphic file (type png)
 <use chapters/_resources/../_resources/Screen_Shot_2022-11-30_at_08-51-07.png>
@@ -1841,7 +1747,7 @@ Package pdftex.def Info: chapters/_resources/../_resources/Screen_Shot_2022-11-
  [76 <./chapters/_resources/../_resources/Screen_Shot_2022-11-30_at_08-51-07.pn
 g>]
 <chapters/_resources/../_resources/Screen_Shot_2022-11-30_at_09-11-05.png, id=1
-345, 584.1825pt x 329.23pt>
+346, 584.1825pt x 329.23pt>
 File: chapters/_resources/../_resources/Screen_Shot_2022-11-30_at_09-11-05.png 
 Graphic file (type png)
 <use chapters/_resources/../_resources/Screen_Shot_2022-11-30_at_09-11-05.png>
@@ -1849,14 +1755,14 @@ Package pdftex.def Info: chapters/_resources/../_resources/Screen_Shot_2022-11-
 30_at_09-11-05.png  used on input line 211.
 (pdftex.def)             Requested size: 216.81pt x 122.18996pt.
 <chapters/_resources/../_resources/Screen_Shot_2022-11-30_at_09-16-55.png, id=1
-346, 321.2pt x 194.22563pt>
+347, 321.2pt x 194.22563pt>
 File: chapters/_resources/../_resources/Screen_Shot_2022-11-30_at_09-16-55.png 
 Graphic file (type png)
 <use chapters/_resources/../_resources/Screen_Shot_2022-11-30_at_09-16-55.png>
 Package pdftex.def Info: chapters/_resources/../_resources/Screen_Shot_2022-11-
 30_at_09-16-55.png  used on input line 226.
 (pdftex.def)             Requested size: 260.17464pt x 157.3278pt.
-<chapters/_resources/../_resources/Picture1.jpg, id=1347, 646.415pt x 333.245pt
+<chapters/_resources/../_resources/Picture1.jpg, id=1348, 646.415pt x 333.245pt
 >
 File: chapters/_resources/../_resources/Picture1.jpg Graphic file (type jpg)
 <use chapters/_resources/../_resources/Picture1.jpg>
@@ -1867,7 +1773,7 @@ n input line 235.
 g>] [78 <./chapters/_resources/../_resources/Screen_Shot_2022-11-30_at_09-16-55
 .png> <./chapters/_resources/../_resources/Picture1.jpg>]
 <chapters/_resources/../_resources/Screen_Shot_2022-11-30_at_10-03-17.png, id=1
-362, 602.25pt x 245.91875pt>
+363, 602.25pt x 245.91875pt>
 File: chapters/_resources/../_resources/Screen_Shot_2022-11-30_at_10-03-17.png 
 Graphic file (type png)
 <use chapters/_resources/../_resources/Screen_Shot_2022-11-30_at_10-03-17.png>
@@ -1876,85 +1782,332 @@ Package pdftex.def Info: chapters/_resources/../_resources/Screen_Shot_2022-11-
 (pdftex.def)             Requested size: 216.81pt x 88.53067pt.
  [79 <./chapters/_resources/../_resources/Screen_Shot_2022-11-30_at_10-03-17.pn
 g>] [80]
-[81] [82] [83]
-<chapters/_resources/Screen_Shot_2022-12-07_at_08-58-00.png, id=1411, 578.16pt 
+<chapters/_resources/../_resources/b6767c28ca4d9960f33b0d725382b694.png, id=138
+1, 327.2225pt x 388.45125pt>
+File: chapters/_resources/../_resources/b6767c28ca4d9960f33b0d725382b694.png Gr
+aphic file (type png)
+<use chapters/_resources/../_resources/b6767c28ca4d9960f33b0d725382b694.png>
+Package pdftex.def Info: chapters/_resources/../_resources/b6767c28ca4d9960f33b
+0d725382b694.png  used on input line 319.
+(pdftex.def)             Requested size: 173.44534pt x 205.89595pt.
+<chapters/_resources/../_resources/168deb888ea330cd5cfa4cd813e7260d.png, id=138
+3, 259.97125pt x 208.78pt>
+File: chapters/_resources/../_resources/168deb888ea330cd5cfa4cd813e7260d.png Gr
+aphic file (type png)
+<use chapters/_resources/../_resources/168deb888ea330cd5cfa4cd813e7260d.png>
+Package pdftex.def Info: chapters/_resources/../_resources/168deb888ea330cd5cfa
+4cd813e7260d.png  used on input line 328.
+(pdftex.def)             Requested size: 151.76964pt x 121.88252pt.
+<chapters/_resources/../_resources/eca41a16e9bce1f13534cbefd1902bbe.png, id=138
+5, 352.31625pt x 184.69pt>
+File: chapters/_resources/../_resources/eca41a16e9bce1f13534cbefd1902bbe.png Gr
+aphic file (type png)
+<use chapters/_resources/../_resources/eca41a16e9bce1f13534cbefd1902bbe.png>
+Package pdftex.def Info: chapters/_resources/../_resources/eca41a16e9bce1f13534
+cbefd1902bbe.png  used on input line 337.
+(pdftex.def)             Requested size: 216.81pt x 113.65552pt.
+
+[81 <./chapters/_resources/../_resources/b6767c28ca4d9960f33b0d725382b694.png>]
+<chapters/_resources/../_resources/e5bec01cb6c2d9a42b67721810b931fb.png, id=139
+7, 446.66875pt x 250.9375pt>
+File: chapters/_resources/../_resources/e5bec01cb6c2d9a42b67721810b931fb.png Gr
+aphic file (type png)
+<use chapters/_resources/../_resources/e5bec01cb6c2d9a42b67721810b931fb.png>
+Package pdftex.def Info: chapters/_resources/../_resources/e5bec01cb6c2d9a42b67
+721810b931fb.png  used on input line 352.
+(pdftex.def)             Requested size: 216.81pt x 121.80408pt.
+[82 <./chapters/_resources/../_resources/168deb888ea330cd5cfa4cd813e7260d.png> 
+<./chapters/_resources/../_resources/eca41a16e9bce1f13534cbefd1902bbe.png> <./c
+hapters/_resources/../_resources/e5bec01cb6c2d9a42b67721810b931fb.png>]
+<chapters/_resources/../_resources/76f900cd20da07b3fcbf3ae29e21596b.png, id=140
+6, 513.92pt x 224.84pt>
+File: chapters/_resources/../_resources/76f900cd20da07b3fcbf3ae29e21596b.png Gr
+aphic file (type png)
+<use chapters/_resources/../_resources/76f900cd20da07b3fcbf3ae29e21596b.png>
+Package pdftex.def Info: chapters/_resources/../_resources/76f900cd20da07b3fcbf
+3ae29e21596b.png  used on input line 376.
+(pdftex.def)             Requested size: 260.17464pt x 113.82634pt.
+<chapters/_resources/../_resources/b0a12e30eb68712a5f227c5bff2c9424.png, id=140
+7, 835.12pt x 413.545pt>
+File: chapters/_resources/../_resources/b0a12e30eb68712a5f227c5bff2c9424.png Gr
+aphic file (type png)
+<use chapters/_resources/../_resources/b0a12e30eb68712a5f227c5bff2c9424.png>
+Package pdftex.def Info: chapters/_resources/../_resources/b0a12e30eb68712a5f22
+7c5bff2c9424.png  used on input line 387.
+(pdftex.def)             Requested size: 216.81pt x 107.3614pt.
+<chapters/_resources/../_resources/f78ec4683d1e9e77bb74c4f6a372ac8b.png, id=140
+8, 540.0175pt x 349.305pt>
+File: chapters/_resources/../_resources/f78ec4683d1e9e77bb74c4f6a372ac8b.png Gr
+aphic file (type png)
+<use chapters/_resources/../_resources/f78ec4683d1e9e77bb74c4f6a372ac8b.png>
+Package pdftex.def Info: chapters/_resources/../_resources/f78ec4683d1e9e77bb74
+c4f6a372ac8b.png  used on input line 399.
+(pdftex.def)             Requested size: 216.81pt x 140.23653pt.
+<chapters/_resources/../_resources/b399b9d2beb17cee2a4d602739e97b08.png, id=140
+9, 736.7525pt x 378.41376pt>
+File: chapters/_resources/../_resources/b399b9d2beb17cee2a4d602739e97b08.png Gr
+aphic file (type png)
+<use chapters/_resources/../_resources/b399b9d2beb17cee2a4d602739e97b08.png>
+Package pdftex.def Info: chapters/_resources/../_resources/b399b9d2beb17cee2a4d
+602739e97b08.png  used on input line 410.
+(pdftex.def)             Requested size: 216.81pt x 111.35393pt.
+
+[83 <./chapters/_resources/../_resources/76f900cd20da07b3fcbf3ae29e21596b.png> 
+<./chapters/_resources/../_resources/b0a12e30eb68712a5f227c5bff2c9424.png> <./c
+hapters/_resources/../_resources/f78ec4683d1e9e77bb74c4f6a372ac8b.png>]
+<chapters/_resources/../_resources/504253851a3ef8203e6353a576814cc4.png, id=142
+1, 549.05125pt x 222.8325pt>
+File: chapters/_resources/../_resources/504253851a3ef8203e6353a576814cc4.png Gr
+aphic file (type png)
+<use chapters/_resources/../_resources/504253851a3ef8203e6353a576814cc4.png>
+Package pdftex.def Info: chapters/_resources/../_resources/504253851a3ef8203e63
+53a576814cc4.png  used on input line 425.
+(pdftex.def)             Requested size: 216.81pt x 87.99237pt.
+<chapters/_resources/../_resources/cf33180a017e8d51c049566410ac8b20.png, id=142
+3, 303.1325pt x 407.5225pt>
+File: chapters/_resources/../_resources/cf33180a017e8d51c049566410ac8b20.png Gr
+aphic file (type png)
+<use chapters/_resources/../_resources/cf33180a017e8d51c049566410ac8b20.png>
+Package pdftex.def Info: chapters/_resources/../_resources/cf33180a017e8d51c049
+566410ac8b20.png  used on input line 439.
+(pdftex.def)             Requested size: 173.44534pt x 233.17944pt.
+
+[84 <./chapters/_resources/../_resources/b399b9d2beb17cee2a4d602739e97b08.png> 
+<./chapters/_resources/../_resources/504253851a3ef8203e6353a576814cc4.png>]
+
+Package caption Warning: \label without proper reference on input line 454.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `fig:origins' on page 85 undefined on input line 449.
+
+<chapters/_resources/../_resources/a78ad57bf8373a5417b0ddce30b8ed72.png, id=143
+6, 805.0075pt x 350.30875pt>
+File: chapters/_resources/../_resources/a78ad57bf8373a5417b0ddce30b8ed72.png Gr
+aphic file (type png)
+<use chapters/_resources/../_resources/a78ad57bf8373a5417b0ddce30b8ed72.png>
+Package pdftex.def Info: chapters/_resources/../_resources/a78ad57bf8373a5417b0
+ddce30b8ed72.png  used on input line 453.
+(pdftex.def)             Requested size: 216.81pt x 94.34409pt.
+
+Package caption Warning: \label without proper reference on input line 463.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `fig:sphase' on page 85 undefined on input line 458.
+
+<chapters/_resources/../_resources/32b183547f544448275d6f43d7693d7e.png, id=143
+8, 454.69875pt x 466.74374pt>
+File: chapters/_resources/../_resources/32b183547f544448275d6f43d7693d7e.png Gr
+aphic file (type png)
+<use chapters/_resources/../_resources/32b183547f544448275d6f43d7693d7e.png>
+Package pdftex.def Info: chapters/_resources/../_resources/32b183547f544448275d
+6f43d7693d7e.png  used on input line 462.
+(pdftex.def)             Requested size: 173.44534pt x 178.04105pt.
+[85 <./chapters/_resources/../_resources/cf33180a017e8d51c049566410ac8b20.png> 
+<./chapters/_resources/../_resources/a78ad57bf8373a5417b0ddce30b8ed72.png>]
+<chapters/_resources/../_resources/212276fa882f51c9df6ee225d31e5bae.png, id=144
+8, 848.16875pt x 381.425pt>
+File: chapters/_resources/../_resources/212276fa882f51c9df6ee225d31e5bae.png Gr
+aphic file (type png)
+<use chapters/_resources/../_resources/212276fa882f51c9df6ee225d31e5bae.png>
+Package pdftex.def Info: chapters/_resources/../_resources/212276fa882f51c9df6e
+e225d31e5bae.png  used on input line 475.
+(pdftex.def)             Requested size: 260.17464pt x 117.00084pt.
+<chapters/_resources/../_resources/13c8849fd53903e2747fc9cc1a31fa57.png, id=145
+0, 413.545pt x 464.73625pt>
+File: chapters/_resources/../_resources/13c8849fd53903e2747fc9cc1a31fa57.png Gr
+aphic file (type png)
+<use chapters/_resources/../_resources/13c8849fd53903e2747fc9cc1a31fa57.png>
+Package pdftex.def Info: chapters/_resources/../_resources/13c8849fd53903e2747f
+c9cc1a31fa57.png  used on input line 486.
+(pdftex.def)             Requested size: 173.44534pt x 194.91841pt.
+
+[86 <./chapters/_resources/../_resources/32b183547f544448275d6f43d7693d7e.png> 
+<./chapters/_resources/../_resources/212276fa882f51c9df6ee225d31e5bae.png>]
+
+Package caption Warning: \label without proper reference on input line 505.
+See the caption package documentation for explanation.
+
+
+LaTeX Warning: Reference `fig:defects' on page 87 undefined on input line 500.
+
+<chapters/_resources/../_resources/0a2601fb2d9e7056294ad4c26f178951.png, id=146
+0, 450.68375pt x 412.54124pt>
+File: chapters/_resources/../_resources/0a2601fb2d9e7056294ad4c26f178951.png Gr
+aphic file (type png)
+<use chapters/_resources/../_resources/0a2601fb2d9e7056294ad4c26f178951.png>
+Package pdftex.def Info: chapters/_resources/../_resources/0a2601fb2d9e7056294a
+d4c26f178951.png  used on input line 504.
+(pdftex.def)             Requested size: 216.81pt x 198.46448pt.
+[87 <./chapters/_resources/../_resources/13c8849fd53903e2747fc9cc1a31fa57.png> 
+<./chapters/_resources/../_resources/0a2601fb2d9e7056294ad4c26f178951.png>]
+<chapters/_resources/../_resources/61c42671b1b95714d2335e1c23a75024.png, id=147
+0, 676.5275pt x 473.77pt>
+File: chapters/_resources/../_resources/61c42671b1b95714d2335e1c23a75024.png Gr
+aphic file (type png)
+<use chapters/_resources/../_resources/61c42671b1b95714d2335e1c23a75024.png>
+Package pdftex.def Info: chapters/_resources/../_resources/61c42671b1b95714d233
+5e1c23a75024.png  used on input line 550.
+(pdftex.def)             Requested size: 216.81pt x 151.8336pt.
+<chapters/_resources/../_resources/7e83b9f1b770e9e66657e633c833c9a4.png, id=147
+1, 458.71375pt x 363.3575pt>
+File: chapters/_resources/../_resources/7e83b9f1b770e9e66657e633c833c9a4.png Gr
+aphic file (type png)
+<use chapters/_resources/../_resources/7e83b9f1b770e9e66657e633c833c9a4.png>
+Package pdftex.def Info: chapters/_resources/../_resources/7e83b9f1b770e9e66657
+e633c833c9a4.png  used on input line 564.
+(pdftex.def)             Requested size: 216.81pt x 171.74275pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[88 <./chapters/_resources/../_resources/61c42671b1b95714d2335e1c23a75024.png>]
+<chapters/_resources/../_resources/78ecdeb0787ab87f0b7124de9a54c389.png, id=148
+3, 591.20876pt x 432.61626pt>
+File: chapters/_resources/../_resources/78ecdeb0787ab87f0b7124de9a54c389.png Gr
+aphic file (type png)
+<use chapters/_resources/../_resources/78ecdeb0787ab87f0b7124de9a54c389.png>
+Package pdftex.def Info: chapters/_resources/../_resources/78ecdeb0787ab87f0b71
+24de9a54c389.png  used on input line 609.
+(pdftex.def)             Requested size: 236.47931pt x 173.04343pt.
+<chapters/_resources/../_resources/5b8301b5dc4e4bdae69a035b325c110d.png, id=148
+4, 522.95375pt x 417.56pt>
+File: chapters/_resources/../_resources/5b8301b5dc4e4bdae69a035b325c110d.png Gr
+aphic file (type png)
+<use chapters/_resources/../_resources/5b8301b5dc4e4bdae69a035b325c110d.png>
+Package pdftex.def Info: chapters/_resources/../_resources/5b8301b5dc4e4bdae69a
+035b325c110d.png  used on input line 610.
+(pdftex.def)             Requested size: 209.1778pt x 167.02103pt.
+<chapters/_resources/../_resources/7488f37079b01dd2811223bd1a82f7fb.png, id=148
+5, 671.50874pt x 338.26375pt>
+File: chapters/_resources/../_resources/7488f37079b01dd2811223bd1a82f7fb.png Gr
+aphic file (type png)
+<use chapters/_resources/../_resources/7488f37079b01dd2811223bd1a82f7fb.png>
+Package pdftex.def Info: chapters/_resources/../_resources/7488f37079b01dd28112
+23bd1a82f7fb.png  used on input line 611.
+(pdftex.def)             Requested size: 268.59874pt x 135.30309pt.
+[89 <./chapters/_resources/../_resources/7e83b9f1b770e9e66657e633c833c9a4.png>]
+<chapters/_resources/../_resources/c0296c07042a0397b2b5c43d74b2f158.png, id=149
+8, 647.41875pt x 437.635pt>
+File: chapters/_resources/../_resources/c0296c07042a0397b2b5c43d74b2f158.png Gr
+aphic file (type png)
+<use chapters/_resources/../_resources/c0296c07042a0397b2b5c43d74b2f158.png>
+Package pdftex.def Info: chapters/_resources/../_resources/c0296c07042a0397b2b5
+c43d74b2f158.png  used on input line 624.
+(pdftex.def)             Requested size: 216.81pt x 146.55687pt.
+[90 <./chapters/_resources/../_resources/78ecdeb0787ab87f0b7124de9a54c389.png> 
+<./chapters/_resources/../_resources/5b8301b5dc4e4bdae69a035b325c110d.png> <./c
+hapters/_resources/../_resources/7488f37079b01dd2811223bd1a82f7fb.png>]
+<chapters/_resources/../_resources/74f971d93ec73bb49f66e1c9f6c16c26.png, id=151
+1, 789.95125pt x 411.5375pt>
+File: chapters/_resources/../_resources/74f971d93ec73bb49f66e1c9f6c16c26.png Gr
+aphic file (type png)
+<use chapters/_resources/../_resources/74f971d93ec73bb49f66e1c9f6c16c26.png>
+Package pdftex.def Info: chapters/_resources/../_resources/74f971d93ec73bb49f66
+e1c9f6c16c26.png  used on input line 642.
+(pdftex.def)             Requested size: 216.81pt x 112.95024pt.
+<chapters/_resources/../_resources/44bcc98a5cf90e0a6c62c0c54ac18ec8.png, id=151
+2, 768.8725pt x 409.53pt>
+File: chapters/_resources/../_resources/44bcc98a5cf90e0a6c62c0c54ac18ec8.png Gr
+aphic file (type png)
+<use chapters/_resources/../_resources/44bcc98a5cf90e0a6c62c0c54ac18ec8.png>
+Package pdftex.def Info: chapters/_resources/../_resources/44bcc98a5cf90e0a6c62
+c0c54ac18ec8.png  used on input line 658.
+(pdftex.def)             Requested size: 216.81pt x 115.47997pt.
+
+[91 <./chapters/_resources/../_resources/c0296c07042a0397b2b5c43d74b2f158.png> 
+<./chapters/_resources/../_resources/74f971d93ec73bb49f66e1c9f6c16c26.png>]
+<chapters/_resources/../_resources/a522e1eccf4aff0b733df053f8ae4a38.png, id=152
+1, 722.7pt x 406.51875pt>
+File: chapters/_resources/../_resources/a522e1eccf4aff0b733df053f8ae4a38.png Gr
+aphic file (type png)
+<use chapters/_resources/../_resources/a522e1eccf4aff0b733df053f8ae4a38.png>
+Package pdftex.def Info: chapters/_resources/../_resources/a522e1eccf4aff0b733d
+f053f8ae4a38.png  used on input line 665.
+(pdftex.def)             Requested size: 216.81pt x 121.95656pt.
+<chapters/_resources/Screen_Shot_2022-12-07_at_08-58-00.png, id=1523, 578.16pt 
 x 428.19975pt>
 File: chapters/_resources/Screen_Shot_2022-12-07_at_08-58-00.png Graphic file (
 type png)
 <use chapters/_resources/Screen_Shot_2022-12-07_at_08-58-00.png>
 Package pdftex.def Info: chapters/_resources/Screen_Shot_2022-12-07_at_08-58-00
-.png  used on input line 578.
+.png  used on input line 694.
 (pdftex.def)             Requested size: 216.81pt x 160.57451pt.
- [84 <./chapters/_resources/Screen_Shot_2022-12-07_at_08-58-00.png>]
-<chapters/_resources/Screen_Shot_2022-12-07_at_08-59-12.png, id=1421, 321.2pt x
+
+[92 <./chapters/_resources/../_resources/44bcc98a5cf90e0a6c62c0c54ac18ec8.png> 
+<./chapters/_resources/../_resources/a522e1eccf4aff0b733df053f8ae4a38.png>]
+<chapters/_resources/Screen_Shot_2022-12-07_at_08-59-12.png, id=1535, 321.2pt x
  285.065pt>
 File: chapters/_resources/Screen_Shot_2022-12-07_at_08-59-12.png Graphic file (
 type png)
 <use chapters/_resources/Screen_Shot_2022-12-07_at_08-59-12.png>
 Package pdftex.def Info: chapters/_resources/Screen_Shot_2022-12-07_at_08-59-12
-.png  used on input line 594.
+.png  used on input line 710.
 (pdftex.def)             Requested size: 216.81pt x 192.42361pt.
-<chapters/_resources/Screen_Shot_2022-12-07_at_09-03-41.png, id=1423, 709.65125
+
+[93 <./chapters/_resources/Screen_Shot_2022-12-07_at_08-58-00.png>]
+<chapters/_resources/Screen_Shot_2022-12-07_at_09-03-41.png, id=1545, 709.65125
 pt x 345.29pt>
 File: chapters/_resources/Screen_Shot_2022-12-07_at_09-03-41.png Graphic file (
 type png)
 <use chapters/_resources/Screen_Shot_2022-12-07_at_09-03-41.png>
 Package pdftex.def Info: chapters/_resources/Screen_Shot_2022-12-07_at_09-03-41
-.png  used on input line 612.
+.png  used on input line 728.
 (pdftex.def)             Requested size: 216.81pt x 105.48979pt.
- [85 <./chapters/_resources/Screen_Shot_2022-12-07_at_08-59-12.png>]
-<chapters/_resources/Screen_Shot_2022-12-07_at_09-15-58.png, id=1433, 749.80125
+ [94 <./chapters/_resources/Screen_Shot_2022-12-07_at_08-59-12.png> <./chapters
+/_resources/Screen_Shot_2022-12-07_at_09-03-41.png>]
+<chapters/_resources/Screen_Shot_2022-12-07_at_09-15-58.png, id=1554, 749.80125
 pt x 237.88875pt>
 File: chapters/_resources/Screen_Shot_2022-12-07_at_09-15-58.png Graphic file (
 type png)
 <use chapters/_resources/Screen_Shot_2022-12-07_at_09-15-58.png>
 Package pdftex.def Info: chapters/_resources/Screen_Shot_2022-12-07_at_09-15-58
-.png  used on input line 630.
+.png  used on input line 746.
 (pdftex.def)             Requested size: 216.81pt x 68.78632pt.
-<chapters/_resources/Screen_Shot_2022-12-07_at_09-23-19.png, id=1435, 369.38pt 
+<chapters/_resources/Screen_Shot_2022-12-07_at_09-23-19.png, id=1556, 369.38pt 
 x 352.31625pt>
 File: chapters/_resources/Screen_Shot_2022-12-07_at_09-23-19.png Graphic file (
 type png)
 <use chapters/_resources/Screen_Shot_2022-12-07_at_09-23-19.png>
 Package pdftex.def Info: chapters/_resources/Screen_Shot_2022-12-07_at_09-23-19
-.png  used on input line 641.
+.png  used on input line 757.
 (pdftex.def)             Requested size: 216.81pt x 206.79497pt.
-
-[86 <./chapters/_resources/Screen_Shot_2022-12-07_at_09-03-41.png> <./chapters/
-_resources/Screen_Shot_2022-12-07_at_09-15-58.png>]
-<chapters/_resources/Screen_Shot_2022-12-07_at_09-50-28.png, id=1445, 633.36626
+ [95 <./chapters/_resources/Screen_Shot_2022-12-07_at_09-15-58.png> <./chapters
+/_resources/Screen_Shot_2022-12-07_at_09-23-19.png>]
+<chapters/_resources/Screen_Shot_2022-12-07_at_09-50-28.png, id=1565, 633.36626
 pt x 288.07625pt>
 File: chapters/_resources/Screen_Shot_2022-12-07_at_09-50-28.png Graphic file (
 type png)
 <use chapters/_resources/Screen_Shot_2022-12-07_at_09-50-28.png>
 Package pdftex.def Info: chapters/_resources/Screen_Shot_2022-12-07_at_09-50-28
-.png  used on input line 663.
+.png  used on input line 779.
 (pdftex.def)             Requested size: 216.81pt x 98.61276pt.
-<chapters/_resources/Screen_Shot_2022-12-07_at_09-51-02.png, id=1446, 522.95375
+<chapters/_resources/Screen_Shot_2022-12-07_at_09-51-02.png, id=1566, 522.95375
 pt x 410.53375pt>
 File: chapters/_resources/Screen_Shot_2022-12-07_at_09-51-02.png Graphic file (
 type png)
 <use chapters/_resources/Screen_Shot_2022-12-07_at_09-51-02.png>
 Package pdftex.def Info: chapters/_resources/Screen_Shot_2022-12-07_at_09-51-02
-.png  used on input line 669.
+.png  used on input line 785.
 (pdftex.def)             Requested size: 173.44534pt x 136.15935pt.
- [87 <./chapters/_resources/Screen_Shot_2022-12-07_at_09-23-19.png>]) (./chapte
-rs/06/telomere.tex [88 <./chapters/_resources/Screen_Shot_2022-12-07_at_09-50-2
-8.png> <./chapters/_resources/Screen_Shot_2022-12-07_at_09-51-02.png>]
+ [96 <./chapters/_resources/Screen_Shot_2022-12-07_at_09-50-28.png> <./chapters
+/_resources/Screen_Shot_2022-12-07_at_09-51-02.png>])
+(./chapters/06/telomere.tex [97]
 Chapter 6.
 <chapters/_resources/../_resources/Screen_Shot_2022-12-15_at_17-43-24.png, id=1
-464, 321.2pt x 157.08687pt>
+583, 321.2pt x 157.08687pt>
 File: chapters/_resources/../_resources/Screen_Shot_2022-12-15_at_17-43-24.png 
 Graphic file (type png)
 <use chapters/_resources/../_resources/Screen_Shot_2022-12-15_at_17-43-24.png>
 Package pdftex.def Info: chapters/_resources/../_resources/Screen_Shot_2022-12-
 15_at_17-43-24.png  used on input line 41.
 (pdftex.def)             Requested size: 216.81pt x 106.03624pt.
-[89
+[98
 
 ]
 <chapters/_resources/../_resources/Screen_Shot_2022-12-15_at_17-54-31.png, id=1
-473, 321.2pt x 151.06438pt>
+592, 321.2pt x 151.06438pt>
 File: chapters/_resources/../_resources/Screen_Shot_2022-12-15_at_17-54-31.png 
 Graphic file (type png)
 <use chapters/_resources/../_resources/Screen_Shot_2022-12-15_at_17-54-31.png>
@@ -1962,18 +2115,18 @@ Package pdftex.def Info: chapters/_resources/../_resources/Screen_Shot_2022-12-
 15_at_17-54-31.png  used on input line 76.
 (pdftex.def)             Requested size: 216.81pt x 101.97096pt.
 <chapters/_resources/../_resources/Screen_Shot_2022-12-15_at_17-49-51.png, id=1
-474, 321.2pt x 188.20313pt>
+593, 321.2pt x 188.20313pt>
 File: chapters/_resources/../_resources/Screen_Shot_2022-12-15_at_17-49-51.png 
 Graphic file (type png)
 <use chapters/_resources/../_resources/Screen_Shot_2022-12-15_at_17-49-51.png>
 Package pdftex.def Info: chapters/_resources/../_resources/Screen_Shot_2022-12-
 15_at_17-49-51.png  used on input line 92.
 (pdftex.def)             Requested size: 216.81pt x 127.04022pt.
- [90 <./chapters/_resources/../_resources/Screen_Shot_2022-12-15_at_17-43-24.pn
+ [99 <./chapters/_resources/../_resources/Screen_Shot_2022-12-15_at_17-43-24.pn
 g> <./chapters/_resources/../_resources/Screen_Shot_2022-12-15_at_17-54-31.png>
 ]
 <chapters/_resources/../_resources/Screen_Shot_2022-12-15_at_17-49-02.png, id=1
-485, 321.2pt x 93.85063pt>
+603, 321.2pt x 93.85063pt>
 File: chapters/_resources/../_resources/Screen_Shot_2022-12-15_at_17-49-02.png 
 Graphic file (type png)
 <use chapters/_resources/../_resources/Screen_Shot_2022-12-15_at_17-49-02.png>
@@ -1981,29 +2134,29 @@ Package pdftex.def Info: chapters/_resources/../_resources/Screen_Shot_2022-12-
 15_at_17-49-02.png  used on input line 103.
 (pdftex.def)             Requested size: 216.81pt x 63.35072pt.
 <chapters/_resources/../_resources/Screen_Shot_2022-12-15_at_18-00-30.png, id=1
-486, 352.31625pt x 380.42125pt>
+604, 352.31625pt x 380.42125pt>
 File: chapters/_resources/../_resources/Screen_Shot_2022-12-15_at_18-00-30.png 
 Graphic file (type png)
 <use chapters/_resources/../_resources/Screen_Shot_2022-12-15_at_18-00-30.png>
 Package pdftex.def Info: chapters/_resources/../_resources/Screen_Shot_2022-12-
 15_at_18-00-30.png  used on input line 142.
 (pdftex.def)             Requested size: 216.81pt x 234.10568pt.
- [91 <./chapters/_resources/../_resources/Screen_Shot_2022-12-15_at_17-49-51.pn
-g> <./chapters/_resources/../_resources/Screen_Shot_2022-12-15_at_17-49-02.png>
-] [92 <./chapters/_resources/../_resources/Screen_Shot_2022-12-15_at_18-00-30.p
-ng>]
+ [100 <./chapters/_resources/../_resources/Screen_Shot_2022-12-15_at_17-49-51.p
+ng> <./chapters/_resources/../_resources/Screen_Shot_2022-12-15_at_17-49-02.png
+>] [101 <./chapters/_resources/../_resources/Screen_Shot_2022-12-15_at_18-00-30
+.png>]
 <chapters/_resources/../_resources/Screen_Shot_2022-12-15_at_22-39-00.png, id=1
-508, 708.6475pt x 413.545pt>
+627, 708.6475pt x 413.545pt>
 File: chapters/_resources/../_resources/Screen_Shot_2022-12-15_at_22-39-00.png 
 Graphic file (type png)
 <use chapters/_resources/../_resources/Screen_Shot_2022-12-15_at_22-39-00.png>
 Package pdftex.def Info: chapters/_resources/../_resources/Screen_Shot_2022-12-
 15_at_22-39-00.png  used on input line 233.
 (pdftex.def)             Requested size: 216.81pt x 126.5191pt.
- [93 <./chapters/_resources/../_resources/Screen_Shot_2022-12-15_at_22-39-00.pn
-g>]
+ [102 <./chapters/_resources/../_resources/Screen_Shot_2022-12-15_at_22-39-00.p
+ng>]
 <chapters/_resources/../_resources/Screen_Shot_2022-12-15_at_22-58-03.png, id=1
-519, 398.48875pt x 454.69875pt>
+639, 398.48875pt x 454.69875pt>
 File: chapters/_resources/../_resources/Screen_Shot_2022-12-15_at_22-58-03.png 
 Graphic file (type png)
 <use chapters/_resources/../_resources/Screen_Shot_2022-12-15_at_22-58-03.png>
@@ -2011,22 +2164,22 @@ Package pdftex.def Info: chapters/_resources/../_resources/Screen_Shot_2022-12-
 15_at_22-58-03.png  used on input line 283.
 (pdftex.def)             Requested size: 173.44534pt x 197.9103pt.
 <chapters/_resources/../_resources/Screen_Shot_2022-12-15_at_22-58-28.png, id=1
-521, 762.85pt x 277.035pt>
+641, 762.85pt x 277.035pt>
 File: chapters/_resources/../_resources/Screen_Shot_2022-12-15_at_22-58-28.png 
 Graphic file (type png)
 <use chapters/_resources/../_resources/Screen_Shot_2022-12-15_at_22-58-28.png>
 Package pdftex.def Info: chapters/_resources/../_resources/Screen_Shot_2022-12-
 15_at_22-58-28.png  used on input line 296.
 (pdftex.def)             Requested size: 216.81pt x 78.73598pt.
- [94 <./chapters/_resources/../_resources/Screen_Shot_2022-12-15_at_22-58-03.pn
-g>]) (./chapters/07/jc.tex [95 <./chapters/_resources/../_resources/Screen_Shot
-_2022-12-15_at_22-58-28.png>]
+ [103 <./chapters/_resources/../_resources/Screen_Shot_2022-12-15_at_22-58-03.p
+ng>]) (./chapters/07/jc.tex [104 <./chapters/_resources/../_resources/Screen_Sh
+ot_2022-12-15_at_22-58-28.png>]
 Chapter 7.
-[96
+[105
 
 ]
-<chapters/_resources/../_resources/Screenshot_2022-12-19_at_16-39-14.png, id=15
-41, 254.45062pt x 321.2pt>
+<chapters/_resources/../_resources/Screenshot_2022-12-19_at_16-39-14.png, id=16
+60, 254.45062pt x 321.2pt>
 File: chapters/_resources/../_resources/Screenshot_2022-12-19_at_16-39-14.png G
 raphic file (type png)
 <use chapters/_resources/../_resources/Screenshot_2022-12-19_at_16-39-14.png>
@@ -2039,54 +2192,54 @@ Overfull \hbox (11.37852pt too wide) in paragraph at lines 69--70
 -tion-ally ac-tive genes on chro-matin.Therefore,
  []
 
-[97] [98 <./chapters/_resources/../_resources/Screenshot_2022-12-19_at_16-39-14
-.png>]
+[106] [107 <./chapters/_resources/../_resources/Screenshot_2022-12-19_at_16-39-
+14.png>]
 <chapters/_resources/../_resources/Screen_Shot_2022-12-19_at_17-00-41.png, id=1
-552, 578.16pt x 353.21962pt>
+671, 578.16pt x 353.21962pt>
 File: chapters/_resources/../_resources/Screen_Shot_2022-12-19_at_17-00-41.png 
 Graphic file (type png)
 <use chapters/_resources/../_resources/Screen_Shot_2022-12-19_at_17-00-41.png>
 Package pdftex.def Info: chapters/_resources/../_resources/Screen_Shot_2022-12-
 19_at_17-00-41.png  used on input line 98.
 (pdftex.def)             Requested size: 346.89731pt x 211.9334pt.
-<chapters/_resources/../_resources/Screenshot_2022-10-28_at_10-37-23.png, id=15
-53, 646.415pt x 642.4pt>
+<chapters/_resources/../_resources/Screenshot_2022-10-28_at_10-37-23.png, id=16
+72, 646.415pt x 642.4pt>
 File: chapters/_resources/../_resources/Screenshot_2022-10-28_at_10-37-23.png G
 raphic file (type png)
 <use chapters/_resources/../_resources/Screenshot_2022-10-28_at_10-37-23.png>
 Package pdftex.def Info: chapters/_resources/../_resources/Screenshot_2022-10-2
 8_at_10-37-23.png  used on input line 111.
 (pdftex.def)             Requested size: 130.08731pt x 129.2717pt.
- [99] [100 <./chapters/_resources/../_resources/Screen_Shot_2022-12-19_at_17-00
--41.png> <./chapters/_resources/../_resources/Screenshot_2022-10-28_at_10-37-23
-.png>]
+ [108] [109 <./chapters/_resources/../_resources/Screen_Shot_2022-12-19_at_17-0
+0-41.png> <./chapters/_resources/../_resources/Screenshot_2022-10-28_at_10-37-2
+3.png>]
 Overfull \hbox (1.85081pt too wide) in paragraph at lines 160--160
 []\T1/lmr/bx/n/12 BRD4-directed super-enhancer or-ga-ni-za-tion of tran-scrip-t
 ion re-pres-
  []
 
-[101]
-<chapters/_resources/../_resources/Screenshot_2022-10-28_at_11-55-04.png, id=15
-75, 519.9425pt x 515.9275pt>
+[110]
+<chapters/_resources/../_resources/Screenshot_2022-10-28_at_11-55-04.png, id=16
+94, 519.9425pt x 515.9275pt>
 File: chapters/_resources/../_resources/Screenshot_2022-10-28_at_11-55-04.png G
 raphic file (type png)
 <use chapters/_resources/../_resources/Screenshot_2022-10-28_at_11-55-04.png>
 Package pdftex.def Info: chapters/_resources/../_resources/Screenshot_2022-10-2
 8_at_11-55-04.png  used on input line 239.
 (pdftex.def)             Requested size: 130.08731pt x 129.07602pt.
- [102 <./chapters/_resources/../_resources/Screenshot_2022-10-28_at_11-55-04.pn
+ [111 <./chapters/_resources/../_resources/Screenshot_2022-10-28_at_11-55-04.pn
 g>]
 <chapters/_resources/../_resources/Screen_Shot_2022-12-20_at_11-45-23.png, id=1
-586, 321.2pt x 131.99312pt>
+704, 321.2pt x 131.99312pt>
 File: chapters/_resources/../_resources/Screen_Shot_2022-12-20_at_11-45-23.png 
 Graphic file (type png)
 <use chapters/_resources/../_resources/Screen_Shot_2022-12-20_at_11-45-23.png>
 Package pdftex.def Info: chapters/_resources/../_resources/Screen_Shot_2022-12-
 20_at_11-45-23.png  used on input line 263.
 (pdftex.def)             Requested size: 346.89731pt x 142.55647pt.
- [103] [104 <./chapters/_resources/../_resources/Screen_Shot_2022-12-20_at_11-4
+ [112] [113 <./chapters/_resources/../_resources/Screen_Shot_2022-12-20_at_11-4
 5-23.png>]
-<chapters/_resources/../_resources/cenp.png, id=1597, 154.176pt x 77.5698pt>
+<chapters/_resources/../_resources/cenp.png, id=1715, 154.176pt x 77.5698pt>
 File: chapters/_resources/../_resources/cenp.png Graphic file (type png)
 <use chapters/_resources/../_resources/cenp.png>
 Package pdftex.def Info: chapters/_resources/../_resources/cenp.png  used on in
@@ -2098,28 +2251,28 @@ Overfull \hbox (5.09311pt too wide) in paragraph at lines 310--313
 yl-trans-ferase. It lo-calise to cis-regulatory
  []
 
-[105 <./chapters/_resources/../_resources/cenp.png>]
+[114 <./chapters/_resources/../_resources/cenp.png>]
 <chapters/_resources/../_resources/Screen_Shot_2022-12-20_at_12-01-08.png, id=1
-604, 795.97375pt x 195.73125pt>
+723, 795.97375pt x 195.73125pt>
 File: chapters/_resources/../_resources/Screen_Shot_2022-12-20_at_12-01-08.png 
 Graphic file (type png)
 <use chapters/_resources/../_resources/Screen_Shot_2022-12-20_at_12-01-08.png>
 Package pdftex.def Info: chapters/_resources/../_resources/Screen_Shot_2022-12-
 20_at_12-01-08.png  used on input line 335.
 (pdftex.def)             Requested size: 433.62pt x 106.6281pt.
- [106 <./chapters/_resources/../_resources/Screen_Shot_2022-12-20_at_12-01-08.p
-ng>] [107]
+ [115 <./chapters/_resources/../_resources/Screen_Shot_2022-12-20_at_12-01-08.p
+ng>] [116]
 <chapters/_resources/../_resources/Screen_Shot_2022-12-20_at_12-43-26.png, id=1
-615, 578.16pt x 574.5465pt>
+734, 578.16pt x 574.5465pt>
 File: chapters/_resources/../_resources/Screen_Shot_2022-12-20_at_12-43-26.png 
 Graphic file (type png)
 <use chapters/_resources/../_resources/Screen_Shot_2022-12-20_at_12-43-26.png>
 Package pdftex.def Info: chapters/_resources/../_resources/Screen_Shot_2022-12-
 20_at_12-43-26.png  used on input line 422.
 (pdftex.def)             Requested size: 173.44534pt x 172.3565pt.
- [108 <./chapters/_resources/../_resources/Screen_Shot_2022-12-20_at_12-43-26.p
+ [117 <./chapters/_resources/../_resources/Screen_Shot_2022-12-20_at_12-43-26.p
 ng>]
-<chapters/_resources/../_resources/RNAi.png, id=1623, 578.16pt x 383.93437pt>
+<chapters/_resources/../_resources/RNAi.png, id=1741, 578.16pt x 383.93437pt>
 File: chapters/_resources/../_resources/RNAi.png Graphic file (type png)
 <use chapters/_resources/../_resources/RNAi.png>
 Package pdftex.def Info: chapters/_resources/../_resources/RNAi.png  used on in
@@ -2138,16 +2291,16 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `math shift' on input line 457.
 
-[109] [110 <./chapters/_resources/../_resources/RNAi.png>]
-<chapters/_resources/../_resources/era.png, id=1634, 453.695pt x 450.68375pt>
+[118] [119 <./chapters/_resources/../_resources/RNAi.png>]
+<chapters/_resources/../_resources/era.png, id=1753, 453.695pt x 450.68375pt>
 File: chapters/_resources/../_resources/era.png Graphic file (type png)
 <use chapters/_resources/../_resources/era.png>
 Package pdftex.def Info: chapters/_resources/../_resources/era.png  used on inp
 ut line 493.
 (pdftex.def)             Requested size: 130.08731pt x 129.22328pt.
- [111 <./chapters/_resources/../_resources/era.png>] [112]
+ [120 <./chapters/_resources/../_resources/era.png>] [121]
 <chapters/_resources/../_resources/Screen_Shot_2022-12-20_at_14-17-02.png, id=1
-648, 578.16pt x 571.83638pt>
+768, 578.16pt x 571.83638pt>
 File: chapters/_resources/../_resources/Screen_Shot_2022-12-20_at_14-17-02.png 
 Graphic file (type png)
 <use chapters/_resources/../_resources/Screen_Shot_2022-12-20_at_14-17-02.png>
@@ -2156,14 +2309,17 @@ Package pdftex.def Info: chapters/_resources/../_resources/Screen_Shot_2022-12-
 (pdftex.def)             Requested size: 130.08731pt x 128.65762pt.
 )
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 27.
- [113 <./chapters/_resources/../_resources/Screen_Shot_2022-12-20_at_14-17-02.p
+ [122 <./chapters/_resources/../_resources/Screen_Shot_2022-12-20_at_14-17-02.p
 ng>]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 27.
- (./build/principal.aux)
+ (build/principal.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 27.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 27.
 Package rerunfilecheck Info: File `principal.out' has not changed.
 (rerunfilecheck)             Checksum: <no file>.
+
+
+LaTeX Warning: There were undefined references.
 
 
 LaTeX Warning: There were multiply-defined labels.
@@ -2171,33 +2327,29 @@ LaTeX Warning: There were multiply-defined labels.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 27.
  ) 
 Here is how much of TeX's memory you used:
- 14077 strings out of 492616
- 241291 string characters out of 6129482
- 333615 words of memory out of 5000000
- 17130 multiletter control sequences out of 15000+600000
- 81182 words of font info for 64 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 38i,12n,43p,1237b,473s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/lo
-cal/texlive/2019/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/20
-19/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2019/texmf-dist/
-fonts/enc/dvips/lm/lm-ts1.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvi
-ps/lm/lm-mathsy.enc}</usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/l
-mbx10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmbx12.pfb>
-</usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmbx9.pfb></usr/local
-/texlive/2019/texmf-dist/fonts/type1/public/lm/lmbxi10.pfb></usr/local/texlive/
-2019/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/local/texlive/2019/texmf
--dist/fonts/type1/public/lm/lmmi12.pfb></usr/local/texlive/2019/texmf-dist/font
-s/type1/public/lm/lmr10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/pub
-lic/lm/lmr12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmr7
-.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/lm/lmr9.pfb></usr/l
-ocal/texlive/2019/texmf-dist/fonts/type1/public/lm/lmri10.pfb></usr/local/texli
-ve/2019/texmf-dist/fonts/type1/public/lm/lmri9.pfb></usr/local/texlive/2019/tex
-mf-dist/fonts/type1/public/lm/lmsy10.pfb>
-Output written on ./build/principal.pdf (114 pages, 26407919 bytes).
+ 14273 strings out of 482820
+ 257498 string characters out of 5957805
+ 509983 words of memory out of 5000000
+ 28577 multiletter control sequences out of 15000+600000
+ 609880 words of font info for 74 fonts, out of 8000000 for 9000
+ 81 hyphenation exceptions out of 8191
+ 44i,12n,47p,1237b,482s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/share/texmf/fonts/en
+c/dvips/lm/lm-ec.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-rm.enc}{/usr/share
+/texmf/fonts/enc/dvips/lm/lm-ts1.enc}{/usr/share/texmf/fonts/enc/dvips/lm/lm-ma
+thsy.enc}</usr/share/texmf/fonts/type1/public/lm/lmbx10.pfb></usr/share/texmf/f
+onts/type1/public/lm/lmbx12.pfb></usr/share/texmf/fonts/type1/public/lm/lmbx9.p
+fb></usr/share/texmf/fonts/type1/public/lm/lmbxi10.pfb></usr/share/texmf/fonts/
+type1/public/lm/lmmi10.pfb></usr/share/texmf/fonts/type1/public/lm/lmmi12.pfb><
+/usr/share/texmf/fonts/type1/public/lm/lmr10.pfb></usr/share/texmf/fonts/type1/
+public/lm/lmr12.pfb></usr/share/texmf/fonts/type1/public/lm/lmr7.pfb></usr/shar
+e/texmf/fonts/type1/public/lm/lmr9.pfb></usr/share/texmf/fonts/type1/public/lm/
+lmri10.pfb></usr/share/texmf/fonts/type1/public/lm/lmri9.pfb></usr/share/texmf/
+fonts/type1/public/lm/lmsy10.pfb>
+Output written on build/principal.pdf (123 pages, 28798777 bytes).
 PDF statistics:
- 1816 PDF objects out of 2073 (max. 8388607)
- 1446 compressed objects within 15 object streams
- 508 named destinations out of 1000 (max. 500000)
- 1448 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1941 PDF objects out of 2073 (max. 8388607)
+ 1513 compressed objects within 16 object streams
+ 539 named destinations out of 1000 (max. 500000)
+ 1568 words of extra memory for PDF output out of 10000 (max. 10000000)
 
