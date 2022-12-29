@@ -5,7 +5,6 @@ The lectures are organized by topic as following:
 - Transcription regulation and its deregulation in cancer: lecture 5,6
 - Chromosome domains and oncogene activation: lecture 7,8,10
 - Targeting transcription in cancer: lecture 13,15,17
-- Transcription and genome instability: lecture 19,20,21
-- Role of transcription in DNA damage response and repair: lecture 22
+- Genome instability and DNA damage response and repair: lecture 19,20,21, 22
 - Telomeres and telomere transcription in cancer: lecture 23,24
 - Journal clubs: lecture 9,11,12,14,16

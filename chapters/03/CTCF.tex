@@ -5,7 +5,7 @@
 \section{Genome organization and transcription regulation}
 
 \subsection{CTCF}
-An enhancer can work at very high distance with respect to the gene of interest; this means that enhancers have the possibility to regulate many different promoters, how can enhancer activity be directed to a specific target promoter?
+An enhancer can work at very high distance with respect to the gene of interest; this means that enhancers have the possibility to regulate many different promoters. How can enhancer activity be directed to a specific target?
 
 \textbf{\emph{Insulator sequences}} prevent the propagation of enhancers signals along the chromatin fiber through their enhancer blocking function mediated by proteins. Insulator genes are usually found at a region densely distributed with genes. They can act in long distance, do not need specific direction and the sequences are recognized by proteins. The main insulator binding protein is a factor called CCCTC-binding factor (CTCF).
 
@@ -15,7 +15,7 @@ CTCF is the main \emph{insulator-binding protein} in vertebrates. ChIP shows tha
 
 CTCF is enriched at the H3K27me3 domain boundaries (CTCF barrier sites). A larger genomic region was analyzed in different cell lines. Almost no overlap was found in the CTCF barrier sites between CD4T cells and HeLa cells, suggesting that CTCF barriers are cell-type-specific. In some cells the site is at the boundary, in others not.
 
-We now know that heterochromatic marks spread up to insulator sequences, which can be recognized by protein and recruit directly or indirectly chromatin remodelling factors.
+We now know that heterochromatic marks spread up to insulator sequences, which can be recognized by proteins and recruit directly or indirectly chromatin remodelling factors.
 
 Main findings:
 
@@ -35,7 +35,7 @@ The function of CTCF appears to be regulated at least at two levels:
 \def\labelenumi{\arabic{enumi}.}
 \tightlist
 \item
-  binding of CTCF to the target sites.
+  binding of CTCF to the target sites
 \item
   binding of interacting proteins, providing its functionality
 \end{enumerate}
@@ -45,7 +45,7 @@ The function of CTCF appears to be regulated at least at two levels:
 
 CTCF was found to interact with cohesins (composed of SMC3, SMC1, SCC1 and SCC3 subunits), which are essential to maintain sister chromatids connected from S phase to metaphase. Cohesins are loaded on chromosomes during G1, but the function is exerted later on. For achieving anaphase, the ring is cut by securins - regulated by APC.
 
-Cohesin is expressed in differentiated postmitotic cells. We expect that replicating cells express cohesin, as it is heavily required in cell cycle. Pulling down SMC3 in mouse brain we still observe a signal, it is probably linked to an additional function of the complex. During G2 we expect that cohesins are holding together sister chromatids, which instead are absent in G1; the binding site is the same, checked by ChIP-Seq $\rightarrow$ cohesin binds to the same sites independent on cohesion CTCF and cohesion share several binding sites (Figure \ref{fig:chip}).
+Cohesin is expressed in differentiated postmitotic cells. We expect that replicating cells express cohesin, as it is heavily required in cell cycle. Pulling down SMC3 in mouse brain we still observe a signal, it is probably linked to an additional function of the complex. During G2 we expect that cohesins are holding together sister chromatids, which instead are absent in G1; the binding site is the same, checked by ChIP-Seq $\rightarrow$ cohesin binds to the same sites independently of CTCF cohesion and cohesins share several binding sites (Figure \ref{fig:chip}).
 
 \begin{figure}
 \centering
@@ -54,9 +54,7 @@ Cohesin is expressed in differentiated postmitotic cells. We expect that replica
 \label{fig:chip}
 \end{figure}
 
-By looking at CTCF KO the binding is lost, as well as SCC1 binding.
-
-Cohesin and CTCF co-occupy thousands of genomic binding sites and share the same consensus sequence. In particular, CTCF KO impairs SCC1 binding.
+By looking at CTCF KO the binding is lost, as well as SCC1 binding. Cohesin and CTCF co-occupy thousands of genomic binding sites and share the same consensus sequence. In particular, CTCF KO impairs SCC1 binding.
 
 \emph{Does cohesion contribute to CTCF enhancer blocking function?}
 
@@ -91,7 +89,7 @@ Upon CTCF insulator protein (orange) binding to its DNA consensus sequence, the 
 
 \subsection{CTCF and Cohesin in Genome Folding and Transcriptional Gene Regulation}
 
-CTCF binding motifs tend to interact with each other forming a \emph{chromatin loop}. During interphase, DNA is not condensed as in a canonical chromosome, each chromosome forms territories with hierarchical distribution of 3D folding. Different territories can overlap with each other, depending on the extent of histone modificationa. We find compartments, territories and 3D folding of chromatin made by loops. Loops are possibly obtained thanks to the action of cohesins: in \textbf{\emph{loop extrusion}}, a cohesin can slide on DNA for circling 2 ds filaments, until it reaches CTCF is a specific direction. The directionality of CTCF DNA sequences at the loop boundaries indicates the presence of a ``tracking'' mode for DNA loop formation instead of a simple 3D diffusion.
+CTCF binding motifs tend to interact with each other forming a \emph{chromatin loop}. During interphase, DNA is not condensed as in a canonical chromosome, each chromosome forms territories with hierarchical distribution of 3D folding. Different territories can overlap with each other, depending on the extent of histone modifications. We find compartments, territories and 3D folding of chromatin made by loops. Loops are possibly obtained thanks to the action of cohesins: in \textbf{\emph{loop extrusion}}, a cohesin can slide on DNA for circling 2 ds filaments, until it reaches CTCF is a specific direction. The directionality of CTCF DNA sequences at the loop boundaries indicates the presence of a ``tracking'' mode for DNA loop formation instead of a simple 3D diffusion.
 
 \begin{figure}
 \centering
@@ -163,11 +161,12 @@ A Hi-C map, or \textbf{contact matrix}, is a list of DNA-DNA contacts produced b
 \centering
 \includegraphics[width=0.7\textwidth]{../_resources/Screenshot_2022-10-25_at_11-47-30.png}
 \caption{Lieberma-Aiden \emph{et al., Science} 2009}
+\label{fig:int}
 \end{figure}
 
 Changing restriction enzyme, a similar pattern is observed. The closer two sequences are in linear form, the higher their contact probability (frequency of interaction).
 
-The probability of contact decreases as a function of genomic distance on chromosome 1. Interchromosomal interactions are depleted relative to intrachromosomal interactions. The level of interchromosomal contact differs for different pairs of chromosomes. This suggests that the chromosomes form defined territories, with an overall frequency of interaction.
+The probability of contact decreases as a function of genomic distance on chromosome 1. Interchromosomal interactions are depleted relative to intrachromosomal interactions. The level of interchromosomal contact differs for different pairs of chromosomes. This suggests that the chromosomes form defined territories, with an overall frequency of interaction (Figure \ref{fig:int}).
 
 Depending on the chromosome, we can find preferential contacts. Example: 20-21-22 region. In low resolution, we observe conserved interaction for synthetic or orthologous sequences.
 
@@ -199,7 +198,7 @@ Figure \ref{fig:fish}: 3D-FISH to probe four loci (L1, L2, L3, and L4) on chromo
 \hypertarget{optimization-of-hi-c-approach}{%
 \subsection{Optimization of Hi-C approach}\label{optimization-of-hi-c-approach}}
 
-Digestion \emph{in situ}, permeabilize nuclei from cell and without lysing them introduce restriction enzyme cutting 4 nucleotide bases $\rightarrow$ 1kb resolution (Figure \ref{fig:kb}), proximity ligation performed in intact nuclei (reducing the frequency of spurious contacts).
+Digestion \emph{in situ}, permeabilize nuclei from cell and without lysing them introduce restriction enzyme cutting 4 nucleotide bases $\rightarrow$ 1kb resolution (Figure \ref{fig:kb}), proximity ligation performed in intact nuclei reducing the frequency of spurious contacts).
 
 \begin{figure}[!htb]
    \begin{minipage}{0.48\textwidth}
@@ -226,7 +225,7 @@ We can divide a compartment in 6 subcompartments: A1,A2,B1,B2,B3 and B4. The gen
 
 Depending on the resolution, we can define subcomparments or domains TADs (Figure \ref{fig:sub}).
 
-Chromosome compartments are formed by aggregation of multiple domains with similar biochemical or functional properties. In literature some studies indicate `'sub-TADs'' or `'insulated neighborhoods'' to refer to domains identified by high-resolution Hi-C as being smaller than the domains TADs, either ordinary or loop domains.
+Chromosome compartments are formed by aggregation of multiple domains with similar biochemical or functional properties. In literature some studies indicate ``sub-TADs'' or ``insulated neighborhoods'' to refer to domains identified by high-resolution Hi-C as being smaller than the domains TADs, either ordinary or loop domains.
 
 The frequency of interaction can also be depicted as a linear genomic coordinate. A Hi-C map can be integrated with ChIP-seq and RNA-seq data to assess the complexity of the domains identified by low resolution data.
 
@@ -269,11 +268,11 @@ This structure helps explain why enhancers generally control only a limited numb
 
 Do enhancers and promoters randomly interact within the same loop domain? Probably not, since single CTCF loops can contain both active and inactive genes.
 
-Enhancer-gene interactions occur in insulated neighborhoods by synergic activity of Mediator and Cohesin, and not CTCF.
+Enhancer-gene interactions occur in insulated neighborhoods by the synergistic activity of Mediator and Cohesin, and not CTCF.
 
-Mediator and cohesin physically and functionally connect the enhancers and core promoters of active genes within DNA loop domains in murine embryonic stem cells. When the transcription activators bind mediator, the mediator complex undergoes a conformational change, and this activator-bound form of mediator binds cohesin and its loading factor Nipbl, which all contribute to gene activity and DNA looping. Mediator and cohesin co-occupy different promoters in different cells, thus generating cell-type-specific DNA loops linked to the gene expression program of each cell.
+Mediator and cohesin physically and functionally connect the enhancers and core promoters of active genes within DNA loop domains in murine embryonic stem cells. When the transcription activators bind the mediator, the mediator complex undergoes a conformational change, and this activator-bound form of mediator binds cohesin and its loading factor Nipbl, which all contribute to gene activity and DNA looping. Mediator and cohesin co-occupy different promoters in different cells, thus generating cell-type-specific DNA loops linked to the gene expression program of each cell.
 
-There are different binding sites for cohesin mediator and cohesin CTCF. Distinct overlapping pattern in interaction sites, depletion by shRNA results in a very similar gene expression.
+There are different binding sites for cohesin mediator and cohesin CTCF. We observe distinct overlapping pattern in interaction sites, depletion by shRNA results in a very similar gene expression.
 
 \textbf{Co-IP:}
 
@@ -294,11 +293,6 @@ Adapt Co-IP with ChIP: protein in chromatin complex, instead of extracting RNA d
 
 Co-IP results indicate that Cohesin and Mediator interact. Chromosome Comformation Capture (3C) analyses confirmed DNA looping between promoters and enhancers of active genes. Depleting cohesin, frequency of interaction is disrupted, similar as Mediator 12.
 
-Mediator and cohesin physically and functionally connect the enhancers and core
-promoters of active genes within DNA loop domains in murine embryonic stem cells
-
-When the transcription activators bind mediator, the mediator complex undergoes a conformational change, and this activator-bound form of mediator binds cohesin and its loading factor Nipbl, which all contribute to gene activity and DNA looping. Mediator and cohesin co-occupy different promoters in different cells, thus generating cell-type-specific DNA loops linked to the gene expression program of each cell.
-
 \hypertarget{promoter-enhancer-communication-occurs-primarily-within-insulated-neighbourhoods}{%
 \subsection{Promoter-Enhancer Communication Occurs Primarily within Insulated neighbourhoods}\label{promoter-enhancer-communication-occurs-primarily-within-insulated-neighbourhoods}}
 
@@ -313,7 +307,7 @@ Computational analyses of published CTCF and Smc1 ChIA-PET datasets enabled iden
 
 The sites of co-binding of cohesin and CTCF define \emph{DNA loops boundaries}. We can recognize promoters by TAF2 Hac, POL II (not much Med26, repressive).
 
-Enrichment at the boundaries, functional meaning has not yet been defined. Group promoters in quartiles (Q1-Q4) according to efficiency of transcription. The extent of interaction in loops is not necessarily dependent on the frequency of interaction. Capture Hi-C showed that almost 80\% of promoter-interacting loci are constrained within the insulator or at the boundaries; these interactions do not correlate with transcription levels.
+The main enrichment is at the boundaries, its functional meaning has not yet been defined. We can group promoters in quartiles (Q1-Q4) according to efficiency of transcription. The extent of interaction in loops is not necessarily dependent on the frequency of interaction. Capture Hi-C showed that almost 80\% of promoter-interacting loci are constrained within the insulator or at the boundaries; these interactions do not correlate with transcription levels.
 
 Distribution of the indicated proteins binding and promoter Hi-C interactions in insulated neighbourhoods in different RNA expression quartiles.
 
@@ -327,9 +321,8 @@ Now that a system to inactivate enhancers is in place, the authors can test whet
 
 \subsection{Depletion of Mediator causes loss of PIC assembly}
 
-Hierarchical structures of chromosomal domains, DNA loops can be clustered, single\ldots{}
 Most enhancer-promoter interactions occur during in DNA loops, also called insulated neighborhoods. In the paper, they managed to isolate genes inside the DNA loops.
-Hypothesis: in DNA loop are present oncogene, which can be activate by different mechanisms, listed in Figure \ref{fig:proto}.
+Hypothesis: oncogenes are present in DNA loops, which can be activate by different mechanisms, listed in Figure \ref{fig:proto}.
 
 \begin{figure}
 \centering
@@ -340,18 +333,18 @@ Hypothesis: in DNA loop are present oncogene, which can be activate by different
 
 \emph{Is there a way for DNA loops to promote oncogene transcription?}
 
-In Jurkat cells , 9038 CTCF loops were identified with median length of 270 kb, containing 2-3 genes on average. They crossed adult and embryonic cell lines to discover TADs. Through other analyses they tried to find out presence of loops, enhancer and actively transcripted RNA.
+In Jurkat cells , 9038 CTCF loops were identified with median length of 270 kb, containing 2-3 genes on average. They crossed adult and embryonic cell lines to discover TADs. Through other analyses they tried to find out the presence of loops, enhancer and actively transcripted RNA.
 
-They found out that most cohesin associated enhancer-promoter interactions occurs within CTCF-CTCF loops.
+They found out that most cohesin associated enhancer-promoter interactions occur within CTCF-CTCF loops.
 
 40/55 known oncogenes in the cell line map in insulated neighborhoods. E.g: LMO2 would not usually be transcribed because enclosed in the loop.But with the help of super-enhancers, proto oncogenes like TAL1 can be transcribed.
 
 \textbf{Both active oncogenes and silent proto-oncogenes are located within insulated neighborhoods in Jurkat cells}. 
-The main hypothesis states that some insulated neighborhoods function to prevent proto-oncogene activation, then some T-ALL tumor cells may have genetic alterations that perturbs the CTCF bourdaries of neighborhoods containing T-ALL oncogenes.
+The main hypothesis states that some insulated neighborhoods function to prevent proto-oncogene activation, then some T-ALL tumor cells may have genetic alterations that perturb the CTCF bourdaries of neighborhoods containing T-ALL oncogenes.
 
-Example: deletion in promoter of TAL1 -\textgreater{} its transcription is initiated by STIL promoter, which is normally active in T-Cells. TAL1 is normally silenced after fetal stage. Using CRISPr/Cas9 they removed a little piece on the boundary. Disruption of insulated neighborhood boundaries is linked to proto-oncogene activation (Figure \ref{fig:cas}).
+Example: deletion in promoter of TAL1 $\rightarrow$ its transcription is initiated by STIL promoter, which is normally active in T-Cells. TAL1 is usually silenced after fetal stage. Using CRISPr/Cas9 they removed a little piece on the boundary. Disruption of insulated neighborhood boundaries is linked to proto-oncogene activation (Figure \ref{fig:cas}).
 
-The silent state of the TAL1 proto-oncogene is dependent on the integrity of the insulated neighborhood TAL1 encodes a transcription factor that is overexpressed in \textasciitilde50\% of T-ALL cases and is a key oncogenic driver of this cancer (Figure \ref{fig:tal1}).
+The silent state of the TAL1 proto-oncogene is dependent on the integrity of the insulated neighborhood. TAL1 encodes a transcription factor that is overexpressed in \textasciitilde50\% of T-ALL cases and is a key oncogenic driver of this cancer (Figure \ref{fig:tal1}).
 
 \begin{figure}[!htb]
    \begin{minipage}{0.48\textwidth}
@@ -367,7 +360,7 @@ The silent state of the TAL1 proto-oncogene is dependent on the integrity of the
    \end{minipage}
 \end{figure}
 
-They tried to do the same on another locus, without the mediation of enhancer or promoters. Even in this case,  the disruption of DNA loop allows for the transcription of proto oncogenes.
+They tried to do the same on another locus, without the mediation of enhancers or promoters. Even in this case,  the disruption of DNA loop allows for the transcription of proto oncogenes.
 
 CTCF in constitutive neighborhoods (present in all cell lines) has a somatic mutation in this cancer, but not the ones in non-boundary CTCF sites (specific to the cell lines). It becomes clear that somatic mutations of insulated neighborhood boundaries occur in the genomes of many different cancers.
 
@@ -411,11 +404,11 @@ These circuits underline the tissue-specificity of most cancers. TAL1 requires a
 \hypertarget{how-is-a-se-generated-during-tumorigenesis}{%
 \subsection{How is a SE generated during tumorigenesis?}\label{how-is-a-se-generated-during-tumorigenesis}}
 
-Even SNPs can generate super-enhancers! TAL1 SE was not found in T cells, or hematopoietic stem and progenitor cells (HSPCs). 3C experiments identified a looping interaction within the SE (red arrow), not anymore an insulated neighborhood in this particular site (Figure \ref{fig:talju}).
+Even SNPs can generate super-enhancers. TAL1 SE was not found in T cells, or hematopoietic stem and progenitor cells (HSPCs). 3C experiments identified a looping interaction within the SE (red arrow), not anymore an insulated neighborhood in this particular site (Figure \ref{fig:talju}).
 
-When investigating the reason for this difference, they found out that some nucleotide addition (but not much). Small insertion leads to a TFBS in T-ALL cancer cell lines. Only transcription factors expressed in T-ALL cells are involved in the activation of the mutant enhancer.
+While investigating the reason for this difference, they found out some nucleotide addition (but not much). A small insertion leads to a TFBS in T-ALL cancer cell lines. Only transcription factors expressed in T-ALL cells are involved in the activation of the mutant enhancer.
 
-BUT a mutation on the promoter of TAL1 is not enough. We need all the transcription circuit of the actors that co-regulate each-other. The Mediator binding pattern stretching for 20kb, overlapping with the H2K27ac mark (seen in previous ChIP), indicates the presence of a super-enhancer. Not observed in HPSCs or T-ALL cells devoid of the mutated TAL1 enhancer site: it is the de novo MYB site to promote TAL1 complex formation and induce TAL1 expression.
+But a mutation in the promoter of TAL1 is not enough. We need all the transcription circuit of the actors that co-regulate each-other. The Mediator binding pattern stretching for 20kb, overlapping with the H2K27ac mark (seen in previous ChIP), indicates the presence of a super-enhancer. Not observed in HPSCs or T-ALL cells devoid of the mutated TAL1 enhancer site: it is the de novo MYB site to promote TAL1 complex formation and induce TAL1 expression.
 
 ChIP seq revealed the presence of a TAL1 complex, including MYB, at the TAL1 mutated enhancer.
 Targeted deletion of the TAL1 enhancer mutation collapses the TAL1 super-enhancer (Figure \ref{fig:deltal}).
@@ -464,19 +457,19 @@ In the study \textbf{Identification of focally amplified lineage-specific super-
 \end{itemize}
 
 \textbf{KLF5} is a putative oncogene that can be upregulated in tumors by super-enhancer amplification.
-For the \textbf{MYC} genes, they found data in two different cancer lines. Selectivity of amplification depending on the cell line.
+For the \textbf{MYC} genes, they found data in two different cancer lines. Selectivity of amplification depends on the cell line.
 Tumors with amplification of MYC alone or MYC-LASE or MYC-ECSE alone express higher levels of MYC than tumors lacking either amplification (meaning, there's no need for the tumor to evolve a over-expression of MYC).
 
-NFE2L2 and CEBPB transcription factors regulate the e3 enhancer: so to study it, we can downregulate these two factors.
+NFE2L2 and CEBPB transcription factors regulate the e3 enhancer; to study it, we can downregulate these two factors.
 
 \textbf{Conclusion: MYC regulation changes based on the tumor and tissue type.}
-If we are in a cancer setting we can target a super-enhancer and we impact the expression of the target gene. However, there are several onco-genes in a cancer setting.
+If we are in a cancer setting, we can target a super-enhancer and we impact the expression of the target gene. However, there are several onco-genes in a cancer setting.
 
 \hypertarget{the-role-of-myc-in-cancer-cells}{%
 \section{The role of MYC in cancer cells}\label{the-role-of-myc-in-cancer-cells}}
 
 In cancer, MYC is always the most amplified gene. MYC is the downstream target of so many pro-proliferation pathways, these cells are not even under selective pressure to activate the pathways.
-It has a great impact on cells!
+It has a great impact on cells.
 
 \begin{figure}
 \centering
@@ -485,7 +478,7 @@ It has a great impact on cells!
 \label{fig:inhi}
 \end{figure}
 
-The inhibition of MYC and APC rescues or prevent tumorigenesis. By removing one single target gene we can have drastic results and MYC is capable of driving tumorigenesis on its own (Figure \ref{fig:inhi}).
+The inhibition of MYC and APC rescues or prevents tumorigenesis. By removing one single target gene, we can have drastic results and MYC is capable of driving tumorigenesis on its own (Figure \ref{fig:inhi}).
 
 In most human tumour types, the expression of MYC proteins is deregulated and enhanced relative to the corresponding normal tissue, and high MYC expression often correlates with poor prognosis. \textbf{MYC induces cell proliferation and growth} in the absence of external growth factors. Conversely, inhibition of MYC almost invariably suppresses cell proliferation.
 Transgenic mouse studies provided the evidence that deregulated expression of MYC is sufficient to drive tumorigenesis in a number of transgenic mouse tissue.
@@ -500,7 +493,7 @@ Transgenic mouse studies provided the evidence that deregulated expression of MY
 \label{fig:key}
 \end{figure}
 
-Cells become addicted to a single oncogene! (and to transcription in general). The key aspects of MYC are recapitulated in Figure \ref{fig:key}.
+Cells become addicted to a single oncogene (and to transcription in general). The key aspects of MYC are recapitulated in Figure \ref{fig:key}.
 
 \hypertarget{myc-transcription-factor-forms-a-heterodimer-with-max}{%
 \subsubsection{MYC transcription factor forms a heterodimer with MAX}\label{myc-transcription-factor-forms-a-heterodimer-with-max}}
@@ -519,7 +512,7 @@ MXD and MYC act as antagonists. MXD proteins can recruit histone deacetylases an
 MYC-MAX bind to thousands of genes whose identity depends on the cellular transcriptome and the abundance of MYC protein (Figure \ref{fig:maxmyc}).
 
 
-Studying MYC is very difficult. What we know is that if we do a chIP for MYC we have an extreme range of possible results, result is basically random. For RNA-seq: regulation of genes from MYC is also very subtle, with down-up regualted genes changing like 20\%, but also transcribe for TF that regulate their own site.
+Studying MYC is very difficult. What we know is that if we do a chIP for MYC we have an extreme range of possible results, i.e, result is basically random. For RNA-seq: regulation of genes from MYC is also very subtle, with down-up regualted genes changing like 20\%, but also transcribe for TF that regulate their own site.
 
 \begin{figure}[!htb]
    \begin{minipage}{0.48\textwidth}
@@ -545,12 +538,12 @@ Trunk sustains the outcome of MYC, but the net outcome of MYC interaction and tr
 \label{fig:ppmyc}
 \end{figure}
 
-MYC is not a pioneer TF! So important interaction with proteins recruited on the chromatin.
-With open chromatin state, we have un-specific transcription. In addition to regulate its own target genes, MYC can `\textbf{amplify}' the transcriptional program already active in a cell, leading to a signature which is cell type-specific. MYC increases the expression of (already poised) thousands of genes (Figure \ref{fig:ppmyc}).
+MYC is not a pioneer TF, hence the interaction with proteins recruited on chromatin is highly relevant.
+With open chromatin state, we have un-specific transcription. In addition to the regulation of its own target genes, MYC can `\textbf{amplify}' the transcriptional program already active in a cell, leading to a signature which is cell type-specific. MYC increases the expression of (already poised) thousands of genes (Figure \ref{fig:ppmyc}).
 
 It depends a lot on the level of MYC2: since there are low affinity and high affinity binding sites, the more the MYC the higher the probability of MYC binding the low-affinity regions. Genes can be either down or up regulated.
 
-BUT tumorigenesis is not only about proliferation: we need proteins, membranes,\ldots{} obviously MYC is also involved in anti-apoptosis behaviour, energy metabolism etc.
+However, tumorigenesis is not only about proliferation: we need proteins, membranes,\ldots{} obviously MYC is also involved in anti-apoptosis behaviour, energy metabolism etc.
 
 \begin{figure}
 \centering
@@ -563,7 +556,7 @@ BUT tumorigenesis is not only about proliferation: we need proteins, membranes,\
 \subsection{By which major mechanism or pathway do MYC proteins promote tumorigenesis?}\label{by-which-major-mechanism-or-pathway-myc-proteins-promote-tumorigenesis}}
 
 The final outcome of MYC gene regulation depends on the network of MYC interactions, in particular MYC-MAX
-and MAX-MXD and by the transcriptional program of the cells.
+and MAX-MXD, and by the transcriptional program of the cells.
 MYC is a mild transcriptional modulator, inducing moderate changes in mRNA levels.
 It is able to regulate the expression of several other transcription factors and cofactors, including E2F proteins,
 Polycomb group repressive complex 2 (PRC2) components, along with microRNAs (miRNAs), thus orchestrating
@@ -580,5 +573,5 @@ In conclusion, MYC activation contributes to several hallmarks of cancer:
 \item activation of the angiogenic switch
 \item suppression of the response to autocrine and paracrine regulatory programs
 \item restraint of host immune responses
-\item The transcription rewiring induced by oncogenic Myc levels also renders cancer cells addicted to this particular oncogene
+\item the transcription rewiring induced by oncogenic Myc levels also renders cancer cells addicted to this particular oncogene
 \end{enumerate}
