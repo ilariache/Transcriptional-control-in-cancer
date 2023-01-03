@@ -37,7 +37,7 @@ Summarising, transcription initiation follows:
 \item
   TFIID + TBP promoter recognition $\rightarrow$ PIC assembly
 \item
-  TFIIA recruitment stabilises the TBP-DNA complex
+  TFIIA recruitment stabilises the TBP-DNA complex and bends DNA
 \item
   TFIIB stabilises TBP-DNA and TBP-DNA-Pol II complexes, binds the template strand to position DNA for initiation of RNA syntehsis (setting the TSS); stimulates RNA synthesis by allosterically rearranging active site residues and stabilizing closed polymerase clamp
 \item
@@ -61,7 +61,7 @@ How does this start?~\emph{What makes a promoter all of a sudden accessible to T
 \hypertarget{chromatin-remodeling}{%
 \section{Chromatin remodeling}\label{chromatin-remodeling}}
 
-Nucleosomes are the functional units of protein. In nucleosomes the position of each major groove facing the histone octamer is designed as a \textbf{superhelix location} (SHL), numbered from 0 at the Dyad to ±7.
+Nucleosomes are the functional units of protein. In nucleosomes the position of each major groove facing the histone octamer is designed as a \textbf{superhelix location} (SHL), numbered from 0 at the Dyad to ±7. The dyad is the center of the nucleosomal DNA, setting a two-fold axis.
 
 Proteins cannot easily associate with DNA sequences that touch the nucleosomal histone surface. Nucleosomal DNA is bent around the histone octamer~--~target sequences can be distorted or unrecognizable. GC-rich sequences with AA, TT or TA dinucleotides spaces by 10 bp bend more easily and display higher affinity for the histone octamer~``nucleosome positioning sequences''.
 
@@ -70,7 +70,7 @@ Nucleosome unwrapping is influenced by histone PTMs. In particular, certain comb
 \begin{itemize}
 \tightlist
 \item
-  acetylated H3K56 enhances the unwrapping of the DNA at the entry/exit sites of the nucleosome.
+  acetylated H3K56 enhances the unwrapping of the DNA at the entry/exit sites of the nucleosome (DNA breathing)
 \item
   acetylated H4K91 leads to nucleosome instability - H4K91 lays in the H3-H4 and H2A-H2B interaction surface
 \end{itemize}
@@ -141,11 +141,28 @@ The unpeeling of DNA segments from the histone surface can lead to a delocalizat
 
 ATP-dependent chromatin remodelling enzymes can act cooperatively with \textbf{histone chaperones} to generate or disassemble nucleosomes. Chaperones associate with histones upon their synthesis, escort them into the nucleus, and aid in their specific association with DNA during different processes such as DNA replication, repair, or transcription. Histone Chaperones participate in assembly or disassembly nucleosomes in vitro or in vivo without using the energy of ATP.
 
-Example: SWR and Inositol-requiring protein 80 (INO80) chromatin remodelling complexes regulate histone turnover and histone variant H2A.Z deposition. HIRA complex regulates H3.3 deposition at genes and regulatory elements.
+Example: SWR and Inositol-requiring protein 80 (INO80) chromatin remodelling complexes regulate histone turnover and histone variant H2A.Z deposition (Figure \ref{fig:h2az}). HIRA complex regulates H3.3 deposition at genes and regulatory elements (Figure \ref{fig:h33}).
 
 \textbf{H2A.Z} has extended acidic patches on the surface which stimulate remodeling activities and weaken DNA interaction and may play a role in Pol II recruitment - it is lost at promoters upon RNA PolII loading. H2A.Z comprises 15\% of total H2A and it is post translationally modified (acetyated, polyubiquitinilate\ldots).
 
 The most rapid \textbf{nucleosome turnover} occurs over promoters, tRNA, and small nucleolar RNA genes (often studied in over expression settings).
+
+\begin{figure}[!htb]
+   \begin{minipage}{0.48\textwidth}
+     \centering
+     \includegraphics[width=0.8\textwidth]{../_resources/Screenshot_2022-10-14_at_12-11-11.png}
+\caption{Herold \emph{et al., Development,} 2012}
+\label{fig:h2az}
+   \end{minipage}\hfill
+   \begin{minipage}{0.48\textwidth}
+     \centering
+     \includegraphics[width=0.8\textwidth]{../_resources/Screen_Shot_2022-12-30_at_16-34-58.png}
+\caption{Parelho et al, Cell, 2008}
+\label{fig:h33}
+   \end{minipage}
+\end{figure}
+
+PIC formation at a core promoter requires a nucleosome depleted region (Figure \ref{fig:pronucleo}). This could be achieved by \textbf{RSC} binding to the AT-rich region in the promoter, freeing the NDR. Next, \textbf{HIRA} performs the replacement of H3-H4 by H3.3-H4 and \textbf{SWR} replaces the H2A-H2B dimer by H2A.Z-H2B dimer. Finally, \textbf{INO80} replaces H2A.Z-H2B by H2-A and H2B. The resulting scenario exhibits unmethylated CpG islands in NDR region, allowing for PIC formation.
 
 \begin{figure}
 \centering
@@ -153,8 +170,6 @@ The most rapid \textbf{nucleosome turnover} occurs over promoters, tRNA, and sma
 \caption{Venkatesh and Workman, Nature Rev Mol Cell Biol, 2015}
 \label{fig:pronucleo}
 \end{figure}
-
-PIC formation at a core promoter requires a nucleosome depleted region (Figure \ref{fig:pronucleo}). This could be achieved by \textbf{RSC} binding to the AT-rich region in the promoter, freeing the NDR. Next, \textbf{HIRA} performs the replacement of H3-H4 by H3.3-H4 and \textbf{SWR} replaces the H2A-H2B dimer by H2A.Z-H2B dimer. Finally, \textbf{INO80} replaces H2A.Z-H2B by H2-A and H2B. The resulting scenario exhibits unmethylated CpG islands in NDR region, allowing for PIC formation.
 
 \subsection{Chromatin Immunoprecipitation} 
 (ChIP) experiments to determine protein-DNA interactions require a \emph{crosslinking} step.
@@ -195,7 +210,7 @@ Most promoters (98\%) occupied by Pol II are also occupied by histone H3K4me3 an
 \begin{itemize}
 \tightlist
 \item
-  \textbf{H3K4me3}-modified nucleosomes are found at sites of transcription. H3K4me3 enrichment is detectable in almost 80\% of all protein-coding genes within 1 kb of known or predicted transcript start sites. Only 30-40\% of protein coding genes are expressed in human embryonic stem cells. Histone H3K4me3 is observed also at the promoters of genes for which there is no evidence of transcription in ES cells - typically lower than in active genes. Genes not enriched in H3K4me3 are found in clusters along the genome. The vicinity of these genes on the genome suggest that their expression they may be regulated sinergically.
+  \textbf{H3K4me3}-modified nucleosomes are found at sites of transcription initiation. H3K4me3 enrichment is detectable in almost 80\% of all protein-coding genes within 1 kb of known or predicted transcript start sites. Only 30-40\% of protein coding genes are expressed in human embryonic stem cells. Histone H3K4me3 is observed also at the promoters of genes for which there is no evidence of transcription in ES cells - typically lower than in active genes. Genes not enriched in H3K4me3 are found in clusters along the genome. The vicinity of these genes on the genome suggest that their expression they may be regulated sinergically.
 \item
   \textbf{H3K9-14Ac} were enriched at the promoters of nearly 70\% of genes, including both transcriptionally active and inactive genes. Nearly all of the promoters (\textgreater95\%) acetylated on H3K9 and H3K14 were also enriched for H3K4me3.
 \item
@@ -204,7 +219,7 @@ Most promoters (98\%) occupied by Pol II are also occupied by histone H3K4me3 an
 
 \hypertarget{rt-qpcr-based-detection-of-5-rna-transcripts-of-inactive-genes}{%
 \subsection{RT-qPCR based detection of 5' RNA transcripts of inactive genes}\label{rt-qpcr-based-detection-of-5-rna-transcripts-of-inactive-genes}}
-
+\emph{Do inactive genes experience transcription initiation?}
 \begin{enumerate}
 \def\labelenumi{\arabic{enumi}.}
 \tightlist
@@ -240,7 +255,7 @@ Protein-coding genes can fall into three groups of regulatory behaviour:
 
 \hypertarget{global-run-on-sequencing-gro-seq}{%
 \subsection{Global run-on sequencing (GRO-seq)}\label{global-run-on-sequencing-gro-seq}}
-
+\emph{How can we determine whether PolII at TSS is engaged in active transcription?}
 Global run-on sequencing (GRO-Seq) enables to map the presence of elongating RNA pol in the chromatin context by detection of the nascent transcripts. The \emph{Sarkosyl treatment} permeabilizes nuclear membranes, prevents RNA Pol from binding DNA (if not already bound), disassembles chromatin and dissociates pausing factors.
 
 \begin{figure}
@@ -249,17 +264,17 @@ Global run-on sequencing (GRO-Seq) enables to map the presence of elongating RNA
 \caption{Core et al, 2008}
 \end{figure}
 
-Results: only few paused genes are transcriptionally inactive.
+Only few paused genes are transcriptionally inactive.
 \textbf{Pausing} can be seen as a mechanism for tuning expression from active genes rather than a means of gene inactivation. The paused Pol II remains stably associated with the nascent RNA and is fully capable of resuming elongation; however, further signals are needed to elicit the transition to a productive elongation complex.
 
 \emph{Pausing index}: ratio of Pol II density on promoter to gene body.
 
-The \textbf{CTD} undergoes dynamic changes in phosphorylation and dephosphorylation during transcription. The CTD is a long unstructured domain consisting of \(Y_1S_2P_3T_4S_5P_6S_7\) tandem repeats. \textbf{Cyclin-dependent kinases} (CDKs) are serine/threonine specific kinases; cell cycle-associated CDKs regulate cell cycle progression. Transcription-associated CDKs are key regulators of gene expression. PTMs of the PolII CTD coordinate transcription and RNA processing
+The \textbf{CTD} undergoes dynamic changes in phosphorylation and dephosphorylation during transcription. The CTD is a long unstructured domain consisting of \(Y_1S_2P_3T_4S_5P_6S_7\) tandem repeats. \textbf{Cyclin-dependent kinases} (CDKs) are serine/threonine specific kinases; cell cycle-associated CDKs regulate cell cycle progression. Transcription-associated CDKs are key regulators of gene expression. PTMs of the PolII CTD coordinate transcription and RNA processing.
 
 \begin{figure}
 \centering
 \includegraphics[width=0.5\textwidth]{../_resources/Screenshot_2022-09-22_at_22-09-19.png}
-\caption{Differential phosphorylation of RNA Pol II CTD during transcription.}
+\caption{Chou et al., Cancer Discovery, 2020}
 \label{fig:phCTD}
 \end{figure}
 
@@ -268,7 +283,7 @@ The differential phosphorylation of RNA Pol II CTD during transcription is repor
 \hypertarget{transcription-pausing-mechanism}{%
 \subsection{Transcription pausing mechanism}\label{transcription-pausing-mechanism}}
 
-\textbf{NELF} is recruited on PolII by \textbf{DSIF}, which contributes to pausing by forming 2 nucleic acid clamps. CDK9 with cyclin T, referred to as \textbf{P-TEFb} complex, enables pause-release leading to transcription elongation (Figure \ref{fig:dsif}) .
+\textbf{NELF} (negative elongation factor) is recruited on PolII by \textbf{DSIF} (DRB sensitivity inducing factor), which contributes to pausing by forming 2 nucleic acid clamps. CDK9 with cyclin T, referred to as \textbf{P-TEFb} complex, enables pause-release leading to transcription elongation (Figure \ref{fig:dsif}) .
 
 \begin{figure}
 \centering
@@ -353,8 +368,7 @@ The dimer H2A and H2B is completely exposed after the ``peeling'' of the first D
 \caption{Screenshot 2022-10-05 at 23.02.04.png}
 \end{figure}
 
-\hypertarget{summary-of-the-main-results}{%
-\subsubsection{Summary of the main results}\label{summary-of-the-main-results}}
+\textbf{Summary of the main results}
 
 \begin{itemize}
 \tightlist
